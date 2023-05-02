@@ -1,5 +1,4 @@
 import React from 'react'
-import courses from '../../data/courses/index.json'
 import CourseSearcher from '@/components/ui/form/CourseSearcher';
 
 const page = () => {
