@@ -32,6 +32,15 @@ const Header = () => {
             <li>
               <SimpleButton
                 asLink
+                href="https://eva.fing.edu.uy/"
+                target="_blank"
+              >
+                Eva
+              </SimpleButton>
+            </li>
+            <li>
+              <SimpleButton
+                asLink
                 href="https://github.com/sebas-pena/finger.uy"
                 target="_blank"
               >
