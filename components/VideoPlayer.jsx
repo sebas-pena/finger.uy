@@ -9,6 +9,7 @@ import Spinner from './icons/Spinner'
 const VideoPlayer = ({ src, muted }) => {
   const [isWaiting, setIsWaiting] = useState(false)
   const [isPlaying, setIsPlaying] = useState(false)
+  const [showControls, setShowControls] = useState(false)
   const [playbackRate, setPlaybackRate] = useState(1)
   const [durationSec, setDurationSec] = useState(0)
   const [elapsedSec, setElapsedSec] = useState(0)
@@ -20,6 +21,16 @@ const VideoPlayer = ({ src, muted }) => {
 
   useEffect(() => {
     if (videoRef.current) {
+      let showControlsTimeout = null;
+
+      const updateTimeOut = () => {
+        clearTimeout(showControlsTimeout)
+        setShowControls(true)
+        showControlsTimeout = setTimeout(() => {
+          setShowControls(false)
+        }, 3000)
+      }
+
       const onWaiting = () => {
         if (isPlaying) setIsPlaying(false)
         setIsWaiting(true)
@@ -28,11 +39,13 @@ const VideoPlayer = ({ src, muted }) => {
       const onPlay = () => {
         if (isWaiting) setIsWaiting(false)
         setIsPlaying(true)
+        updateTimeOut()
       }
 
       const onPause = () => {
         setIsPlaying(false)
         setIsWaiting(false)
+        updateTimeOut()
       }
 
       const element = videoRef.current
@@ -59,12 +72,17 @@ const VideoPlayer = ({ src, muted }) => {
         }
       }
 
+      const onMouseMove = (e) => {
+        updateTimeOut()
+      }
+
       element.addEventListener('progress', onProgress)
       element.addEventListener('timeupdate', onTimeUpdate)
       element.addEventListener('waiting', onWaiting)
       element.addEventListener('play', onPlay)
       element.addEventListener('playing', onPlay)
       element.addEventListener('pause', onPause)
+      element.addEventListener('mousemove', onMouseMove)
 
       return () => {
         element.removeEventListener('waiting', onWaiting)
@@ -73,6 +91,7 @@ const VideoPlayer = ({ src, muted }) => {
         element.removeEventListener('pause', onPause)
         element.removeEventListener('progress', onProgress)
         element.removeEventListener('timeupdate', onTimeUpdate)
+        element.removeEventListener('mousemove', onMouseMove)
       }
     }
   }, [videoRef])
@@ -95,10 +114,24 @@ const VideoPlayer = ({ src, muted }) => {
 
   const handleFullScreenClick = () => {
     if (ctnRef.current) {
-      ctnRef.current.requestFullscreen()
+
+      if (document.fullscreenElement) {
+        screen.orientation.unlock()
+        document.exitFullscreen()
+      } else {
+        if (ctnRef.current.requestFullscreen) {
+          ctnRef.current.requestFullscreen()
+        } else if (ctnRef.current.webkitRequestFullscreen) {
+          ctnRef.current.webkitRequestFullscreen()
+        } else if (ctnRef.current.msRequestFullscreen) {
+          ctnRef.current.msRequestFullscreen()
+        }
+        window.screen.orientation
+          .lock("landscape-primary")
+          .then(() => { }, () => { })
+      }
     }
   }
-
   const moveToTime = (e) => {
     const { left, width } = e.currentTarget.getBoundingClientRect()
     const clickedPos = (e.clientX - left) / width
@@ -120,10 +153,10 @@ const VideoPlayer = ({ src, muted }) => {
   const durationSecString = secondsToMinutes(durationSec)
   return (
     <div
-      className="relative cursor-pointer aspect-video bg-black group flex flex-col items-center w-full h-full overflow-hidden"
+      className="relative cursor-pointer aspect-video bg-black flex flex-col items-center w-full h-full overflow-hidden"
       ref={ctnRef}
     >
-      {isWaiting && <Spinner width={40} height={40} className="absolute bottom-1/2 right-1/2 translate-x-1/2 translate-y-1/2"/>}
+      {isWaiting && <Spinner width={40} height={40} className="absolute bottom-1/2 right-1/2 translate-x-1/2 translate-y-1/2" />}
       <video
         className="w-full md:h-full aspect-video"
         ref={videoRef}
@@ -136,14 +169,14 @@ const VideoPlayer = ({ src, muted }) => {
           })
         }
       </video>
-      <div onClick={moveToTime} className="absolute w-[calc(100%_-_16px)] opacity-0 group-hover:opacity-100 duration-100 py-2 rounded-full mx-2 left-0 bottom-8">
+      <div onClick={moveToTime} className={`absolute w-[calc(100%_-_16px)] ${showControls ? "opacity-100" : "opacity-0"} duration-100 py-2 rounded-full mx-2 left-0 bottom-8`}>
         <div className="relative w-full rounded-full overflow-hidden h-1 bg-gray-400" >
           <div className="absolute rounded-full h-1 z-30 bg-blue-500" ref={progressRef} />
           <div className="absolute rounded-full h-1 z-20 bg-gray-200" ref={bufferRef} />
         </div>
       </div>
       <div
-        className="opacity-0 group-hover:opacity-100 duration-100 absolute flex justify-between items-center w-full bottom-2 px-2"
+        className={`opacity-0 ${showControls ? "opacity-100" : "opacity-0"} duration-100 absolute flex justify-between items-center w-full bottom-2 px-2`}
       >
         <div className="inline-flex gap-2 items-center">
           <button
