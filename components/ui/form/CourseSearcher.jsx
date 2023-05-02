@@ -27,7 +27,7 @@ const CourseSearcher = () => {
   }, [search])
   return (
     <>
-      <form className="mb-6 w-full max-w-[500px] mt-4">
+      <form className="mb-6 w-full max-w-[500px] mt-4 px-4">
         <SearchInput
           name="search"
           placeholder="Ej: Fundamentos de Bases de Datos"
