@@ -1,0 +1,204 @@
+{
+  "classes": [
+    {
+      "title": "Presentación de Probabilidad. Combinatoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_01.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_01.mp4"
+      ]
+    },
+    {
+      "title": "Continuación de Combinatoria. Axiomas de Kolmogorov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_02.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades de las Probabilidades",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_03.mp4"
+      ]
+    },
+    {
+      "title": "Equiprobabilidad - Inicio de Probabilidad Condicional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_04.mp4"
+      ]
+    },
+    {
+      "title": "Probabilidad Condicional - Árboles - Independencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_05.mp4"
+      ]
+    },
+    {
+      "title": "Independencia - Ejemplos Contraintuitivos - Variable Aleatoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_06.mp4"
+      ]
+    },
+    {
+      "title": "Variable Aleatoria y Función de Distribución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_07.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Variables Discretas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_08.mp4"
+      ]
+    },
+    {
+      "title": "Hipergeométrica. Variables Absolutamente Continuas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_09.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Variables Absolutamente Continuas (Uniforme, Exponencial, y Normal)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_10.mp4"
+      ]
+    },
+    {
+      "title": "Distribución Conjunta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_11.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_11.mp4"
+      ]
+    },
+    {
+      "title": "Vectores Absolutamente Continuos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_12.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_12.mp4"
+      ]
+    },
+    {
+      "title": "Valor Esperado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_13.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_13.mp4"
+      ]
+    },
+    {
+      "title": "Varianza de una Variable Aleatoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_14.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_14.mp4"
+      ]
+    },
+    {
+      "title": "Desigualdad de Chebyshev y Variables IID",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_15.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_15.mp4"
+      ]
+    },
+    {
+      "title": "Covarianza, Modelos Lineales, Ley de los Grandes Números",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_16.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_16.mp4"
+      ]
+    },
+    {
+      "title": "Concepto de Estimación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_17.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_17.mp4"
+      ]
+    },
+    {
+      "title": "Método de los Momentos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_18.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_18.mp4"
+      ]
+    },
+    {
+      "title": "Máxima Verosimilitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_19.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_19.mp4"
+      ]
+    },
+    {
+      "title": "Verosimilitud, Teorema Central del Límite, Intervalo de Confianza (def)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_20.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_20.mp4"
+      ]
+    },
+    {
+      "title": "Intervalo de Confianza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_21.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_21.mp4"
+      ]
+    },
+    {
+      "title": "Interpretación del Intervalo de Confianza. Inicio de Pruebas de Hipótesis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_22.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_22.mp4"
+      ]
+    },
+    {
+      "title": "Potencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_23.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_23.mp4"
+      ]
+    },
+    {
+      "title": "p-valor y Distribución Empírica. Inicio de Bondad de Ajuste",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_24.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_24.mp4"
+      ]
+    },
+    {
+      "title": "Bonded de Ajuste: Kolmogorov, Smirnov, Lilliefors",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_25.webm",
+        "https://openfing-video.fing.edu.uy/media/pye-2022/pye-2022_25.mp4"
+      ]
+    }
+  ]
+}

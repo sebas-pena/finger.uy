@@ -1,0 +1,225 @@
+{
+  "classes": [
+    {
+      "title": "Conjuntos y funciones",
+      "externalLink": "https://www.youtube.com/embed/Pq7Pj1kLqsc?start=266",
+      "videos": null
+    },
+    {
+      "title": "Funciones",
+      "externalLink": "https://www.youtube.com/embed/qdJMLDd6IyU?start=340",
+      "videos": null
+    },
+    {
+      "title": "Principio de Inducción Completa",
+      "externalLink": "https://www.youtube.com/embed/Qfg2CAmNxsA",
+      "videos": null
+    },
+    {
+      "title": "Ejemplos de inducción completa y número real",
+      "externalLink": "https://www.youtube.com/embed/74YhbZI5vn8",
+      "videos": null
+    },
+    {
+      "title": "Número real",
+      "externalLink": "https://www.youtube.com/embed/Hr1QzzBl-uo",
+      "videos": null
+    },
+    {
+      "title": "Expresiones decimales. Axioma de Completitud",
+      "externalLink": "https://www.youtube.com/embed/jHpjiGef3aQ",
+      "videos": null
+    },
+    {
+      "title": "Supremos, Ínfimos y Axioma de Completitud",
+      "externalLink": "https://www.youtube.com/embed/MRQS7i6WCfA",
+      "videos": null
+    },
+    {
+      "title": "Propiedades de supremos e ínfimos",
+      "externalLink": "https://www.youtube.com/embed/7_rDtsRl-xE",
+      "videos": null
+    },
+    {
+      "title": "Propiedades de ínfimos y supremos. Más consecuencias del axioma de completitud",
+      "externalLink": "https://www.youtube.com/embed/Hk0zFU7ip4I",
+      "videos": null
+    },
+    {
+      "title": "Introducción a la Integral",
+      "externalLink": "https://www.youtube.com/embed/M1bkoRh9Dhk",
+      "videos": null
+    },
+    {
+      "title": "Integral de Riemann",
+      "externalLink": "https://www.youtube.com/embed/OefF-S88b0U",
+      "videos": null
+    },
+    {
+      "title": "Sumas inferiores y superiores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_12.webm",
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_12.mp4"
+      ]
+    },
+    {
+      "title": "Definición de la integral de Riemann",
+      "externalLink": "https://www.youtube.com/embed/c0MOXyJ-0H4",
+      "videos": null
+    },
+    {
+      "title": "Integral de funciones monótonas",
+      "externalLink": "https://www.youtube.com/embed/AHNb4FtDj70",
+      "videos": null
+    },
+    {
+      "title": "Integral de x^2",
+      "externalLink": "https://www.youtube.com/embed/EebThoyr_aE",
+      "videos": null
+    },
+    {
+      "title": "Propiedades de la integral e Integral indefinida",
+      "externalLink": "https://www.youtube.com/embed/aKoUNwAte8g",
+      "videos": null
+    },
+    {
+      "title": "Función Logaritmo",
+      "externalLink": "https://www.youtube.com/embed/aFlHxLrwYqM",
+      "videos": null
+    },
+    {
+      "title": "Definición de Límite",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_18.webm",
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_18.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos y no-ejemplos de límite",
+      "externalLink": "https://www.youtube.com/embed/4VY8sj94OXQ",
+      "videos": null
+    },
+    {
+      "title": "Álgebra de límites y equivalentes",
+      "externalLink": "https://www.youtube.com/embed/Jvc0Iuk8ypg",
+      "videos": null
+    },
+    {
+      "title": "Más propiedades del Límite",
+      "externalLink": "https://www.youtube.com/embed/U-jA5rIRJi8",
+      "videos": null
+    },
+    {
+      "title": "Límites Infinitos — 1",
+      "externalLink": "https://www.youtube.com/embed/HoX_Jq3x2ss",
+      "videos": null
+    },
+    {
+      "title": "Límites Infinitos — 2",
+      "externalLink": "https://www.youtube.com/embed/PVLuT8AGOXk",
+      "videos": null
+    },
+    {
+      "title": "Continuidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_24.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Bolzano",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_25.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de los valores intermedios y función inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_26.mp4"
+      ]
+    },
+    {
+      "title": "Función inversa y Teorema de Weierstrass",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_27.webm",
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_27.mp4"
+      ]
+    },
+    {
+      "title": "Demostración del Teorema de Weierstrass",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_28.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_29.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades de la derivada y Extremos relativos",
+      "externalLink": "https://www.youtube.com/embed/piAgr8l0zI4",
+      "videos": null
+    },
+    {
+      "title": "Derivadas, extremos y crecimiento",
+      "externalLink": "https://www.youtube.com/embed/29xlb9Qeza8",
+      "videos": null
+    },
+    {
+      "title": "Derivadas, crecimiento, concavidad y derivada de la inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdiv-2022/cdiv-2022_32.mp4"
+      ]
+    },
+    {
+      "title": "Derivada de la inversa y Regla de l'Hôpital",
+      "externalLink": "https://www.youtube.com/embed/ShpjZhf5IH0",
+      "videos": null
+    },
+    {
+      "title": "Teorema Fundamental del Cálculo",
+      "externalLink": "https://www.youtube.com/embed/2l1mXvY7ZY4",
+      "videos": null
+    },
+    {
+      "title": "Integración por Partes",
+      "externalLink": "https://www.youtube.com/embed/EgKE6ugtBpE",
+      "videos": null
+    },
+    {
+      "title": "Método de integración por sustitución",
+      "externalLink": "https://www.youtube.com/embed/-Fj5lfVamQc",
+      "videos": null
+    },
+    {
+      "title": "Fracciones Simples",
+      "externalLink": "https://www.youtube.com/embed/EBiI_FDwFlo",
+      "videos": null
+    },
+    {
+      "title": "Fracciones simples y Polinomios de Taylor",
+      "externalLink": "https://www.youtube.com/embed/up4_bz3rbEU",
+      "videos": null
+    },
+    {
+      "title": "Teorema de Taylor",
+      "externalLink": "https://www.youtube.com/embed/BbMKRuH19ZY",
+      "videos": null
+    },
+    {
+      "title": "Clasificación de Puntos Críticos",
+      "externalLink": "https://www.youtube.com/embed/-iaDcjqKL0c",
+      "videos": null
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "classes": [
+    {
+      "title": "1/03/2021, Presentacion del curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_01.mp4"
+      ]
+    },
+    {
+      "title": "1/03/2021, AO: Ancho de banda y ganancia finita 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_02.mp4"
+      ]
+    },
+    {
+      "title": "3/03/2021, AO: Ancho de banda y ganancia finita 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_03.mp4"
+      ]
+    },
+    {
+      "title": "8/03/2021, AO: Gananacia en modo común (Ac) y CMRR (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_04.mp4"
+      ]
+    },
+    {
+      "title": "10/03/2021, AO: Ac y CMRR (2) e ICMR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_05.mp4"
+      ]
+    },
+    {
+      "title": "15/03/2021, AO: No idealidades DC, Integrador, Excursión de Salida y SR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_06.mp4"
+      ]
+    },
+    {
+      "title": "17/03/2021, AO: Fin SR, Multivibradores (biestable, monoestable y astable)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_07.mp4"
+      ]
+    },
+    {
+      "title": "22/03/2021, D: Ec. Diodo de juntura. Conceptos básicos de semiconductores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_08.mp4"
+      ]
+    },
+    {
+      "title": "24/03/2021 1ra parte, D: Operación física diodos (circuito abierto e inverso)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_09.mp4"
+      ]
+    },
+    {
+      "title": "24/03/2021 2da parte, D: Operación física diodos (circuito abierto e inverso)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_10.mp4"
+      ]
+    },
+    {
+      "title": "05/04/2021, D: Capacidad de vaciamiento, Diodo en directo, capacidad de difusión, conmutación del diodo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_11.mp4"
+      ]
+    },
+    {
+      "title": "07/04/2021, D: Ej. Conmutación diodo (diodo rueda libre). Diodos especiales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_12.mp4"
+      ]
+    },
+    {
+      "title": "12/04/2021,T: Transistor nMOS introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_13.mp4"
+      ]
+    },
+    {
+      "title": "14/04/2021, T: Ecuaciones transistor nMOS y diagrama gráfico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_14.mp4"
+      ]
+    },
+    {
+      "title": "21/04/2021, T: Repaso, Símbolo nMOS y ejemplos de análisis de circuitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_15.mp4"
+      ]
+    },
+    {
+      "title": "26/04/2021, T: pMOS, inversor CMOS, ecs. referidas a la source, llave analógica CMOS",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_16.mp4"
+      ]
+    },
+    {
+      "title": "28/04/2021, T: Efectos de 2do orden y Descarga Electrostática",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_17.mp4"
+      ]
+    },
+    {
+      "title": "19/05/2021, T: Modelo de pequeña señal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_18.mp4"
+      ]
+    },
+    {
+      "title": "24/05/2021, T: Ejemplo de análisis con modelo de pequeña señal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_19.mp4"
+      ]
+    },
+    {
+      "title": "26/05/2021, T: Ejemplo pequeña señal: excursión, validez aproximación y caso pMOS",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_20.mp4"
+      ]
+    },
+    {
+      "title": "31/05/2021, T: Transistor BJT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_21.mp4"
+      ]
+    },
+    {
+      "title": "02/06/2021, T/CID: Comparación BJT - MOSFET, Características CIs digitales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_22.mp4"
+      ]
+    },
+    {
+      "title": "07/06/2021, CID: Inversor CMOS: característica estática y tiempo de propagación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_23.mp4"
+      ]
+    },
+    {
+      "title": "9/06/2021, CID: Consumo inversor CMOS y Estructura compuertas CMOS",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_24.mp4"
+      ]
+    },
+    {
+      "title": "14/06/2021, CID:Demostración flujo de diseño circuitos integrados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_25.mp4"
+      ]
+    },
+    {
+      "title": "16/06/2021, CID: Compuertas especiales, inversor TTL, actividades del Grupo de Microelectrónica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_26.mp4"
+      ]
+    },
+    {
+      "title": "21/06/2021, Resolución ejercicios de parcial (1ra parte)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_27.mp4"
+      ]
+    },
+    {
+      "title": "23/06/2021, Resolución ejercicios de parcial (2da parte) y recepción de sugerencias sobre el curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/elecfund/elecfund_28.mp4"
+      ]
+    }
+  ]
+}

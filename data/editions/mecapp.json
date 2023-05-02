@@ -1,0 +1,66 @@
+{
+  "classes": [
+    {
+      "title": "Práctico 1 y 2",
+      "externalLink": "https://www.youtube.com/embed/Z_Dv99qUNKk",
+      "videos": null
+    },
+    {
+      "title": "Práctico 3",
+      "externalLink": "https://www.youtube.com/embed/aTc66YavTv0",
+      "videos": null
+    },
+    {
+      "title": "Práctico 4",
+      "externalLink": "https://www.youtube.com/embed/FwK9x1KxwfY",
+      "videos": null
+    },
+    {
+      "title": "Práctico 5 y 6",
+      "externalLink": "https://www.youtube.com/embed/8A5OJCXx1nA",
+      "videos": null
+    },
+    {
+      "title": "Práctico 7",
+      "externalLink": "https://www.youtube.com/embed/nJN94CV5SZA",
+      "videos": null
+    },
+    {
+      "title": "Práctico 8",
+      "externalLink": "https://www.youtube.com/embed/hEGHrGzwxEk",
+      "videos": null
+    },
+    {
+      "title": "Repaso 1er Parcial",
+      "externalLink": "https://www.youtube.com/embed/tO2HxFRUHBw",
+      "videos": null
+    },
+    {
+      "title": "Práctico 9",
+      "externalLink": "https://www.youtube.com/embed/VjdRjh-onnA",
+      "videos": null
+    },
+    {
+      "title": "Práctico 10",
+      "externalLink": "https://www.youtube.com/embed/fZibz6O7LOA",
+      "videos": null
+    },
+    {
+      "title": "Práctico 11",
+      "externalLink": "https://www.youtube.com/embed/QNMIpGrBcEs",
+      "videos": null
+    },
+    {
+      "title": "Práctico 12",
+      "externalLink": "https://www.youtube.com/embed/PEJK7pAm3hE",
+      "videos": null
+    },
+    {
+      "title": "Práctico 13",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecapp/mecapp_12.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_01.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_02.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_03.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_04.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_05.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_06.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_07.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_08.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 9",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_09.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_10.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase 11",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_11.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase 12",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_12.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase 13",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_13.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_13.mp4"
+      ]
+    },
+    {
+      "title": "Clase 14",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_14.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_14.mp4"
+      ]
+    },
+    {
+      "title": "Gramática Libre de Contexto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_15.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_15.mp4"
+      ]
+    },
+    {
+      "title": "Clase 16",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_16.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_16.mp4"
+      ]
+    },
+    {
+      "title": "Clase 17",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_17.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_17.mp4"
+      ]
+    },
+    {
+      "title": "Simplificación de Gramáticas Libres de Contexto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_18.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_18.mp4"
+      ]
+    },
+    {
+      "title": "Normalización: FNC y FNG. Autómata Push-Down No Determinista",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_19.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_19.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos. APD Determinista. Equivalencia APD por Estado Final y APD por Stack Vacío",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_20.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_20.mp4"
+      ]
+    },
+    {
+      "title": "Clase 21",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_21.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_21.mp4"
+      ]
+    },
+    {
+      "title": "Clase 22",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_22.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_22.mp4"
+      ]
+    },
+    {
+      "title": "Clase 23",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_23.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_23.mp4"
+      ]
+    },
+    {
+      "title": "Clase 24",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_24.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_24.mp4"
+      ]
+    },
+    {
+      "title": "Clase 25",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tl/tl_25.webm",
+        "https://openfing-video.fing.edu.uy/media/tl/tl_25.mp4"
+      ]
+    }
+  ]
+}

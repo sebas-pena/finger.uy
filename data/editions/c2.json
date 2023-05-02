@@ -1,0 +1,276 @@
+{
+  "classes": [
+    {
+      "title": "Topología en Rn",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_01.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_01.mp4"
+      ]
+    },
+    {
+      "title": "Conjuntos cerrados, acotados, compactos, puntos de acumulación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_02.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_02.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_03.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_03.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones. Funciones de varias variables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_04.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_04.mp4"
+      ]
+    },
+    {
+      "title": "Límite, continuidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_05.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_05.mp4"
+      ]
+    },
+    {
+      "title": "Límites direccionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_06.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_06.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas parciales y direccionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_07.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_07.mp4"
+      ]
+    },
+    {
+      "title": "Diferenciabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_08.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_08.mp4"
+      ]
+    },
+    {
+      "title": "Gradiente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_09.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_09.mp4"
+      ]
+    },
+    {
+      "title": "Regla de la cadena",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_10.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_10.mp4"
+      ]
+    },
+    {
+      "title": "Regla de la cadena. Matriz Jacobiana",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_11.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_11.mp4"
+      ]
+    },
+    {
+      "title": "Condición suficiente de diferenciabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_12.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_12.mp4"
+      ]
+    },
+    {
+      "title": "Punto crítico, máximo local y punto silla. Matriz Hessiana.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_13.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_13.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo de Taylor de orden 2. Formas cuadráticas y matriz asociada.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_14.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_14.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Clairaut. Criterio de la Hessiana.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_15.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_15.mp4"
+      ]
+    },
+    {
+      "title": "Extremos absolutos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_16.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_16.mp4"
+      ]
+    },
+    {
+      "title": "Funciones convexas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_17.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_17.mp4"
+      ]
+    },
+    {
+      "title": "Función Implícita, Función Inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_18.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_18.mp4"
+      ]
+    },
+    {
+      "title": "Función Implícita",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_19.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_19.mp4"
+      ]
+    },
+    {
+      "title": "Función Inversa, Extremos Condicionados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_20.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_20.mp4"
+      ]
+    },
+    {
+      "title": "Extremos Condicionados (Multiplicadores de Lagrange)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_21.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_21.mp4"
+      ]
+    },
+    {
+      "title": "Extremos Condicionados (Multiplicadores de Lagrange)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_22.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_22.mp4"
+      ]
+    },
+    {
+      "title": "Integrales, Medida de Jordan",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_23.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_23.mp4"
+      ]
+    },
+    {
+      "title": "Integrales, Teorema de Fubini",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_24.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_24.mp4"
+      ]
+    },
+    {
+      "title": "Demostración Teorema de Fubini",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_25.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_25.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Variable en Integrales Dobles",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_26.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_26.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Variable en Integrales Dobles y Triples",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_27.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_27.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Variable en Integrales Triples",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_28.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_28.mp4"
+      ]
+    },
+    {
+      "title": "Integrales Impropias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_29.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_29.mp4"
+      ]
+    },
+    {
+      "title": "Integrales Impropias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_30.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_30.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Diferenciales de Variables Separables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_31.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_31.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad de Ecuaciones Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_32.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_32.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad de Ecuaciones Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_33.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_33.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad de Ecuaciones Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c2/c2_34.webm",
+        "https://openfing-video.fing.edu.uy/media/c2/c2_34.mp4"
+      ]
+    }
+  ]
+}

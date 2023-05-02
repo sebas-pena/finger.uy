@@ -1,0 +1,180 @@
+{
+  "classes": [
+    {
+      "title": "Inducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_01.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_01.mp4"
+      ]
+    },
+    {
+      "title": "Inducción. Recursión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_02.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_02.mp4"
+      ]
+    },
+    {
+      "title": "Esquema de Recursión Primitiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_03.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_04.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_05.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_05.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Proposicional - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_06.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_06.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Proposicional - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_07.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_07.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_08.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_08.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_09.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_09.mp4"
+      ]
+    },
+    {
+      "title": "Corrección y Completitud de la Lógica Proposicional - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_10.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_10.mp4"
+      ]
+    },
+    {
+      "title": "Corrección y Completitud de la Lógica Proposicional - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_11.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_11.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a Lógica de Predicados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_12.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_12.mp4"
+      ]
+    },
+    {
+      "title": "Sintaxis de Lógica de Predicados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_13.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_13.mp4"
+      ]
+    },
+    {
+      "title": "Semántica de la Lógica de Predicados - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_14.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_14.mp4"
+      ]
+    },
+    {
+      "title": "Semántica de la Lógica de Predicados - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_15.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_15.mp4"
+      ]
+    },
+    {
+      "title": "Semántica de la Lógica de Predicados - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_16.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_16.mp4"
+      ]
+    },
+    {
+      "title": "Semántica de la Lógica de Predicados - 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_17.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_17.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural Predicados - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_18.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_18.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural Predicados - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_19.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_19.mp4"
+      ]
+    },
+    {
+      "title": "Completitud en Predicados - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_20.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_20.mp4"
+      ]
+    },
+    {
+      "title": "Completitud en Predicados - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_21.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_21.mp4"
+      ]
+    },
+    {
+      "title": "Clase 22",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_22.webm",
+        "https://openfing-video.fing.edu.uy/media/logica19/logica19_22.mp4"
+      ]
+    }
+  ]
+}

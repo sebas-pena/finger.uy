@@ -1,0 +1,220 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_01.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_01.mp4"
+      ]
+    },
+    {
+      "title": "Errores Numéricos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_02.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_02.mp4"
+      ]
+    },
+    {
+      "title": "Extrapolación de Richardson",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_03.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_03.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad Numérica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_04.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_04.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_05.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_05.mp4"
+      ]
+    },
+    {
+      "title": "Métodos Directos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_06.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_06.mp4"
+      ]
+    },
+    {
+      "title": "Métodos Indirectos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_07.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_07.mp4"
+      ]
+    },
+    {
+      "title": "Convergencia de Métodos Iterativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_08.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_08.mp4"
+      ]
+    },
+    {
+      "title": "Aplicación de Jacobi y Gauss Seidel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_09.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_09.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones No Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_10.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_10.mp4"
+      ]
+    },
+    {
+      "title": "Método de Newton - Raphson",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_11.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_11.mp4"
+      ]
+    },
+    {
+      "title": "Aplicación: Redes Cooperativas en Internet",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_12.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_12.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas No Lineales. Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_13.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_13.mp4"
+      ]
+    },
+    {
+      "title": "Problema de Mínimos Cuadrados Lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_14.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_14.mp4"
+      ]
+    },
+    {
+      "title": "Problema de Mínimos Cuadrados No Lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_15.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_15.mp4"
+      ]
+    },
+    {
+      "title": "Interpolación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_16.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_16.mp4"
+      ]
+    },
+    {
+      "title": "Aplicación a Confiabilidad de Redes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_17.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_17.mp4"
+      ]
+    },
+    {
+      "title": "Interpolante de Hermite y Poligonales. Curvas de Bezier",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_18.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_18.mp4"
+      ]
+    },
+    {
+      "title": "EDO. Consistencia y Estabilidad Numérica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_19.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_19.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Euler y Trapecio. Región de Estabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_20.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_20.mp4"
+      ]
+    },
+    {
+      "title": "Método Predictor-Corrector",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_21.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_21.mp4"
+      ]
+    },
+    {
+      "title": "Modelo Epidémico SIR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_22.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_22.mp4"
+      ]
+    },
+    {
+      "title": "Método de Monte Carlo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_23.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_23.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Runge-Kutta y Multipaso. Orden de Consistencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_24.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_24.mp4"
+      ]
+    },
+    {
+      "title": "Examen Diciembre 2013 (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_25.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_25.mp4"
+      ]
+    },
+    {
+      "title": "Examen Diciembre 2013 (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_26.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_26.mp4"
+      ]
+    },
+    {
+      "title": "Integración Numérica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/metn/metn_27.webm",
+        "https://openfing-video.fing.edu.uy/media/metn/metn_27.mp4"
+      ]
+    }
+  ]
+}

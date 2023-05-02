@@ -1,0 +1,220 @@
+{
+  "classes": [
+    {
+      "title": "Presentación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_02.mp4"
+      ]
+    },
+    {
+      "title": "Criptografía Aplicada -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_03.mp4"
+      ]
+    },
+    {
+      "title": "Criptografía Aplicada -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_04.mp4"
+      ]
+    },
+    {
+      "title": "Criptografía Aplicada -3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_05.mp4"
+      ]
+    },
+    {
+      "title": "Identificación, Autenticación, Autorización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_06.mp4"
+      ]
+    },
+    {
+      "title": "HRU y Bell-LaPadula",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_07.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_07.mp4"
+      ]
+    },
+    {
+      "title": "Chinese Wall y RBAC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_08.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_08.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Bases de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_09.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_09.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_10.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_10.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos UNIX",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_11.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_11.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos Windows: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_12.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_12.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos Windows: Control de Acceso -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_13.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_13.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos Windows: Control de Acceso -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_14.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_14.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: Conceptos Básicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_15.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_15.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: Problemas de Seguridad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_16.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_16.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: IPsec",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_17.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_17.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: VPNs y VLANs",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_18.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_18.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: Firewalls",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_19.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_19.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Redes TCP/IP: Sensores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_20.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_20.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_21.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_21.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: Gestión de Riesgos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_22.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_22.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: Modelado de Amenazas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_23.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_23.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: Principios de Diseño Seguro",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_24.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_24.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: Autenticación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_25.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_25.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: Gestión de Sesiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_26.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_26.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Aplicaciones Web: OWASP Top Ten",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_27.webm",
+        "https://openfing-video.fing.edu.uy/media/fsi/fsi_27.mp4"
+      ]
+    }
+  ]
+}

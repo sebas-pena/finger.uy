@@ -1,0 +1,172 @@
+{
+  "classes": [
+    {
+      "title": "Introducción y Antecedentes Históricos: Experiencia de Michelson-Morley",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_01.mp4"
+      ]
+    },
+    {
+      "title": "Transformaciones de Lorentz, Cinemática Relativista y Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_02.mp4"
+      ]
+    },
+    {
+      "title": "Efecto Doppler Relativista. Diagrama de Minkowsky, Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_03.mp4"
+      ]
+    },
+    {
+      "title": "Dinámica Relativista: Dependencia de la Masa con la Velocidad y Ecuación del Movimiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_04.mp4"
+      ]
+    },
+    {
+      "title": "Energía y Cantidad de Movimiento Relativistas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_05.mp4"
+      ]
+    },
+    {
+      "title": "Teoría General de la Relatividad. Cuantización de la Carga: Experimento de Millikan. Aspectos Observados de la Radiación del Cuerpo Negro",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_06.mp4"
+      ]
+    },
+    {
+      "title": "Radiación del Cuerpo Negro: Teoría Clásica de Raleigh-Jeans y Teoría de Planck",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_07.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_07.mp4"
+      ]
+    },
+    {
+      "title": "Efecto Fotoeléctrico. Rayos X",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_08.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_08.mp4"
+      ]
+    },
+    {
+      "title": "Efecto Compton. Producción de Pares Electrón-Positrón. Espectros Atómicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_09.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_09.mp4"
+      ]
+    },
+    {
+      "title": "Modelos Atómicos de Rutherford y de Bohr. Longitud de Onda de De Broglie. Experimento de Davisson-Germer",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_10.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_10.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Schrödinger. Interpretación de Max Born de la Función de Onda. Aplicación al Caso del Pozo Cuadrado Infinito",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_11.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_11.mp4"
+      ]
+    },
+    {
+      "title": "Aplicación al Caso de la Partícula Libre. Operadores Energía y Cantidad de Movimiento. Cálculo de Valores Esperados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_12.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_12.mp4"
+      ]
+    },
+    {
+      "title": "Operador Densidad de Corriente de Probabilidad. Aplicación a la\nPartícula Libre. Potencial Escalón. Coeficientes de Reflexión y Transmisión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_13.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_13.mp4"
+      ]
+    },
+    {
+      "title": "Barrera de Potencial. Coeficientes de Reflexión y Transmisión. Pozo Cuadrado Finito: Estados con Energías Positivas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_14.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_14.mp4"
+      ]
+    },
+    {
+      "title": "Pozo Cuadrado Finito: Estados con Energías Negativas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_15.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_15.mp4"
+      ]
+    },
+    {
+      "title": "Modelo de Kronig-Penney. Aparición de Bandas en Materiales. Consecuencias sobre la\nConductibilidad Eléctrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_16.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_16.mp4"
+      ]
+    },
+    {
+      "title": "Modelo de Gas de Fermi. Densidad de Estados en las Bandas de Conducción y de Valencia. Probabilidad de Ocupación de Dichos Estados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_17.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_17.mp4"
+      ]
+    },
+    {
+      "title": "Metales y Aislantes. Semiconductores Intrínsecos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_18.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_18.mp4"
+      ]
+    },
+    {
+      "title": "Conductividad en Metales y Semiconductores Intrínsecos. Impurezas Donadoras y Aceptadoras",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_19.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_19.mp4"
+      ]
+    },
+    {
+      "title": "Ley de Acción de Masas. Conductividad en Conductores Extrínsecos. Juntura de Conductores Extrínsecos: Diodo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_20.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_20.mp4"
+      ]
+    },
+    {
+      "title": "Carga, Campo Eléctrico y Potencial en la Región de la Juntura. Diodos Zener y de Efecto Túnel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fm/fm_21.webm",
+        "https://openfing-video.fing.edu.uy/media/fm/fm_21.mp4"
+      ]
+    }
+  ]
+}

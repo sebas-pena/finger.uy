@@ -1,0 +1,20 @@
+{
+  "classes": [
+    {
+      "title": "Henry Segerman - Artistic Mathematics: Truth and Beauty",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_01.webm",
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_01.mp4"
+      ]
+    },
+    {
+      "title": "Aaron Montag - Rapid creation of GPU accelerated mathematical content",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_02.webm",
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_02.mp4"
+      ]
+    }
+  ]
+}

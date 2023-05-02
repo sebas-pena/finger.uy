@@ -1,0 +1,188 @@
+{
+  "classes": [
+    {
+      "title": "Introducción. Conceptos Generales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_01.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_02.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_03.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_04.mp4"
+      ]
+    },
+    {
+      "title": "Calidad de Esquemas Conceptuales y Estructuras del Modelo Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_05.mp4"
+      ]
+    },
+    {
+      "title": "Lenguajes de Consulta - Cálculo Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_06.mp4"
+      ]
+    },
+    {
+      "title": "Lenguajes de Consulta - Cálculo Relacional - Seguridad, Dominios y Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_07.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_07.mp4"
+      ]
+    },
+    {
+      "title": "Lenguajes de Consulta - SQL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_08.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_08.mp4"
+      ]
+    },
+    {
+      "title": "Algebra Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_09.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_09.mp4"
+      ]
+    },
+    {
+      "title": "Pasaje de MER a Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_10.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_10.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Relacional - Dependencias Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_11.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_11.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Relacional - Dependencias Funcionales. Normalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_12.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_12.mp4"
+      ]
+    },
+    {
+      "title": "Normalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_13.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_13.mp4"
+      ]
+    },
+    {
+      "title": "Normalización, 3 NF",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_14.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_14.mp4"
+      ]
+    },
+    {
+      "title": "Normalización, BCNF",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_15.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_15.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de 3 NF y cálculo de claves",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_16.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_16.mp4"
+      ]
+    },
+    {
+      "title": "Multivaluadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_17.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_17.mp4"
+      ]
+    },
+    {
+      "title": "Multivaluada Embebida. Estrategias de los DBMS y Acceso a Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_18.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_18.mp4"
+      ]
+    },
+    {
+      "title": "Procesamiento y Optimización de Consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_19.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_19.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Optimización de Consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_20.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_20.mp4"
+      ]
+    },
+    {
+      "title": "Control de Concurrencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_21.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_21.mp4"
+      ]
+    },
+    {
+      "title": "Control de Concurrencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_22.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_22.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Concurrencia - Recuperación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_23.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd/fbd_23.mp4"
+      ]
+    }
+  ]
+}

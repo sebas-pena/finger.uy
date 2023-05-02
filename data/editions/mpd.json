@@ -1,0 +1,164 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso. Señales en Tiempo Discreto.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_01.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_01.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas Lineales Invariantes en el Tiempo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_03.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_03.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones en Diferencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_04.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_04.mp4"
+      ]
+    },
+    {
+      "title": "Solución de Ecuaciones en Diferencias. Respuesta Frecuencial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_05.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_05.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Fourier",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_06.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_06.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_07.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_07.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo: Ejemplos, Filtrado Antialias, Reconstrucción Ideal y Consideraciones Prácticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_08.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_08.mp4"
+      ]
+    },
+    {
+      "title": "Procesamiento Digital de Señales en Tiempo Continuo. Cambio de Frecuencia de Muestreo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_09.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_09.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Frecuencia de Muestreo (segunda parte). Transformada Z",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_10.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_10.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z: Región de Convergencia, Propiedades, Inversión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_11.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_11.mp4"
+      ]
+    },
+    {
+      "title": "Respuesta Frecuencial. Linealidad de Fase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_12.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_12.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Filtros FIR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_13.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_13.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Filtros IIR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_14.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_14.mp4"
+      ]
+    },
+    {
+      "title": "Procesos Estocásticos (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_15.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_15.mp4"
+      ]
+    },
+    {
+      "title": "Procesos Estocásticos (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_16.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_16.mp4"
+      ]
+    },
+    {
+      "title": "Procesos Estocásticos (parte 3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_17.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_17.mp4"
+      ]
+    },
+    {
+      "title": "Cuantización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_18.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_18.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Filtros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_19.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_19.mp4"
+      ]
+    },
+    {
+      "title": "Error de Redondeo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_20.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_20.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Discreta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_21.webm",
+        "https://openfing-video.fing.edu.uy/media/mpd/mpd_21.mp4"
+      ]
+    }
+  ]
+}

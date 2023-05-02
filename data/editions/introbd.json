@@ -1,0 +1,95 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción (continuación)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelo conceptual, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_05.mp4"
+      ]
+    },
+    {
+      "title": "Modelo conceptual, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_06.mp4"
+      ]
+    },
+    {
+      "title": "Modelo conceptual, parte 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_07.mp4"
+      ]
+    },
+    {
+      "title": "Modelo conceptual, parte 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_08.mp4"
+      ]
+    },
+    {
+      "title": "Modelo conceptual, parte 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_09.mp4"
+      ]
+    },
+    {
+      "title": "Modelo relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_10.mp4"
+      ]
+    },
+    {
+      "title": "SQL - parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_11.mp4"
+      ]
+    },
+    {
+      "title": "SQL - parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_12.mp4"
+      ]
+    },
+    {
+      "title": "SQL - parte 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_13.mp4"
+      ]
+    },
+    {
+      "title": "Pasaje MER-MR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_14.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio de pasaje MER-MR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/introbd/introbd_15.mp4"
+      ]
+    }
+  ]
+}

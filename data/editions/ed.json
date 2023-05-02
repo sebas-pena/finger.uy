@@ -1,0 +1,204 @@
+{
+  "classes": [
+    {
+      "title": "Repaso: Variables Separables y Ecuaciones Lineales en R",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_01.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Lineales: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_02.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Lineales: Exponencial de una Matriz",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_03.mp4"
+      ]
+    },
+    {
+      "title": "Cambios de Variable Lineales y Diagramas de Fase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_04.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad de Sistemas Lineales. Algunos Diagramas de Fase en R³",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_05.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Jordan. Convergencia Uniforme y Convergencia Puntual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_06.mp4"
+      ]
+    },
+    {
+      "title": "Convergencia Uniforme y Continuidad. Espacios Métricos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_07.mp4"
+      ]
+    },
+    {
+      "title": "Completitud de Espacios de Funciones. Teorema de Punto Fijo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_08.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Picard",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_09.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_09.mp4"
+      ]
+    },
+    {
+      "title": "Soluciones Maximales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_10.mp4"
+      ]
+    },
+    {
+      "title": "Escape de Compactos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_11.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad Respecto a las Condiciones Iniciales. Ecuaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_12.mp4"
+      ]
+    },
+    {
+      "title": "Flujo, Estabilidad y Funciones de Lyapunov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_13.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_13.mp4"
+      ]
+    },
+    {
+      "title": "Teoremas de Lyapunov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_14.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_14.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Lyapunov 2 y Cómo Encontrar Funciones de Lyapunov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_15.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_15.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Cetaev. Teorema de Hartman (Linealización)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_16.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_16.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_17.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_17.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier: Definición, Bessel, Parseval y Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_18.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_18.mp4"
+      ]
+    },
+    {
+      "title": "Resultados de Convergencia de Series de Fourier",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_19.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_19.mp4"
+      ]
+    },
+    {
+      "title": "EDPs: Ecuación del Calor. Método de Fourier",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_20.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_20.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo Ecuación del Calor. Ecuación de Ondas Método de Fourier (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_21.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_21.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Ondas Método de Fourier (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_22.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_22.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Ondas: Unicidad y Método de Propagación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_23.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_23.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Ondas: Intepretación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_24.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_24.mp4"
+      ]
+    },
+    {
+      "title": "Taller Ecuaciones Diferenciales 23-8-17",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed/ed_25.webm",
+        "https://openfing-video.fing.edu.uy/media/ed/ed_25.mp4"
+      ]
+    }
+  ]
+}

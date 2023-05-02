@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso. Emparejamiento Estable",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_01.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_01.mp4"
+      ]
+    },
+    {
+      "title": "Emparejamiento Estable. Gale-Shapley",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_02.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_02.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Complejidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_03.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_03.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Complejidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_04.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_04.mp4"
+      ]
+    },
+    {
+      "title": "Grafos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_05.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_05.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos sobre Grafos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_06.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_06.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos sobre Grafos Dirigidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_07.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_07.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos Ávidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_08.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_08.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos Ávidos. Planificación y Listas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_09.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_09.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo de Dijkstra. Árboles de Cubrimiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_10.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_10.mp4"
+      ]
+    },
+    {
+      "title": "Árbol de Cubrimiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_11.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_11.mp4"
+      ]
+    },
+    {
+      "title": "Divide y Vencerás",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_12.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_12.mp4"
+      ]
+    },
+    {
+      "title": "Divide y Vencerás",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_13.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_13.mp4"
+      ]
+    },
+    {
+      "title": "Divide y Vencerás",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_14.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_14.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos Aleatorizados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_15.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_15.mp4"
+      ]
+    },
+    {
+      "title": "Complejidad de Algoritmos de Ordenamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_16.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_16.mp4"
+      ]
+    },
+    {
+      "title": "Programación Dinámica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_17.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_17.mp4"
+      ]
+    },
+    {
+      "title": "Programación Dinámica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_18.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_18.mp4"
+      ]
+    },
+    {
+      "title": "Programación Dinámica. Alineamiento de Secuencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_19.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_19.mp4"
+      ]
+    },
+    {
+      "title": "Programación Dinámica. Alineamiento de Secuencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_20.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_20.mp4"
+      ]
+    },
+    {
+      "title": "Flujo Máximo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_21.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_21.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo de Ford-Fulkerson",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_22.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_22.mp4"
+      ]
+    },
+    {
+      "title": "Ford-Fulkerson en Diferentes Escalas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_23.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_23.mp4"
+      ]
+    },
+    {
+      "title": "Reducción de Algoritmos Polinómicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_24.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_24.mp4"
+      ]
+    },
+    {
+      "title": "Clases de Complejidad NP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_25.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_25.mp4"
+      ]
+    },
+    {
+      "title": "Problemas NP Completos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_26.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_26.mp4"
+      ]
+    },
+    {
+      "title": "Casos Particulares de Problemas Intratables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_27.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_27.mp4"
+      ]
+    },
+    {
+      "title": "Problema de Balance de Carga",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_28.webm",
+        "https://openfing-video.fing.edu.uy/media/prog3-2018/prog3-2018_28.mp4"
+      ]
+    }
+  ]
+}

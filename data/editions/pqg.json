@@ -1,0 +1,108 @@
+{
+  "classes": [
+    {
+      "title": "Estructura Atómica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_01.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_01.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades Periódicas y Enlace Iónico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_02.mp4"
+      ]
+    },
+    {
+      "title": "Enlace Covalente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_03.mp4"
+      ]
+    },
+    {
+      "title": "Enlace Metálico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_04.mp4"
+      ]
+    },
+    {
+      "title": "Consecuencias del Enlace y Estructura",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_05.mp4"
+      ]
+    },
+    {
+      "title": "Reacciones Químicas. Estequiometría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_06.mp4"
+      ]
+    },
+    {
+      "title": "Soluciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_07.mp4"
+      ]
+    },
+    {
+      "title": "Equilibrio Químico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_08.mp4"
+      ]
+    },
+    {
+      "title": "Equilibrio Químico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_09.mp4"
+      ]
+    },
+    {
+      "title": "Termoquímica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_10.mp4"
+      ]
+    },
+    {
+      "title": "Termodinámica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_11.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_11.mp4"
+      ]
+    },
+    {
+      "title": "Igualar Reacciones Redox",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_12.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_12.mp4"
+      ]
+    },
+    {
+      "title": "Electroquímica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_13.webm",
+        "https://openfing-video.fing.edu.uy/media/pqg/pqg_13.mp4"
+      ]
+    }
+  ]
+}

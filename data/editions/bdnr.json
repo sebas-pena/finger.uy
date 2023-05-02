@@ -1,0 +1,53 @@
+{
+  "classes": [
+    {
+      "title": "Introcucción. Criterios de comparación para sistemas de gestión de bases de datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_01.mp4"
+      ]
+    },
+    {
+      "title": "(2021) Bases de datos de grafos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_04.mp4"
+      ]
+    },
+    {
+      "title": "Diseño en bases de datos de grafos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_05.mp4"
+      ]
+    },
+    {
+      "title": "Consultas en bases de datos de grafos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_06.mp4"
+      ]
+    },
+    {
+      "title": "El movimiento NoSQL y las key-value stores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_07.mp4"
+      ]
+    },
+    {
+      "title": "Big Data y el ecosistema Hadoop",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_08.mp4"
+      ]
+    },
+    {
+      "title": "Bases de datos en memoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/bdnr/bdnr_09.mp4"
+      ]
+    }
+  ]
+}

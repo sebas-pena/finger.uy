@@ -1,0 +1,76 @@
+{
+  "classes": [
+    {
+      "title": "Introducción General a C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_02.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos: Funciones, Instrucciones de Control del Flujo del Programa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_03.mp4"
+      ]
+    },
+    {
+      "title": "Funciones, Estructura del Programa, Modularización y Preprocesador",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 9",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pie/pie_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pie/pie_10.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1: Presentación - Repaso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2: Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3: Matriz Inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4: Sistemas de ecuaciones - Espacio R^n",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5: Recta y plano - recuperación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6: Producto escalar y vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7: espacios vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8: revisión parcial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 9: números complejos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10: fracciones simples",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase 11: funciones en varias variables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase 12: Examen agosto 2019",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase 13: Transformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_13.mp4"
+      ]
+    },
+    {
+      "title": "Clase 14: Transformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2p/mat2p_14.mp4"
+      ]
+    }
+  ]
+}

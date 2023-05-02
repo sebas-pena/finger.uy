@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del Curso. Análisis Dimensional y Vectores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_01.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_01.mp4"
+      ]
+    },
+    {
+      "title": "Cinemática Unidimensional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_02.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_02.mp4"
+      ]
+    },
+    {
+      "title": "Integración, Derivación y Ejemplos de Cinemática",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_03.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_03.mp4"
+      ]
+    },
+    {
+      "title": "Cinemática en Varias Dimensiones. Proyectiles",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_04.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_04.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento Circular e Introducción a Movimiento Relativo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_05.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_05.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Referencia. Leyes de Newton",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_06.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_06.mp4"
+      ]
+    },
+    {
+      "title": "Dinámica y Ejemplos de Fuerza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_07.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_07.mp4"
+      ]
+    },
+    {
+      "title": "Dinámica y Ejemplos de Fuerzas: Tensión y Elástica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_08.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_08.mp4"
+      ]
+    },
+    {
+      "title": "Fuerza de Fricción. Trabajo en una Partícula",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_09.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_09.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Trabajo Y Energía. Ejemplos y Fuerza Conservativa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_10.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_10.mp4"
+      ]
+    },
+    {
+      "title": "Fuerzas Conservativas. Ley de Conservación. Energía Potencial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_11.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_11.mp4"
+      ]
+    },
+    {
+      "title": "Sistema de Partículas y Centro de Masa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_12.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_12.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento del Centro de Masa. Cantidad de Movimiento de un Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_13.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_13.mp4"
+      ]
+    },
+    {
+      "title": "Colisiones. Choque Elástico e Inelástico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_14.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_14.mp4"
+      ]
+    },
+    {
+      "title": "Repaso y Ejercicios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_15.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_15.mp4"
+      ]
+    },
+    {
+      "title": "Estática de Cuerpos Rígidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_16.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_16.mp4"
+      ]
+    },
+    {
+      "title": "Equilibrio. Cinemática de la Rotación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_17.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_17.mp4"
+      ]
+    },
+    {
+      "title": "Cinemática de Rotación del Cuerpo Rígido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_18.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_18.mp4"
+      ]
+    },
+    {
+      "title": "Energía de Rotación y Momento de Inercia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_19.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_19.mp4"
+      ]
+    },
+    {
+      "title": "Dinámica de la Rotación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_20.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_20.mp4"
+      ]
+    },
+    {
+      "title": "Rodadura sin Deslizar. Energía de Rotación y Traslación. Momento Angular para Partículas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_21.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_21.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Rodadura con y sin Deslizamiento. Momento Angular de un Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_22.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_22.mp4"
+      ]
+    },
+    {
+      "title": "Conservación del Momento Angular",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_23.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_23.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos Avanzados de Momento Angular",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_24.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_24.mp4"
+      ]
+    },
+    {
+      "title": "Oscilaciones. Sistema masa-resorte. Oscilador Armónico Simple",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_25.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_25.mp4"
+      ]
+    },
+    {
+      "title": "Oscilaciones Armónicas. Ejemplos y Discusión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_26.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_26.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos Avanzados de Oscilaciones. Oscilaciones Amortiguadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_27.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_27.mp4"
+      ]
+    },
+    {
+      "title": "Oscilaciones Amortiguadas/Forzadas. Animaciones Sencillas en Scratch",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_28.webm",
+        "https://openfing-video.fing.edu.uy/media/f1-2018/f1-2018_28.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "classes": [
+    {
+      "title": "Introducción: Contexto de la Industria de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_02.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_02.mp4"
+      ]
+    },
+    {
+      "title": "Introducción: Desarrollo Profesional de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_03.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_03.mp4"
+      ]
+    },
+    {
+      "title": "Introducción: Ingeniería de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_04.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_04.mp4"
+      ]
+    },
+    {
+      "title": "Introducción: Diversidad en la Ingeniería de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_05.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_05.mp4"
+      ]
+    },
+    {
+      "title": "Introducción: Ética en la Ingeniería de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_06.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_06.mp4"
+      ]
+    },
+    {
+      "title": "Procesos de Software: Modelos de Proceso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_07.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_07.mp4"
+      ]
+    },
+    {
+      "title": "Procesos de Software: Actividades del Proceso de Desarrollo de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_08.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_08.mp4"
+      ]
+    },
+    {
+      "title": "Procesos de Software: Hacer Frente al Cambio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_09.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_09.mp4"
+      ]
+    },
+    {
+      "title": "Procesos de Software: Mejoras de Procesos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_10.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_10.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo de Software Ágil",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_11.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_11.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Introducción a Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_12.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_12.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Abstracción e Involucrados en los Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_13.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_13.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Requisitos Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_14.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_14.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Requisitos No Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_15.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_15.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Problemas en los Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_16.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_16.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Procesos en la Ingeniería de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_17.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_17.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Obtención de Requisitos - Parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_18.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_18.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Técnica de Obtención de Requisitos en Detalle: Prototipado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_19.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_19.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Obtención de Requisitos - Parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_20.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_20.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Técnica de Obtención de Requisitos en Detalle: Casos de Uso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_21.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_21.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Análisis de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_22.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_22.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Especificación de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_23.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_23.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Ingeniería de Requisitos en Procesos Ágiles",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_24.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_24.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Modelado del Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_25.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_25.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Documento de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_26.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_26.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Priorización de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_27.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_27.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Validación de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_28.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_28.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de Requisitos: Gestión de Requisitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_29.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_29.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Principios del Diseño de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_30.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_30.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Arquitectura de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_31.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_31.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Patrones Arquitectónicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_32.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_32.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Arquitecturas de Aplicación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_33.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_33.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Vistas Arquitectónicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_34.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_34.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Ingeniería de Software Basada en Componentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_35.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_35.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Software: Ingeniería de Software Distribuido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_36.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_36.mp4"
+      ]
+    },
+    {
+      "title": "Construcción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_37.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_37.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Terminología y Conceptos Básicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_38.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_38.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: en el Ciclo de Vida del Software. Modelo en V y Niveles de Prueba",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_39.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_39.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Pruebas de Componentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_40.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_40.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Pruebas de Integración",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_41.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_41.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Pruebas de Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_42.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_42.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Pruebas de Nuevas Versiones del Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_43.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_43.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Tipos de Pruebas y Técnicas de Generación de Casos de Prueba",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_44.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_44.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Generación de Casos de Prueba a Partir de Casos de Uso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_45.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_45.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Técnicas de Caja Blanca",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_46.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_46.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Técnicas Basadas en la Experiencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_47.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_47.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Comparación de Técnicas de Pruebas y Pruebas no Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_48.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_48.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y Validación: Gestión de las Pruebas (Test Management)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_49.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_49.mp4"
+      ]
+    },
+    {
+      "title": "Liberación del Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_50.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_50.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_51.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_51.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Procesos de Evolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_52.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_52.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Cambios Urgentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_53.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_53.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Métodos Ágiles y Evolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_54.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_54.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Sistemas Heredados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_55.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_55.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Mantenimiento de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_56.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_56.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Reingeniería",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_57.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_57.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Refactorización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_58.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_58.mp4"
+      ]
+    },
+    {
+      "title": "Evolución de Software: Bad Smells",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_59.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_59.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Fundamentos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_60.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_60.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Gestión de Versiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_61.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_61.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Armado del Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_62.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_62.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Gestión de Cambios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_63.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_63.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Gestión de Liberaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_64.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_64.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de la Configuración del Software: Identificación, Alcance, Formalismo y Ambientes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_65.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_65.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_66.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_66.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Planificación - Alcance - EDT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_67.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_67.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Planificación. Definir Actividades",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_68.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_68.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Estimaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_69.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_69.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Planificación. Camino Crítico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_70.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_70.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Planificación. Cronograma",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_71.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_71.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Riesgos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_72.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_72.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Seguimiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_73.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_73.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Equipo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_74.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_74.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos: Desarrollo Ágil",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_75.webm",
+        "https://openfing-video.fing.edu.uy/media/iis19/iis19_75.mp4"
+      ]
+    }
+  ]
+}

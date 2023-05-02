@@ -1,0 +1,81 @@
+{
+  "classes": [
+    {
+      "title": "Práctico 1 (Convexidad) y Práctico 2(KKT)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_01.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 (Relajación y Dualidad)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_02.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 (Programación Lineal - Simplex)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_03.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 (Programación Lineal - Simplex fase 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_04.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 (Flujo Máximo - Ford-Fulkerson)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 (Camino Crítico)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_06.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5 (CM Tiempo Discreto)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5 (CM Tiempo Discreto: Clasificación de estados y Vector de",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_08.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5 (CM Tiempo Discreto: Distribución Estacionaria y Distribución Límite)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_09.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 6 (CM Tiempo Continuo)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_10.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 6 (Filas de Espera)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiop/iiop_11.mp4"
+      ]
+    }
+  ]
+}

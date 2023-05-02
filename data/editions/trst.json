@@ -1,0 +1,179 @@
+{
+  "classes": [
+    {
+      "title": "Introducción e Historia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_01.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_02.mp4"
+      ]
+    },
+    {
+      "title": "Codificación - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_03.mp4"
+      ]
+    },
+    {
+      "title": "Codificación - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_04.mp4"
+      ]
+    },
+    {
+      "title": "Paquetización Multimedia sobre IP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_05.mp4"
+      ]
+    },
+    {
+      "title": "Señalización - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_07.mp4"
+      ]
+    },
+    {
+      "title": "Señalización - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_08.mp4"
+      ]
+    },
+    {
+      "title": "Señalización - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_09.mp4"
+      ]
+    },
+    {
+      "title": "Señalización - 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_10.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_11.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_12.mp4"
+      ]
+    },
+    {
+      "title": "Conmutación - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_13.mp4"
+      ]
+    },
+    {
+      "title": "Conmutación - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_14.mp4"
+      ]
+    },
+    {
+      "title": "Transmisión - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_15.mp4"
+      ]
+    },
+    {
+      "title": "Transmisión - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_16.mp4"
+      ]
+    },
+    {
+      "title": "Sincronismo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_17.mp4"
+      ]
+    },
+    {
+      "title": "Redes Fijas - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_18.mp4"
+      ]
+    },
+    {
+      "title": "Redes Fijas - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_19.mp4"
+      ]
+    },
+    {
+      "title": "Núcleo de Redes Móviles - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_20.mp4"
+      ]
+    },
+    {
+      "title": "Núcleo de Redes Móviles - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_21.mp4"
+      ]
+    },
+    {
+      "title": "Tráfico - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_22.mp4"
+      ]
+    },
+    {
+      "title": "Tráfico - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_23.mp4"
+      ]
+    },
+    {
+      "title": "Tráfico - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_24.mp4"
+      ]
+    },
+    {
+      "title": "QoE - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_25.mp4"
+      ]
+    },
+    {
+      "title": "QoE - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/trst/trst_26.mp4"
+      ]
+    }
+  ]
+}

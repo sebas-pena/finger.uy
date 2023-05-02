@@ -1,0 +1,74 @@
+{
+  "classes": [
+    {
+      "title": "Presentación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_01.mp4"
+      ]
+    },
+    {
+      "title": "Investigación de Operaciones, Modelado y Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_04.mp4"
+      ]
+    },
+    {
+      "title": "Programación Lineal y Programación Lineal Entera Mixta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_05.mp4"
+      ]
+    },
+    {
+      "title": "Programación NLP/MINLP. Métodos No Determinísticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_06.mp4"
+      ]
+    },
+    {
+      "title": "Gestión Logística",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_07.mp4"
+      ]
+    },
+    {
+      "title": "Control y Gestión de Calidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_09.mp4"
+      ]
+    },
+    {
+      "title": "Planificación y programación de procesos y operaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_10.mp4"
+      ]
+    },
+    {
+      "title": "Técnicas y Herramientas para el Análisis de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_11.mp4"
+      ]
+    },
+    {
+      "title": "Intralogística, Automatización Operaciones, Robótica Aplicada",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_12.mp4"
+      ]
+    },
+    {
+      "title": "Divulgación Proyecto de Grado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiprod/iiprod_13.mp4"
+      ]
+    }
+  ]
+}

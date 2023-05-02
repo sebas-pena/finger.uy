@@ -1,0 +1,180 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al PLN. Detalles del Curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_01.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos de Gramática del Español",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_02.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_02.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos de Gramática del Español",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_03.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_03.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos de Gramática del Español",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_04.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_04.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Libres de Contexto (GLC)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_05.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Libres de Contexto (GLC). Parsing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_06.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_06.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Libres de Contexto (GLC). Parsing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_07.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_07.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Libres de Contexto Probabilísticas (GLCP)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_08.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_08.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Libres de Contexto Probabilísticas (GLCP)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_09.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_09.mp4"
+      ]
+    },
+    {
+      "title": "X Barra",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_10.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_10.mp4"
+      ]
+    },
+    {
+      "title": "X Barra. HPSG (Jerarquía y Concordancia)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_11.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_11.mp4"
+      ]
+    },
+    {
+      "title": "HPSG (Valencia)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_12.mp4"
+      ]
+    },
+    {
+      "title": "HPSG (Reglas y Principios)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_13.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_13.mp4"
+      ]
+    },
+    {
+      "title": "HPSG (Semántica)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_14.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_14.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas de Dependencias (Introducción)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_15.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_15.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas de Dependencias (Ejemplos Avanzados, Parsing)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_16.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_16.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas de Dependencias (Parsing)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_17.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_17.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas de Dependencias (Aprendizaje Basado en Historia)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_18.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_18.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Categoriales (Sistema AB)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_19.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_19.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Categoriales Combinatorias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_20.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_20.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Categoriales Combinatorias (Parsing)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_21.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_21.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Categoriales Combinatorias (Parsing)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gf/gf_22.webm",
+        "https://openfing-video.fing.edu.uy/media/gf/gf_22.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "classes": [
+    {
+      "title": "Presentación Curso 2022",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_01.mp4"
+      ]
+    },
+    {
+      "title": "Tema 1 - Introducción - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_02.mp4"
+      ]
+    },
+    {
+      "title": "Tema 2 - Modelo de Procesos - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_03.mp4"
+      ]
+    },
+    {
+      "title": "Tema 2 - Modelo de Procesos - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_04.mp4"
+      ]
+    },
+    {
+      "title": "Tema 3 - Ingeniería de Requisitos - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_05.mp4"
+      ]
+    },
+    {
+      "title": "Tema 3 - Ingeniería de Requisitos - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_06.mp4"
+      ]
+    },
+    {
+      "title": "Tema 3 - Ingeniería de Requisitos - Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_07.mp4"
+      ]
+    },
+    {
+      "title": "Tema 4 - Arquitectura y Diseño de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_08.mp4"
+      ]
+    },
+    {
+      "title": "Tema 5 - Pruebas de Software - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_09.mp4"
+      ]
+    },
+    {
+      "title": "Tema 5 - Pruebas de Software - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_10.mp4"
+      ]
+    },
+    {
+      "title": "Tema 5 - Pruebas de Software - Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_11.mp4"
+      ]
+    },
+    {
+      "title": "Tema 6 - Liberación y Evolución de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_12.mp4"
+      ]
+    },
+    {
+      "title": "Tema 7 - Gestión y Planificación de Proyectos de Software - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_13.mp4"
+      ]
+    },
+    {
+      "title": "Tema 7 - Gestión y Planificación de Proyectos de Software - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_14.mp4"
+      ]
+    },
+    {
+      "title": "Tema 7 - Gestión y Planificación de Proyectos de Software - Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_15.mp4"
+      ]
+    },
+    {
+      "title": "Tema 8 - Gestión de Calidad y Configuración de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_16.mp4"
+      ]
+    },
+    {
+      "title": "Tema 9 - Gestión de Configuración de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fiso/fiso_17.mp4"
+      ]
+    }
+  ]
+}

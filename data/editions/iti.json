@@ -1,0 +1,199 @@
+{
+  "classes": [
+    {
+      "title": "¿Qué es la teoría de la información?",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_01.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_01.mp4"
+      ]
+    },
+    {
+      "title": "Presentación del Curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_02.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_02.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos básicos 1",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/iti/iti_03.mp4",
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_02.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_03.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos básicos 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_04.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos básicos 3: Desigualdad LogSum y Cadenas de Markov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_05.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicios de práctico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_06.mp4"
+      ]
+    },
+    {
+      "title": "Charla sobre Procesos Estocásticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_07.mp4",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_04.webm"
+      ]
+    },
+    {
+      "title": "Ejemplo de Cadena de Markov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_08.mp4",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_05.webm"
+      ]
+    },
+    {
+      "title": "Charla sobre Tasa de Entropía",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_03.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_09.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Fuentes - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_04.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_10.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Fuentes - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_11.mp4",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_11.webm"
+      ]
+    },
+    {
+      "title": "Codificación de Fuentes - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_12.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Fuentes - 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_13.mp4"
+      ]
+    },
+    {
+      "title": "Propiedad de Equipartición Asintótica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_06.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_14.mp4"
+      ]
+    },
+    {
+      "title": "Clase sobre Información mutua",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_07.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_15.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Canal - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_08.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_16.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Canal - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_09.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_17.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de Canal - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_10.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_18.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Espectral",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_11.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_19.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Análisis Espectral y Primera Parte de Entropía Diferencial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_12.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_20.mp4"
+      ]
+    },
+    {
+      "title": "Entropía Diferencial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_13.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_21.mp4"
+      ]
+    },
+    {
+      "title": "Canal Gaussiano - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_14.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_22.mp4"
+      ]
+    },
+    {
+      "title": "Canal Gaussiano - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_15.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_23.mp4"
+      ]
+    },
+    {
+      "title": "Canal Gaussiano y Práctico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_16.webm",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_24.mp4"
+      ]
+    },
+    {
+      "title": "Rate-Distortion",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iti/iti_25.mp4",
+        "https://openfing-video.fing.edu.uy/media/iti/iti_17.webm"
+      ]
+    }
+  ]
+}

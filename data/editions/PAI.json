@@ -1,0 +1,32 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso - La administración desde la Ingeniería",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/PAI/PAI_01.mp4"
+      ]
+    },
+    {
+      "title": "Diseño de Sistemas Productivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/PAI/PAI_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelo de Negocio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/PAI/PAI_03.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Proyectos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/PAI/PAI_04.mp4"
+      ]
+    }
+  ]
+}

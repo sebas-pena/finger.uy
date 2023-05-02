@@ -1,0 +1,123 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4: Sistema de modelado algebraico - GLPK",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5: Formulación y optimalidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6: Formulación y optimalidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7: Problemas resolubles eficientemente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8: Problemas resolubles eficientemente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 9: Complejidad computacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10: Complejidad computacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase 11: Resolución con Ramificado y Acotamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase 12: Resolución con Ramificado y Acotamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase 13: Resolución mediante Planos de corte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_13.mp4"
+      ]
+    },
+    {
+      "title": "Resolución mediante Planos de corte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_14.mp4"
+      ]
+    },
+    {
+      "title": "Resolución mediante Relajación Lagrangeana",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_15.mp4"
+      ]
+    },
+    {
+      "title": "Resolución mediante Generación de columnas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_16.mp4"
+      ]
+    },
+    {
+      "title": "Resolución mediante Heurísticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fpe/fpe_17.mp4"
+      ]
+    }
+  ]
+}

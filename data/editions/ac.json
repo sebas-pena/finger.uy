@@ -1,0 +1,196 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_01.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Numeración. Códigos y Errores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_02.mp4"
+      ]
+    },
+    {
+      "title": "Códigos y Errores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_03.mp4"
+      ]
+    },
+    {
+      "title": "Representación Interna de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_04.mp4"
+      ]
+    },
+    {
+      "title": "Representación Interna de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_05.mp4"
+      ]
+    },
+    {
+      "title": "Álgebra de Boole",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_06.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos Combinatorios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_07.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos Combinatorios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_08.mp4"
+      ]
+    },
+    {
+      "title": "Memorias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_09.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_09.mp4"
+      ]
+    },
+    {
+      "title": "Memorias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_10.mp4"
+      ]
+    },
+    {
+      "title": "Máquinas de Estado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_11.mp4"
+      ]
+    },
+    {
+      "title": "Demo de Max+Plus II. Máquina Lógica General",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_12.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura de Von Neumann",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_13.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_13.mp4"
+      ]
+    },
+    {
+      "title": "CPU",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_14.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_14.mp4"
+      ]
+    },
+    {
+      "title": "CPU",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_15.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_15.mp4"
+      ]
+    },
+    {
+      "title": "CPU",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_16.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_16.mp4"
+      ]
+    },
+    {
+      "title": "Interrupciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_17.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_17.mp4"
+      ]
+    },
+    {
+      "title": "Interrupciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_18.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_18.mp4"
+      ]
+    },
+    {
+      "title": "Interrupciones: Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_19.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_19.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura Intel x86",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_20.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_20.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura Intel x86",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_21.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_21.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura Intel x86",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_22.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_22.mp4"
+      ]
+    },
+    {
+      "title": "Pipeline",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_23.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_23.mp4"
+      ]
+    },
+    {
+      "title": "Jerarquía de Memoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ac/ac_24.webm",
+        "https://openfing-video.fing.edu.uy/media/ac/ac_24.mp4"
+      ]
+    }
+  ]
+}

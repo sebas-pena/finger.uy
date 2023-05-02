@@ -1,0 +1,102 @@
+{
+  "classes": [
+    {
+      "title": "Introducción y conceptos fundamentales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_01.mp4"
+      ]
+    },
+    {
+      "title": "Proyecto de aprendizaje automático",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_02.mp4"
+      ]
+    },
+    {
+      "title": "Clasificación y regresión con modelos clásicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_04.mp4"
+      ]
+    },
+    {
+      "title": "Ensambles de predictores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_06.mp4"
+      ]
+    },
+    {
+      "title": "Aprendizaje no supervisado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_08.mp4"
+      ]
+    },
+    {
+      "title": "Implementación de redes neuronales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_10.mp4"
+      ]
+    },
+    {
+      "title": "Selección de hiperparámetros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_12.mp4"
+      ]
+    },
+    {
+      "title": "Entrenando redes profundas I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_14.mp4"
+      ]
+    },
+    {
+      "title": "Entrenando redes profundas II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_16.mp4"
+      ]
+    },
+    {
+      "title": "Modelos y algoritmos de entrenamiento personalizados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_17.mp4"
+      ]
+    },
+    {
+      "title": "Redes convolucionales I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_18.mp4"
+      ]
+    },
+    {
+      "title": "Redes convolucionales II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_20.mp4"
+      ]
+    },
+    {
+      "title": "Redes neuronales recurrentes I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_22.mp4"
+      ]
+    },
+    {
+      "title": "Redes neuronales recurrentes II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taa/taa_24.mp4"
+      ]
+    }
+  ]
+}

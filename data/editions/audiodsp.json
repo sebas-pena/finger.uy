@@ -1,0 +1,144 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al procesamiento de audio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_01.mp4"
+      ]
+    },
+    {
+      "title": "Procesamiento de señales de voz",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_02.mp4"
+      ]
+    },
+    {
+      "title": "Procesamiento en el dominio del tiempo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_03.mp4"
+      ]
+    },
+    {
+      "title": "Percepción auditiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_04.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a filtros digitales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_06.mp4"
+      ]
+    },
+    {
+      "title": "Filtros digitales en audio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_07.mp4"
+      ]
+    },
+    {
+      "title": "Aplicaciones en síntesis de sonido y efectos de audio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_08.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Fourier de tiempo corto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_10.mp4"
+      ]
+    },
+    {
+      "title": "Representaciones tiempo-frecuencia multi-resolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_11.mp4"
+      ]
+    },
+    {
+      "title": "Análisis y síntesis con la STFT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_12.mp4"
+      ]
+    },
+    {
+      "title": "Procesamiento tiempo-frecuencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_13.mp4"
+      ]
+    },
+    {
+      "title": "Phase vocoder",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_14.mp4"
+      ]
+    },
+    {
+      "title": "Modelado espectral",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_16.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Homomórfico I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_17.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Homomórfico II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_18.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Homomórfico III",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_19.mp4"
+      ]
+    },
+    {
+      "title": "Análisis por predicción lineal I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_20.mp4"
+      ]
+    },
+    {
+      "title": "Análisis por predicción lineal II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_22.mp4"
+      ]
+    },
+    {
+      "title": "Codificación de voz y audio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_23.mp4"
+      ]
+    },
+    {
+      "title": "Sincronismo de audio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/audiodsp/audiodsp_24.mp4"
+      ]
+    }
+  ]
+}

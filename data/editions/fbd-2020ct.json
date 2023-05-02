@@ -1,0 +1,108 @@
+{
+  "classes": [
+    {
+      "title": "Consulta sobre Modelo Entidad Relación y Conceptos Básicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_01.mp4"
+      ]
+    },
+    {
+      "title": "Consulta sobre Modelo Entidad Relación, Modelo Relacional y Cálculo Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_02.mp4"
+      ]
+    },
+    {
+      "title": "Álgebra Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_03.mp4"
+      ]
+    },
+    {
+      "title": "Puesta a punto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_04.mp4"
+      ]
+    },
+    {
+      "title": "SQL y Dependencias Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_05.mp4"
+      ]
+    },
+    {
+      "title": "Dependencias Funcionales y Normalización - Parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_06.mp4"
+      ]
+    },
+    {
+      "title": "Dependencias Funcionales y Normalización - Parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_07.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_07.mp4"
+      ]
+    },
+    {
+      "title": "Dependencias Multivaluadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_08.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_08.mp4"
+      ]
+    },
+    {
+      "title": "Pasaje de Mer a Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_09.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_09.mp4"
+      ]
+    },
+    {
+      "title": "Índices y Optimización de Consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_10.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_10.mp4"
+      ]
+    },
+    {
+      "title": "Concurrencia y Recuperación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_11.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_11.mp4"
+      ]
+    },
+    {
+      "title": "Consultas sobre todo el curso - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_12.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_12.mp4"
+      ]
+    },
+    {
+      "title": "Consultas sobre todo el curso - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_13.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020ct/fbd-2020ct_13.mp4"
+      ]
+    }
+  ]
+}

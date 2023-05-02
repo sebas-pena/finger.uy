@@ -1,0 +1,87 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a abstracción y modularización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_02.mp4"
+      ]
+    },
+    {
+      "title": "Recursión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_03.mp4"
+      ]
+    },
+    {
+      "title": "Punteros y listas de memoria dinámica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_04.mp4"
+      ]
+    },
+    {
+      "title": "Árboles, parte 1: binarios y de búsqueda",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_05.mp4"
+      ]
+    },
+    {
+      "title": "Árboles, parte 2: Árboles generales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_06.mp4"
+      ]
+    },
+    {
+      "title": "Introducción al análisis de algoritmos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_07.mp4"
+      ]
+    },
+    {
+      "title": "TADs Lineales: Lista, Pila y Cola",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_08.mp4"
+      ]
+    },
+    {
+      "title": "Colecciones - parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_09.mp4"
+      ]
+    },
+    {
+      "title": "Colecciones - parte 2 (hashing y mutisets)",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_10.mp4",
+      "videos": null
+    },
+    {
+      "title": "Tablas (funciones parciales, mappings)",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_11.mp4",
+      "videos": null
+    },
+    {
+      "title": "Colecciones - parte 3 (Colas de Prioridad)",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_12.mp4",
+      "videos": null
+    },
+    {
+      "title": "Multiestructuras e Introducción al diseño de TADs",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/p2r-2022-2/p2r-2022-2_13.mp4",
+      "videos": null
+    }
+  ]
+}

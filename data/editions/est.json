@@ -1,0 +1,76 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_01.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_01.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_02.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_02.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Técnicos 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_03.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_03.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Técnicos 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_04.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_04.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Técnicos 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_05.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_05.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Técnicos 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_06.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_06.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Técnicos 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_07.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_07.mp4"
+      ]
+    },
+    {
+      "title": "Aspectos Normativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_08.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_08.mp4"
+      ]
+    },
+    {
+      "title": "Acción del Viento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/est/est_09.webm",
+        "https://openfing-video.fing.edu.uy/media/est/est_09.mp4"
+      ]
+    }
+  ]
+}

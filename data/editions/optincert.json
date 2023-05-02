@@ -1,0 +1,109 @@
+{
+  "classes": [
+    {
+      "title": "Clase-1: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase-2: Introducción y Revisión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase-3: Sistema de modelado algebraico - GLPK",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase-4: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase-5: Modelado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase-6: Valoración del riesgo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase-7: Teoría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase-8: Teoría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase-9: Modelos múltiple etapa (codificación)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase-10:Valor de los modelos estocásticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase-11: Métodos de resolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase-12: Métodos de resolución (2da. parte)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase-13.1: Método de aproximación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_13.mp4"
+      ]
+    },
+    {
+      "title": "Clase-13.2: Método de muestreo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_14.mp4"
+      ]
+    },
+    {
+      "title": "Clase-14: Optimización Robusta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/optincert/optincert_15.mp4"
+      ]
+    }
+  ]
+}

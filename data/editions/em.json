@@ -1,0 +1,196 @@
+{
+  "classes": [
+    {
+      "title": "Ley de Coulomb. Principio de Superposición. Campo Eléctrico. Líneas de fuerza. Delta de Dirac. Potencial Electrostático",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_01.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_01.mp4"
+      ]
+    },
+    {
+      "title": "Conductores y Aisladores. Ley de Gauss. Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_02.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_02.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de la Ley de Gauss. Ejemplos. Momento Dipolar. Fuerza sobre Dipolo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_03.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_03.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo Multipolar. Ecuaciones de Laplace y Poisson, Unicidad de la Solución. Método de Separación de Variables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_04.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_04.mp4"
+      ]
+    },
+    {
+      "title": "Método de Separación de Variables (cont.)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_05.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_05.mp4"
+      ]
+    },
+    {
+      "title": "Método de Separación de Variables (cont.). Método de las Imágenes Electrostáticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_06.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_06.mp4"
+      ]
+    },
+    {
+      "title": "Campo Eléctrico en Medios Dieléctricos. Polarización. Carga de Polarización. Desplazamiento Eléctrico. Permitividad Dieléctrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_07.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_07.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Medios Dieléctricos. Condensadores. Energía Electrostática",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_08.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_08.mp4"
+      ]
+    },
+    {
+      "title": "Energía Electrostática (cont.). Fuerzas y Momentos. Corriente Eléctrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_09.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_09.mp4"
+      ]
+    },
+    {
+      "title": "Corriente Eléctrica. Ecuación de Continuidad. Ley de Ohm. Resistencia. Aproximación a la Condición Estacionaria. Tiempo de Relajación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_10.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_10.mp4"
+      ]
+    },
+    {
+      "title": "Ley de Joule. Circuitos Eléctricos. Leyes de Kirchhoff",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_11.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_11.mp4"
+      ]
+    },
+    {
+      "title": "Inducción Magnética. Ley de Biot y Savart. Ley de Ampere",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_12.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_12.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Campo Magnético. Ley de Ampere. Aplicaciones. Momento Dipolar Magnético",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_13.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_13.mp4"
+      ]
+    },
+    {
+      "title": "Potencial Vectorial de Dipolo Magnético. Magnetización. Corriente de Magnetización. Vector Intensidad Magnética",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_14.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_14.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Intensidad Magnética. Materiales Magnéticos. Condiciones de Frontera sobre los Vectores de Campo. Circuitos Magnéticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_15.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_15.mp4"
+      ]
+    },
+    {
+      "title": "Continuación Circuitos Magnéticos. Circuitos Magnéticos con Imanes Permanentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_16.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_16.mp4"
+      ]
+    },
+    {
+      "title": "Ley de Inducción de Faraday. Coeficiente de Auto-inducción. Coeficiente de Inducción Mutua (Fórmula de Neumann)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_17.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_17.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Ley de Faraday. Energía Magnética",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_18.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_18.mp4"
+      ]
+    },
+    {
+      "title": "Continuación Energía Magnética. Cálculo de Fuerzas y Coeficientes de Auto-inducción. Ecuación de Difusión para la Densidad de Corriente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_19.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_19.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos RLC. Estado Estacionario. Resonancia. Impedancia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_20.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_20.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Impedancia. Resonancia. \"Q\" de la Resonancia. Potencia Media. Factor de Potencia. Valores Eficaces",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_21.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_21.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos Eléctricos y Magnéticos Acoplados. Transformador Ideal. Líneas de Transmisión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_22.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_22.mp4"
+      ]
+    },
+    {
+      "title": "Convención de los Puntos para la Inducción Mutua. Ecuación del Telegrafista (Continuación). Corriente de Desplazamiento. Ecuaciones de Maxwell",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_23.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_23.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Ondas Electromagnéticas. Ondas Monocromáticas Planas. Velocidad de Fase. Vector de Poynting",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/em/em_24.webm",
+        "https://openfing-video.fing.edu.uy/media/em/em_24.mp4"
+      ]
+    }
+  ]
+}

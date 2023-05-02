@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "Teorema de División Entera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_01.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_01.mp4"
+      ]
+    },
+    {
+      "title": "Máximo Común Divisor. Algoritmo de Euclides",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_02.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_02.mp4"
+      ]
+    },
+    {
+      "title": "Igualdad de Bezout",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_03.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_03.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo de Euclides Extendido. Ecuaciones Diofánticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_04.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_04.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Soluciones de Ecuaciones Diofánticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_05.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_05.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Fundamental de la Aritmética",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_06.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_06.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Fundamental de la Aritmética. Algoritmos y Corolarios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_07.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_07.mp4"
+      ]
+    },
+    {
+      "title": "Congruencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_08.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_08.mp4"
+      ]
+    },
+    {
+      "title": "Congruencias. Propiedades Cancelativas. Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_09.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_09.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones con Congruencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_10.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_10.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Chino del Resto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_11.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_11.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Chino del Resto. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_12.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase 13",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_13.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_13.mp4"
+      ]
+    },
+    {
+      "title": "Exponenciación. Función y Teorema de Euler",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_14.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_14.mp4"
+      ]
+    },
+    {
+      "title": "Exponenciación. Función y Teorema de Euler",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_15.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_15.mp4"
+      ]
+    },
+    {
+      "title": "Exponenciación. Introducción a Grupos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_16.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_16.mp4"
+      ]
+    },
+    {
+      "title": "Grupo de Permutaciones. Tabla de Cayley. Propiedades de Grupos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_17.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_17.mp4"
+      ]
+    },
+    {
+      "title": "Grupo Enteros Módulo n",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_18.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_18.mp4"
+      ]
+    },
+    {
+      "title": "Grupo Invertibles Módulo n. Grupos Dihedrales. Subgrupos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_19.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_19.mp4"
+      ]
+    },
+    {
+      "title": "Grupos Cíclicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_20.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_20.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades de Órden. Teorema de Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_21.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_21.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Lagrange. Homomorfismos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_22.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_22.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Órdenes. Isomorfismos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_23.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_23.mp4"
+      ]
+    },
+    {
+      "title": "Raíces Primitivas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_24.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_24.mp4"
+      ]
+    },
+    {
+      "title": "Lemas. Teorema de la Raíz Primitiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_25.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_25.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo para hallar una Raíz Primitiva. Criptografía: Diffie-Helmann",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_26.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_26.mp4"
+      ]
+    },
+    {
+      "title": "Criptografía: Ejemplo Diffie-Helmann. Método de Cifrado de César y Vigenere",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_27.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_27.mp4"
+      ]
+    },
+    {
+      "title": "Criptografía: Criptosistema RSA",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/md2/md2_28.webm",
+        "https://openfing-video.fing.edu.uy/media/md2/md2_28.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "classes": [
+    {
+      "title": "Octave: Entorno Interactivo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la Programación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_02.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la Programación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_03.mp4"
+      ]
+    },
+    {
+      "title": "Asignación, Secuencia y Subprogramas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_04.mp4"
+      ]
+    },
+    {
+      "title": "Selección",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_05.mp4"
+      ]
+    },
+    {
+      "title": "Iteración",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_06.mp4"
+      ]
+    },
+    {
+      "title": "Iteración. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_07.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_08.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Numeración. Cambio de Base",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_09.mp4"
+      ]
+    },
+    {
+      "title": "Equivalencias. Operaciones. Tabla ASCII",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_10.mp4"
+      ]
+    },
+    {
+      "title": "Representación de Números Enteros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_11.mp4"
+      ]
+    },
+    {
+      "title": "Representación de Punto Flotante",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_12.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_12.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_13.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_13.mp4"
+      ]
+    },
+    {
+      "title": "Normalización. Representación Utilizando N bits",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_14.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_14.mp4"
+      ]
+    },
+    {
+      "title": "Estandar IEEE 754",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_15.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_15.mp4"
+      ]
+    },
+    {
+      "title": "Recursión -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_16.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_16.mp4"
+      ]
+    },
+    {
+      "title": "Recursión -2. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_17.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_17.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos de Recursión -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_18.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_18.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos de Recursión -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_19.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_19.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos de Recursión -3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_20.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_20.mp4"
+      ]
+    },
+    {
+      "title": "Polinomios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_21.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_21.mp4"
+      ]
+    },
+    {
+      "title": "Matrices Dispersas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_22.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_22.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos y Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_23.webm",
+        "https://openfing-video.fing.edu.uy/media/comp1/comp1_23.mp4"
+      ]
+    }
+  ]
+}

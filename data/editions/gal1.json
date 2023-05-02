@@ -1,0 +1,212 @@
+{
+  "classes": [
+    {
+      "title": "Método de escalerización 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_01.mp4"
+      ]
+    },
+    {
+      "title": "Método de escalerización 2, teorema de Rouché-Frobenius",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_02.mp4"
+      ]
+    },
+    {
+      "title": "Álgebra de matrices, producto entre matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_03.mp4"
+      ]
+    },
+    {
+      "title": "Matriz traspuesta, matriz inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_04.mp4"
+      ]
+    },
+    {
+      "title": "El espacio de n-uplas. Combinación lineal. Independencia lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_05.mp4"
+      ]
+    },
+    {
+      "title": "Independencia lineal y rango",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_06.mp4"
+      ]
+    },
+    {
+      "title": "Rango de una matriz",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_07.mp4"
+      ]
+    },
+    {
+      "title": "Matrices elementales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_08.mp4"
+      ]
+    },
+    {
+      "title": "Determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_09.mp4"
+      ]
+    },
+    {
+      "title": "Matrices elementales y determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_10.mp4"
+      ]
+    },
+    {
+      "title": "Rectas y planos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_11.mp4"
+      ]
+    },
+    {
+      "title": "Planos en el espacio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_12.mp4"
+      ]
+    },
+    {
+      "title": "Producto escalar",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_13.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_13.mp4"
+      ]
+    },
+    {
+      "title": "Producto vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_14.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_14.mp4"
+      ]
+    },
+    {
+      "title": "Aplicaciones producto escalar y vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_15.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_15.mp4"
+      ]
+    },
+    {
+      "title": "Espacios vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_16.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_16.mp4"
+      ]
+    },
+    {
+      "title": "Subespacio vectorial. Subespacio generado. Generador",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_17.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_17.mp4"
+      ]
+    },
+    {
+      "title": "Independencia lineal y bases",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_18.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_18.mp4"
+      ]
+    },
+    {
+      "title": "Generadores vs LI. Dimensión. Coordenada. Cambio de base. Suma y suma directa de subespacios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_19.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_19.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades de las bases. Coordenadas. Suma. Suma directa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_20.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_20.mp4"
+      ]
+    },
+    {
+      "title": "Transformaciones lineales, ejemplos, caracterización en una base, matriz asociada, cambio de base, operaciones, composición",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_21.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_21.mp4"
+      ]
+    },
+    {
+      "title": "Matriz asociada a una transformación lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_22.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_22.mp4"
+      ]
+    },
+    {
+      "title": "Imagen, núcleo, teorema de las dimensiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_23.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_23.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de las dimensiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_24.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_24.mp4"
+      ]
+    },
+    {
+      "title": "Transformaciones lineales inyectivas, sobreyectivas. Isomorfismos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_25.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_25.mp4"
+      ]
+    },
+    {
+      "title": "Operadores y matrices semejantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_26.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1/gal1_26.mp4"
+      ]
+    }
+  ]
+}

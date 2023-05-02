@@ -1,0 +1,92 @@
+{
+  "classes": [
+    {
+      "title": "Motivación de la Ingeniería Biomédica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_01.mp4"
+      ]
+    },
+    {
+      "title": "Fisiología Celular y Potenciales de Acción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_02.mp4"
+      ]
+    },
+    {
+      "title": "El ECG y el Problema Inverso del Dipolo Eléctrico Cardíaco",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_03.mp4"
+      ]
+    },
+    {
+      "title": "Medidas de Bioimpedancia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase 11",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase 12",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ib/ib_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ib/ib_12.mp4"
+      ]
+    }
+  ]
+}

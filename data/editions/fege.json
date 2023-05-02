@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "title": "Cifras Significativas e Incertidumbre",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_01.mp4"
+      ]
+    },
+    {
+      "title": "Ajuste por Mínimos Cuadrados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_02.mp4"
+      ]
+    },
+    {
+      "title": "Representación Gráfica de Variables Aleatorias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_03.mp4"
+      ]
+    },
+    {
+      "title": "Tratamiento Estadístico de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_04.mp4"
+      ]
+    },
+    {
+      "title": "Tutorial Osciloscopio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_05.mp4"
+      ]
+    },
+    {
+      "title": "Termodinámica - Intercambiadores de Calor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_06.mp4"
+      ]
+    },
+    {
+      "title": "El Uso del Osciloscopio con la Energía Reactiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fege/fege_07.webm",
+        "https://openfing-video.fing.edu.uy/media/fege/fege_07.mp4"
+      ]
+    }
+  ]
+}

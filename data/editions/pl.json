@@ -1,0 +1,194 @@
+{
+  "classes": [
+    {
+      "title": "Información del Curso. Conceptos Básicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_01.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_01.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos: Unificación (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_02.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos: Unificación (parte 2). Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_03.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos: Recursión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_04.mp4"
+      ]
+    },
+    {
+      "title": "Listas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_05.mp4"
+      ]
+    },
+    {
+      "title": "Listas y Acumuladores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_06.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos: Aritmética",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_08.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos Teóricos: Lógica y Prolog",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_09.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos Teóricos: Programación Lógica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_10.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos Teóricos: Resolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_11.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_11.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos Teóricos: Resolución y Árbol SLD",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_12.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_12.mp4"
+      ]
+    },
+    {
+      "title": "Generación y Chequeo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_13.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_13.mp4"
+      ]
+    },
+    {
+      "title": "Programación no determinista (Ejemplo)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_14.mp4"
+      ]
+    },
+    {
+      "title": "Predicados Metalógicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_14.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_15.mp4"
+      ]
+    },
+    {
+      "title": "Cut",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_15.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_16.mp4"
+      ]
+    },
+    {
+      "title": "Cut Verde, Cut Rojo. Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_16.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_17.mp4"
+      ]
+    },
+    {
+      "title": "Predicados Extralógicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_17.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_18.mp4"
+      ]
+    },
+    {
+      "title": "Metaintérpretes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_18.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_19.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de Juegos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_19.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_20.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras Incompletas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_20.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_21.mp4"
+      ]
+    },
+    {
+      "title": "Gramáticas Lógicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_21.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_22.mp4"
+      ]
+    },
+    {
+      "title": "Programación Lógica Inductiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_22.webm",
+        "https://openfing-video.fing.edu.uy/media/pl/pl_23.mp4"
+      ]
+    },
+    {
+      "title": "Programación Lógica Probabilista",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pl/pl_24.mp4"
+      ]
+    }
+  ]
+}

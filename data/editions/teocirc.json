@@ -1,0 +1,212 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso. Componentes Básicos de un Circuito",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_01.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_01.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Resolución: Mallas, Nudos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_02.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_02.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de: Thévenin, Norton, Tellegen",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_03.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase de Repaso y Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_04.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_04.mp4"
+      ]
+    },
+    {
+      "title": "Amplificador Operacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_05.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_05.mp4"
+      ]
+    },
+    {
+      "title": "Amplificadores Operacionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_06.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_06.mp4"
+      ]
+    },
+    {
+      "title": "Comparadores. Introducción a Fasores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_07.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_07.mp4"
+      ]
+    },
+    {
+      "title": "Fasores. Régimen Sinusoidal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_08.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_08.mp4"
+      ]
+    },
+    {
+      "title": "Fasores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_09.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_09.mp4"
+      ]
+    },
+    {
+      "title": "Fasores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_10.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_10.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Bode",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_11.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_11.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Bode",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_12.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_12.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Bode: Transferencias de Segundo Orden y Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_13.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_13.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio del Práctico de Bode",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_14.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_14.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_15.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_15.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_16.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_16.mp4"
+      ]
+    },
+    {
+      "title": "Antitransformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_17.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_17.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos en Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_18.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_18.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de Circuitos mediante Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_19.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_19.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos en Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_20.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_20.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos en Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_21.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_21.mp4"
+      ]
+    },
+    {
+      "title": "Cuadripolos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_22.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_22.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas Polifásicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_23.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_23.mp4"
+      ]
+    },
+    {
+      "title": "Potencia Trifásica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_24.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_24.mp4"
+      ]
+    },
+    {
+      "title": "Líneas de Transmisión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_25.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_25.mp4"
+      ]
+    },
+    {
+      "title": "Líneas de Transmisión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_26.webm",
+        "https://openfing-video.fing.edu.uy/media/teocirc/teocirc_26.mp4"
+      ]
+    }
+  ]
+}

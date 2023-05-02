@@ -1,0 +1,144 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso e introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_01.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 1 - Ej. 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_02.mp4"
+      ]
+    },
+    {
+      "title": "Repaso retardos y Práctico 1, Ejs. 7 y 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_03.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 - Ej. 1 y 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_04.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de DNS",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 - Ej. 6, 11 y 12",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_06.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Sockets y Práctico 3 - Ej. 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 - Ej. 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_08.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 - Ej. 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_09.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Capa de Transporte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_10.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 - Ejercicios 3 y 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_11.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Capa de Transporte (Pipelining y TCP)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_12.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 - Ejercicios 2 y 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_13.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de control de congestión y Práctico 4 - Ej. 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_14.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de ejercicio de examen sobre TCP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_15.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Capa de Red y Práctico 5 (ejercicios 2 y 4)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_16.mp4"
+      ]
+    },
+    {
+      "title": "Repaso IPv4, Numeración IP y Práctico 5 (ejercicios 6 y 12)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_17.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5, Ejercicio 13",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_18.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 7, Ejercicio 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_19.mp4"
+      ]
+    },
+    {
+      "title": "Repaso a partir de un \"web request\" y Práctico 7, Ejercicios 8 y 9",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2021/redes-2021_20.mp4"
+      ]
+    }
+  ]
+}

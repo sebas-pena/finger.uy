@@ -1,0 +1,172 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del Curso y Nociones Generales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_01.mp4"
+      ]
+    },
+    {
+      "title": "Componentes Básicos (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_02.mp4"
+      ]
+    },
+    {
+      "title": "Componentes Básicos (2) y Entrada/Salida",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_03.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Control. Secuencia y Selección",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_04.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Control. Repetición. For",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_05.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Control. Repetición Condicional. While",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_06.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Control. Repetición Condicional. Repeat",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_07.mp4"
+      ]
+    },
+    {
+      "title": "Iteración. Ejemplos Avanzados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_08.mp4"
+      ]
+    },
+    {
+      "title": "Arreglos y Subrangos (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_09.mp4"
+      ]
+    },
+    {
+      "title": "Arreglos y Subrangos (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_10.mp4"
+      ]
+    },
+    {
+      "title": "Preparación Primer Parcial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_11.mp4"
+      ]
+    },
+    {
+      "title": "Subprogramas. Funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_12.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_12.mp4"
+      ]
+    },
+    {
+      "title": "Subprogramas. Procedimientos. Alcance",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_13.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_13.mp4"
+      ]
+    },
+    {
+      "title": "Tipos de datos: Enumerados. Conjuntos. Registros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_14.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_14.mp4"
+      ]
+    },
+    {
+      "title": "Array con Tope (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_15.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_15.mp4"
+      ]
+    },
+    {
+      "title": "Array con Tope (2) y Registros Variantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_16.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_16.mp4"
+      ]
+    },
+    {
+      "title": "Memoria Dinámica. Punteros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_17.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_17.mp4"
+      ]
+    },
+    {
+      "title": "Listas (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_18.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_18.mp4"
+      ]
+    },
+    {
+      "title": "Listas (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_19.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_19.mp4"
+      ]
+    },
+    {
+      "title": "Búsqueda y Ordenación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_20.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_20.mp4"
+      ]
+    },
+    {
+      "title": "Preparación Segundo Parcial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p1/p1_21.webm",
+        "https://openfing-video.fing.edu.uy/media/p1/p1_21.mp4"
+      ]
+    }
+  ]
+}

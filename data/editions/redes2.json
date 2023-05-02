@@ -1,0 +1,53 @@
+{
+  "classes": [
+    {
+      "title": "Generalidades e introducción al curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_01.mp4"
+      ]
+    },
+    {
+      "title": "Protocolo IPv6 - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_02.mp4"
+      ]
+    },
+    {
+      "title": "Protocolo IPv6 - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_03.mp4"
+      ]
+    },
+    {
+      "title": "Enrutamiento Interno: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_04.mp4"
+      ]
+    },
+    {
+      "title": "OSPF - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_05.mp4"
+      ]
+    },
+    {
+      "title": "OSPF - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_06.mp4"
+      ]
+    },
+    {
+      "title": "OSPF - Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes2/redes2_07.mp4"
+      ]
+    }
+  ]
+}

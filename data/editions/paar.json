@@ -1,0 +1,68 @@
+{
+  "classes": [
+    {
+      "title": "OpenMP Fundamentals. Data Environment",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_01.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 02 (Versión Borrador)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_02.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 03 (Versión Borrador)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_03.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_03.mp4"
+      ]
+    },
+    {
+      "title": "Introduction to CUDA: The Basics. Memory Allocation and Data Movement API Functions. Introduction to the CUDA Toolkit. Thread Scheduling. Memory and Data Locality. Tiled Parallel Algorithms. Handling Arbitrary Matrix Sizes in Tiled Algorithms",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_04.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_04.mp4"
+      ]
+    },
+    {
+      "title": "Efficiency and Performance Considerations. Memory Access Performance. Reductions",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_05.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 06 (Versión Borrador)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_06.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_06.mp4"
+      ]
+    },
+    {
+      "title": "Introduction to OpenACC. Profiling and Parallelizing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_07.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_07.mp4"
+      ]
+    },
+    {
+      "title": "MPI: One-Sided Communication",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/paar/paar_10.webm",
+        "https://openfing-video.fing.edu.uy/media/paar/paar_10.mp4"
+      ]
+    }
+  ]
+}

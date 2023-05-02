@@ -1,0 +1,46 @@
+{
+  "classes": [
+    {
+      "title": "03/08/2022, Introducción al curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_01.mp4"
+      ]
+    },
+    {
+      "title": "05/08/2022, Introducción transistor MOS, Potenciales de contacto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_02.mp4"
+      ]
+    },
+    {
+      "title": "10/08/2022, Estructura MOS 2 terminales (1a parte)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_03.mp4"
+      ]
+    },
+    {
+      "title": "12/08/2022, Estructura MOS 2 a 4 terminales, modelo charge sheet, modelo SI exacto y linealizado (comienzo)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_04.mp4"
+      ]
+    },
+    {
+      "title": "17/08/2022, Fin modelo SI linealizado, diagrama gráfico, saturación, analogía hidráulica, WI, modelos compactos de canal largo en todas las regiones de inversión, EKV inicial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_05.mp4"
+      ]
+    },
+    {
+      "title": "19/08/2022, Modelo ACM, Efectos de segundo orden (1ra parte)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmosad/cmosad_06.mp4"
+      ]
+    }
+  ]
+}

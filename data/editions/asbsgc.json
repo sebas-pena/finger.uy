@@ -1,0 +1,44 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso e ideas de proyectos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_01.webm",
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_01.mp4"
+      ]
+    },
+    {
+      "title": "Programa Integral Metropolitano, Espacio Plaza y Trabajando desde el Barrio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_02.webm",
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_02.mp4"
+      ]
+    },
+    {
+      "title": "Solidaridad.uy",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_03.webm",
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_03.mp4"
+      ]
+    },
+    {
+      "title": "CMS, introducción a Worpress e ideas de proyectos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_04.webm",
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_04.mp4"
+      ]
+    },
+    {
+      "title": "Presentación de proyectos de Solidaridad.uy",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_05.webm",
+        "https://openfing-video.fing.edu.uy/media/asbsgc/asbsgc_05.mp4"
+      ]
+    }
+  ]
+}

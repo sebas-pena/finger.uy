@@ -1,0 +1,27 @@
+{
+  "classes": [
+    {
+      "title": "Recipientes a Presión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecap/mecap_01.webm",
+        "https://openfing-video.fing.edu.uy/media/mecap/mecap_01.mp4"
+      ]
+    },
+    {
+      "title": "Ejes y Chavetas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecap/mecap_02.webm",
+        "https://openfing-video.fing.edu.uy/media/mecap/mecap_02.mp4"
+      ]
+    },
+    {
+      "title": "Rodamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecap/mecap_03.webm"
+      ]
+    }
+  ]
+}

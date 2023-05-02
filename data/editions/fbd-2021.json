@@ -1,0 +1,102 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso 2021",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_01.mp4"
+      ]
+    },
+    {
+      "title": "Modelo Entidad Relación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelo Relacional - Cálculo de Tuplas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_03.mp4"
+      ]
+    },
+    {
+      "title": "Modelo Relacional - Cálculo de Tuplas y Álgebra Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_04.mp4"
+      ]
+    },
+    {
+      "title": "Modelo Relacional - Álgebra Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_05.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Relacional - Dependencias Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_06.mp4"
+      ]
+    },
+    {
+      "title": "Continuación práctico Dependencias Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_07.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Relacional - Normalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_08.mp4"
+      ]
+    },
+    {
+      "title": "Continuación práctico Normalización, Pasaje de MER a Modelo Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_09.mp4"
+      ]
+    },
+    {
+      "title": "Práctico de Normalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_10.mp4"
+      ]
+    },
+    {
+      "title": "Práctico de Normalización y DMVs - Optimización de consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_11.mp4"
+      ]
+    },
+    {
+      "title": "Práctico de Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_12.mp4"
+      ]
+    },
+    {
+      "title": "Transacciones y Concurrencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_13.mp4"
+      ]
+    },
+    {
+      "title": "Prácticos de Concurrencia y de Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2021/fbd-2021_14.mp4"
+      ]
+    }
+  ]
+}

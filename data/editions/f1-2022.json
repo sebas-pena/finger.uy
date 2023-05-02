@@ -1,0 +1,126 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso. Mediciones",
+      "externalLink": "https://www.youtube.com/embed/LM8t-BQ0ptY",
+      "videos": null
+    },
+    {
+      "title": "Vectores",
+      "externalLink": "https://www.youtube.com/embed/as1B-C8OKLA",
+      "videos": null
+    },
+    {
+      "title": "Cinemática unidimensional",
+      "externalLink": "https://www.youtube.com/embed/vDvnoXB_7m0",
+      "videos": null
+    },
+    {
+      "title": "Caída libre. Movimiento bidimensional y tridimensional",
+      "externalLink": "https://www.youtube.com/embed/grPxJTi7nrs",
+      "videos": null
+    },
+    {
+      "title": "Movimiento circular uniforme. Sistemas de referencia",
+      "externalLink": "https://www.youtube.com/embed/ENww_BJwEKw",
+      "videos": null
+    },
+    {
+      "title": "Primera y Segunda Ley de Newton",
+      "externalLink": "https://www.youtube.com/embed/bURB1AHjc7s",
+      "videos": null
+    },
+    {
+      "title": "Tercera Ley de Newton - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/3jnsF8rKJeo",
+      "videos": null
+    },
+    {
+      "title": "Leyes de Newton - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/aZAWA90iOpg",
+      "videos": null
+    },
+    {
+      "title": "Fuerzas de fricción",
+      "externalLink": "https://www.youtube.com/embed/P1N_ZFtWrUI",
+      "videos": null
+    },
+    {
+      "title": "Dinámica del Movimiento Circular Uniforme",
+      "externalLink": "https://www.youtube.com/embed/GlybImWKE6Q",
+      "videos": null
+    },
+    {
+      "title": "Trabajo efectuado por una fuerza",
+      "externalLink": "https://www.youtube.com/embed/sltZDnWNcOg",
+      "videos": null
+    },
+    {
+      "title": "Energía Cinética. Teorema Trabajo-Energía",
+      "externalLink": "https://www.youtube.com/embed/JXcJHTC64Pk",
+      "videos": null
+    },
+    {
+      "title": "Fuerzas conservativas y no-conservativas - Energía Potencial",
+      "externalLink": "https://www.youtube.com/embed/ckPywTB5KR0",
+      "videos": null
+    },
+    {
+      "title": "Ejemplos. Conservación de la Energía",
+      "externalLink": "https://www.youtube.com/embed/04AoKTtN8iw",
+      "videos": null
+    },
+    {
+      "title": "Dinámica de la rotación de cuerpos rígidos",
+      "externalLink": "https://www.youtube.com/embed/U_44p0iBh14",
+      "videos": null
+    },
+    {
+      "title": "Movimiento de Fuerzas (Torque), Relación Fundamental de la Dinámica de Rotación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f1-2022/f1-2022_20.mp4"
+      ]
+    },
+    {
+      "title": "Movimientos de Rotación y Translación combinados - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/4eulo9i37Pk",
+      "videos": null
+    },
+    {
+      "title": "Cantidad de Movimiento (momento) Angular",
+      "externalLink": "https://www.youtube.com/embed/pIncBcw_pH0",
+      "videos": null
+    },
+    {
+      "title": "Conservación del Momento Angular - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/XdXpH8VnZy0",
+      "videos": null
+    },
+    {
+      "title": "Equilibrio de Cuerpos Rígidos",
+      "externalLink": "https://www.youtube.com/embed/P9ocD2puoVU",
+      "videos": null
+    },
+    {
+      "title": "Equilibrio Estable e Inestable - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/JmxBXxDySuU",
+      "videos": null
+    },
+    {
+      "title": "Oscilaciones: Oscilador Armónico",
+      "externalLink": "https://www.youtube.com/embed/btNsNj1yzaI",
+      "videos": null
+    },
+    {
+      "title": "Energía del Movimiento Armónico Simple - Ejemplos",
+      "externalLink": "https://www.youtube.com/embed/cQV0Fi9zYkU",
+      "videos": null
+    },
+    {
+      "title": "Ejemplos - Movimiento Levemente Amortiguado - Movimiento Forzado",
+      "externalLink": "https://www.youtube.com/embed/cap0OPhns8A",
+      "videos": null
+    }
+  ]
+}

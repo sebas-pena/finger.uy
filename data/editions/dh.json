@@ -1,0 +1,207 @@
+{
+  "classes": [
+    {
+      "title": "Observaciones Hidrológicas - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_01.mp4"
+      ]
+    },
+    {
+      "title": "Observaciones Hidrológicas - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_02.mp4"
+      ]
+    },
+    {
+      "title": "Aforos - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_03.mp4"
+      ]
+    },
+    {
+      "title": "Aforos - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_04.mp4"
+      ]
+    },
+    {
+      "title": "Agua en el Suelo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_05.mp4"
+      ]
+    },
+    {
+      "title": "Demanda de Cultivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_06.mp4"
+      ]
+    },
+    {
+      "title": "Escurrimientos Medios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_07.mp4"
+      ]
+    },
+    {
+      "title": "Balance Embalse",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_08.mp4"
+      ]
+    },
+    {
+      "title": "Modelación del Escurrimiento - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_09.mp4"
+      ]
+    },
+    {
+      "title": "Modelación del Escurrimiento - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_10.mp4"
+      ]
+    },
+    {
+      "title": "Calidad de Agua",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_11.mp4"
+      ]
+    },
+    {
+      "title": "Servicios Ecosistémicos y Caudal Ambiental",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_12.mp4"
+      ]
+    },
+    {
+      "title": "Modelación de Calidad de Aguas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_13.mp4"
+      ]
+    },
+    {
+      "title": "Escurrimientos Extremos - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_14.mp4"
+      ]
+    },
+    {
+      "title": "Escurrimientos Extremos - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_15.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a Hidrología Subterranea",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_16.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento del Agua en Medios Porosos - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_17.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento del Agua en Medios Porosos - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_18.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Flujo e Hidráulica de Captaciones - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_19.mp4"
+      ]
+    },
+    {
+      "title": "Práctico: Acuíferos Confinados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_20.mp4"
+      ]
+    },
+    {
+      "title": "Hidráulica de Captaciones - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_21.mp4"
+      ]
+    },
+    {
+      "title": "Práctico: Acuifero Libre y Semiconfinado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_22.mp4"
+      ]
+    },
+    {
+      "title": "Superposición de Efectos - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_23.mp4"
+      ]
+    },
+    {
+      "title": "Superposición de Efectos - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_24.mp4"
+      ]
+    },
+    {
+      "title": "Ec. Característica y Eficiencia de Pozos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_25.mp4"
+      ]
+    },
+    {
+      "title": "Construcción de Pozos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_26.mp4"
+      ]
+    },
+    {
+      "title": "Calidad de Aguas Subterráneas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_27.mp4"
+      ]
+    },
+    {
+      "title": "Relación Aguas Superficiales y Subterráneas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_28.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Hidrológico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dh/dh_29.mp4"
+      ]
+    }
+  ]
+}

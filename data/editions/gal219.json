@@ -1,0 +1,220 @@
+{
+  "classes": [
+    {
+      "title": "Repaso: Matriz Asociada a una Transformación Lineal, Matrices de Cambio de Base, Semejanza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a los Valores y Vectores Propios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_02.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_02.mp4"
+      ]
+    },
+    {
+      "title": "Valores y Vectores Propios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_03.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_03.mp4"
+      ]
+    },
+    {
+      "title": "Diagonalización -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_04.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_04.mp4"
+      ]
+    },
+    {
+      "title": "Diagonalización -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_05.mp4"
+      ]
+    },
+    {
+      "title": "Diagonalización -3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_06.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_06.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Gershgorin",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_07.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_07.mp4"
+      ]
+    },
+    {
+      "title": "Forma Canónica de Jordan",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_08.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_08.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Jordan",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_09.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_09.mp4"
+      ]
+    },
+    {
+      "title": "Producto Interno y Norma",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_10.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_10.mp4"
+      ]
+    },
+    {
+      "title": "Norma Inducida y Ortogonalidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_11.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_11.mp4"
+      ]
+    },
+    {
+      "title": "Bases Ortonormales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_12.mp4"
+      ]
+    },
+    {
+      "title": "Complemento Ortogonal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_13.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_13.mp4"
+      ]
+    },
+    {
+      "title": "Proyección Ortogonal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_14.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_14.mp4"
+      ]
+    },
+    {
+      "title": "Mínimos Cuadrados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_15.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_15.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Riesz. Adjunta de una Transformación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_16.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_16.mp4"
+      ]
+    },
+    {
+      "title": "Transformación Adjunta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_17.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_17.mp4"
+      ]
+    },
+    {
+      "title": "Operadores Autoadjuntos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_18.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_18.mp4"
+      ]
+    },
+    {
+      "title": "Operadores Autoadjuntos y Teorema Espectral",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_19.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_19.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Espectral para Operadores Autoadjuntos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_20.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_20.mp4"
+      ]
+    },
+    {
+      "title": "Isometrías Lineales -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_21.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_21.mp4"
+      ]
+    },
+    {
+      "title": "Isometrías Lineales -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_22.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_22.mp4"
+      ]
+    },
+    {
+      "title": "Operadores Ortogonales y Unitarios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_23.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_23.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Espectral para Operadores Unitarios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_24.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_24.mp4"
+      ]
+    },
+    {
+      "title": "Descomposición en Valores Singulares -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_25.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_25.mp4"
+      ]
+    },
+    {
+      "title": "Descomposición en Valores Singulares -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_26.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_26.mp4"
+      ]
+    },
+    {
+      "title": "Descomposición Polar e Isometría en R²",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_27.webm",
+        "https://openfing-video.fing.edu.uy/media/gal219/gal219_27.mp4"
+      ]
+    }
+  ]
+}

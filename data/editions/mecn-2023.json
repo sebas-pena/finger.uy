@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "title": "Cinemática de la Partícula y Sistemas de Coordenadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_01.mp4"
+      ]
+    },
+    {
+      "title": "Coordenadas Esféricas y Coordenadas Intrínsecas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_02.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento Relativo y Vector Velocidad Angular",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_03.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Adición de Velocidades Angulares, Teorema de Roberval, y Teorema de Coriolis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_04.mp4"
+      ]
+    },
+    {
+      "title": "Dinámica de la Partícula y Método de Resolución de Ecuaciones Diferenciales.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_05.mp4"
+      ]
+    },
+    {
+      "title": "Método de Resolución de Ecuaciones Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_06.mp4"
+      ]
+    },
+    {
+      "title": "Método de Resolución de Ecuaciones Diferenciales y Sistemas Vinculados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_07.mp4"
+      ]
+    },
+    {
+      "title": "Leyes de Coulomb del Rozamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn-2023/mecn-2023_08.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "classes": [
+    {
+      "title": "\"Co-simulación de Sistemas Ciber-Físicos Automotrices\" (en inglés) (Maurizio Palmieri)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/wscf2022/wscf2022_01.mp4"
+      ]
+    },
+    {
+      "title": "\"Gemelos Digitales en la Industria 4.0\" (Javier Román)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/wscf2022/wscf2022_02.mp4"
+      ]
+    },
+    {
+      "title": "\"Simulación por Cuantificación de Estados: Uso de Información Estructural para Ganar Eficiencia Computacional\" (Ernesto Kofman)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/wscf2022/wscf2022_03.mp4"
+      ]
+    },
+    {
+      "title": "\"Experiencias de Internet de las Cosas en Montevideo\" (Gabriel Muro)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/wscf2022/wscf2022_04.mp4"
+      ]
+    },
+    {
+      "title": "\"Técnicas de Moving Target Defense para la Internet de las Cosas Restringida\" (Renzo Navas)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/wscf2022/wscf2022_05.mp4"
+      ]
+    }
+  ]
+}

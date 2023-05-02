@@ -1,0 +1,32 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al curso y nociones de Abstracción y Modularización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2-2023/p2-2023_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción al Análisis de Algoritmos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2-2023/p2-2023_02.mp4"
+      ]
+    },
+    {
+      "title": "Recursión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2-2023/p2-2023_03.mp4"
+      ]
+    },
+    {
+      "title": "Memoria Dinámica y Listas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2-2023/p2-2023_04.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_01.mp4"
+      ]
+    },
+    {
+      "title": "Probabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_02.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Exploratorio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_03.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Exploratorio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_04.mp4"
+      ]
+    },
+    {
+      "title": "Práctico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_05.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Exploratorio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_06.mp4"
+      ]
+    },
+    {
+      "title": "Quinta clase, 6-set. Variables aleatorias y sus propiedades. Estimación de parámetros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_07.mp4"
+      ]
+    },
+    {
+      "title": "Sexta Clase, 8-set. Distribuciones de probabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_08.mp4"
+      ]
+    },
+    {
+      "title": "Sexta Clase, 8-set. Presentación práctico 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_09.mp4"
+      ]
+    },
+    {
+      "title": "Séptima Clase, 13-set. Intervalos de confianza y pruebas de hipótesis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_10.mp4"
+      ]
+    },
+    {
+      "title": "Octava Clase, 15-set. Intervalos de confianza y pruebas de hipótesis (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_11.mp4"
+      ]
+    },
+    {
+      "title": "20-9. Distribuciones multivariadas y funciones de variables aleatorias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_12.mp4"
+      ]
+    },
+    {
+      "title": "22-9. Análisis de Extremos (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_13.mp4"
+      ]
+    },
+    {
+      "title": "22-9. Presentación de Práctico 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_14.mp4"
+      ]
+    },
+    {
+      "title": "27-9. Análisis de Extremos (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_15.mp4"
+      ]
+    },
+    {
+      "title": "29-9. Análisis de Extremos (3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_16.mp4"
+      ]
+    },
+    {
+      "title": "04-oct Regresiones lineales (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_17.mp4"
+      ]
+    },
+    {
+      "title": "06-oct Regresiones lineales (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_18.mp4"
+      ]
+    },
+    {
+      "title": "13-10 Estratificación. Composites",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_19.mp4"
+      ]
+    },
+    {
+      "title": "18-10 Series Temporales (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_20.mp4"
+      ]
+    },
+    {
+      "title": "20-10 Series Temporales (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_21.mp4"
+      ]
+    },
+    {
+      "title": "25-10 Series Temporales (3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_22.mp4"
+      ]
+    },
+    {
+      "title": "27-10 Análisis Armónico (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_23.mp4"
+      ]
+    },
+    {
+      "title": "01-11 Análisis Armónico (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_24.mp4"
+      ]
+    },
+    {
+      "title": "03-11 Análisis de Componentes Principales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_25.mp4"
+      ]
+    },
+    {
+      "title": "08-11 Análisis de Agrupamiento (1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_26.mp4"
+      ]
+    },
+    {
+      "title": "10-11 Análisis de Agrupamiento (2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_27.mp4"
+      ]
+    },
+    {
+      "title": "15-11 Análisis de Correlación Canónica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_28.mp4"
+      ]
+    },
+    {
+      "title": "17-11 Correlaciones Espaciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_29.mp4"
+      ]
+    },
+    {
+      "title": "22-11 Verificación de Pronósticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/aedc/aedc_30.mp4"
+      ]
+    }
+  ]
+}

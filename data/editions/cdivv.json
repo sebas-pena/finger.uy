@@ -1,0 +1,348 @@
+{
+  "classes": [
+    {
+      "title": "Números Complejos: Introducción, Definición y Álgebra de los Complejos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_01.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_01.mp4"
+      ]
+    },
+    {
+      "title": "Números Complejos: Conjugado, Notación Polar",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_02.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_02.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones diferenciales: ecuaciones de variables separables.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_03.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_03.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Diferenciales: Ecuaciones de Variables Separables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_04.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_04.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Diferenciales: Problema de Condiciones Iniciales. Ecuaciones Lineales de 1er Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_05.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_05.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Diferenciales: Ecuaciones Lineales de 2do Orden a Coeficientes Constantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_06.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_06.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones: Convergencia y Acotación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_07.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_07.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones: Monotonía, Propiedades",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_08.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_08.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones: Subsucesiones, Puntos de Acumulación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_09.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_09.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones: Bolzano-Weiestrass. Paradoja de Zenón",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_10.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_10.mp4"
+      ]
+    },
+    {
+      "title": "Series: Geométrica, Condición Necesaria de Convergencia, Telescópicas, Comparación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_11.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_11.mp4"
+      ]
+    },
+    {
+      "title": "Series: Equivalentes, Criterios del Cociente y de la Raíz Enésima",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_12.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_12.mp4"
+      ]
+    },
+    {
+      "title": "Series: Convergencia Absoluta, Criterio de Leibnitz. Definición Impropia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_13.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_13.mp4"
+      ]
+    },
+    {
+      "title": "Impropias: Comparación, Equivalentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_14.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_14.mp4"
+      ]
+    },
+    {
+      "title": "Impropias: Criterio Serie-Integral, Convergencia Absoluta, Impropias de 2da Especie",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_15.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_15.mp4"
+      ]
+    },
+    {
+      "title": "Impropias: Integrales Mixtas. Topología: Normas y Distancias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_16.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_16.mp4"
+      ]
+    },
+    {
+      "title": "Topología: Bola Abierta, Puntos Interior, Exterior y Frontera. Conjuntos Abiertos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_17.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_17.mp4"
+      ]
+    },
+    {
+      "title": "Topología: Unión de Abiertos, Cerrados, Puntos de Acumulación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_18.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_18.mp4"
+      ]
+    },
+    {
+      "title": "Sucesiones en R^n. Convergencia, Sucesiones y Conjuntos Cerrados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_19.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_19.mp4"
+      ]
+    },
+    {
+      "title": "Conjuntos Cerrados y Frontera. Sucesiones en Cerrados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_20.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_20.mp4"
+      ]
+    },
+    {
+      "title": "Teorema (Sucesión Acotada tiene Subsucesión Convergente). Sucesiones y Compactos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_21.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_21.mp4"
+      ]
+    },
+    {
+      "title": "Repaso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_22.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_22.mp4"
+      ]
+    },
+    {
+      "title": "Funciones de Varias Variables. Límites y Continuidad. Definiciones.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_23.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_23.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad por Sucesiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_24.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_24.mp4"
+      ]
+    },
+    {
+      "title": "Límites Direccionales. Polares.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_25.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_25.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad y Teoremas (Weierstrass, Bolzano)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_26.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_26.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas Parciales y Direccionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_27.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_27.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas Direccionales y Continuidad. Definición Diferenciabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_28.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_28.mp4"
+      ]
+    },
+    {
+      "title": "Diferenciabilidad, Continuidad y Derivadas. Gradiente.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_29.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_29.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos Diferenciabilidad. Condición Suficiente de Diferenciabilidad.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_30.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_30.mp4"
+      ]
+    },
+    {
+      "title": "Regla de la Cadena. Gradiente Perpendicular a las Curvas de Nivel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_31.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_31.mp4"
+      ]
+    },
+    {
+      "title": "Regla de la Cadena. Ejemplos. Derivadas de Orden Superior",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_32.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_32.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas Cruzadas Coinciden. Funciones R^m. Matriz Jacobiana",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_33.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_33.mp4"
+      ]
+    },
+    {
+      "title": "Regla de la Cadena (versión general). Desarrollo de Taylor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_34.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_34.mp4"
+      ]
+    },
+    {
+      "title": "Taylor. Extremos Relativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_35.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_35.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo Taylor. Integrales Múltiples (definición)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_36.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_36.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Fubini. Ejemplos.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_37.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_37.mp4"
+      ]
+    },
+    {
+      "title": "Demostración Teorema de Fubini",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_38.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_38.mp4"
+      ]
+    },
+    {
+      "title": "Cambio De Variable. Ejemplo (Cambio Lineal)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_39.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_39.mp4"
+      ]
+    },
+    {
+      "title": "Polares. Ejemplos. Integrales Triples",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_40.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_40.mp4"
+      ]
+    },
+    {
+      "title": "Cilíndricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_41.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_41.mp4"
+      ]
+    },
+    {
+      "title": "Esféricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_42.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_42.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Impropias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_43.webm",
+        "https://openfing-video.fing.edu.uy/media/cdivv/cdivv_43.mp4"
+      ]
+    }
+  ]
+}

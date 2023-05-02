@@ -1,0 +1,156 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso. Desarrollo Orientado a Objetos Basado en UML",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_01.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_01.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos de Orientación a Objetos I (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_02.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_02.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos de Orientación a Objetos I (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_03.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_03.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Básicos de Orientación a Objetos I (parte 3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_04.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_04.mp4"
+      ]
+    },
+    {
+      "title": "Requerimientos e Introducción al Análisis. Modelado del Dominio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_05.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_05.mp4"
+      ]
+    },
+    {
+      "title": "Análisis: Modelado del Dominio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_06.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_06.mp4"
+      ]
+    },
+    {
+      "title": "Análisis: Especificación del Comportamiento del Sistema",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_07.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_07.mp4"
+      ]
+    },
+    {
+      "title": "Análisis: Especificación del Comportamiento del Sistema. Contratos de Software",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_08.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_08.mp4"
+      ]
+    },
+    {
+      "title": "Interfaces. Generación Parcial de Código",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_09.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_09.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura en Capas. Diseño de Colaboraciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_10.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_10.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Comunicación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_11.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_11.mp4"
+      ]
+    },
+    {
+      "title": "GRASP (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_12.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_12.mp4"
+      ]
+    },
+    {
+      "title": "GRASP (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_13.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_13.mp4"
+      ]
+    },
+    {
+      "title": "Patrones de Diseño: Fábrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_14.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_14.mp4"
+      ]
+    },
+    {
+      "title": "Patrones de Diseño: Singleton y Composite",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_15.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_15.mp4"
+      ]
+    },
+    {
+      "title": "Patrones de Diseño: State y Observer",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_16.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_16.mp4"
+      ]
+    },
+    {
+      "title": "Implementación: Estructura e Interacciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_17.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_17.mp4"
+      ]
+    },
+    {
+      "title": "Implementación: Colecciones y Diccionarios (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_18.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_18.mp4"
+      ]
+    },
+    {
+      "title": "Implementación: Colecciones y Diccionarios (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p4/p4_19.webm",
+        "https://openfing-video.fing.edu.uy/media/p4/p4_19.mp4"
+      ]
+    }
+  ]
+}

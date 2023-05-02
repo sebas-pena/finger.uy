@@ -1,0 +1,88 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del Curso y Tema 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_01.mp4"
+      ]
+    },
+    {
+      "title": "Consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_02.mp4"
+      ]
+    },
+    {
+      "title": "Consultas y Tema 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_03.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 2: Cómputo en Árboles",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_05.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 2: Consultas sobre ejercicios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_06.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 2: Discusión de ejercicios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_07.mp4"
+      ]
+    },
+    {
+      "title": "Discusión del Problema del Ranking y Capítulo 3: Inicio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_09.mp4"
+      ]
+    },
+    {
+      "title": "Solución del Problema de Ranking",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_10.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 3: Anillos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_12.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 3 - Discusión de ejercicios / Megamerger",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_15.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 4 - Routing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_16.mp4"
+      ]
+    },
+    {
+      "title": "Capítulo 4 - Routing, 2.ª parte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/adadr/adadr_18.mp4"
+      ]
+    }
+  ]
+}

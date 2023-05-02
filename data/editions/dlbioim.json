@@ -1,0 +1,39 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al aprendizaje profundo para análisis de imágenes biomédicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlbioim/dlbioim_01.mp4"
+      ]
+    },
+    {
+      "title": "Perceptrón Multicapa y Backpropagation. Introducción a PyTorch",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlbioim/dlbioim_02.mp4"
+      ]
+    },
+    {
+      "title": "Redes Neuronales Convolucionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlbioim/dlbioim_03.mp4"
+      ]
+    },
+    {
+      "title": "Segmentación de imágenes Biomédicas. Autocodificadores: Aplicación en segmentación anatómica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlbioim/dlbioim_04.mp4"
+      ]
+    },
+    {
+      "title": "Registración de imágenes y otros problemas de investigación abiertos en Deep learning para análisis de imágenes médicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlbioim/dlbioim_05.mp4"
+      ]
+    }
+  ]
+}

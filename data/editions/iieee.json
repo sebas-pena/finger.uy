@@ -1,0 +1,35 @@
+{
+  "classes": [
+    {
+      "title": "Canalizaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_02.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra sobrecorrientes 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_03.webm",
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_03.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra contactos eléctricos y PAT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_04.webm",
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_04.mp4"
+      ]
+    },
+    {
+      "title": "Compensación de Energía Reactiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_05.webm",
+        "https://openfing-video.fing.edu.uy/media/iieee/iieee_05.mp4"
+      ]
+    }
+  ]
+}

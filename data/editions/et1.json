@@ -1,0 +1,92 @@
+{
+  "classes": [
+    {
+      "title": "Circuitos DC. Equivalencia de Circuitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_01.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos de Corriente Alterna",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_02.mp4"
+      ]
+    },
+    {
+      "title": "Potencia en Circuitos AC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_03.mp4"
+      ]
+    },
+    {
+      "title": "Generalidades de Circuitos Trifásicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_04.mp4"
+      ]
+    },
+    {
+      "title": "Potencia en Circuitos Trifásicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_05.mp4"
+      ]
+    },
+    {
+      "title": "Dimensionado de Conductores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_06.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos Magnéticos y Transformadores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_07.mp4"
+      ]
+    },
+    {
+      "title": "Transformadores: Aspectos Operativos y Constructivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_08.mp4"
+      ]
+    },
+    {
+      "title": "Motor de Inducción: Principio de Funcionamiento y Modelo Equivalente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_09.mp4"
+      ]
+    },
+    {
+      "title": "Motores de Inducción. Operación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_10.mp4"
+      ]
+    },
+    {
+      "title": "Estimación de la Demanda",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/et1/et1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/et1/et1_11.mp4"
+      ]
+    }
+  ]
+}

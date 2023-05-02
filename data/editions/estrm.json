@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "S01E01 - Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_01.mp4"
+      ]
+    },
+    {
+      "title": "S01E02 - Variables para proyectar con madera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_02.mp4"
+      ]
+    },
+    {
+      "title": "S02E01 - Anatomía y especies",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_03.mp4"
+      ]
+    },
+    {
+      "title": "S02E02 - Propiedades físicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_04.mp4"
+      ]
+    },
+    {
+      "title": "S02E03 - Propiedades mecánicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_05.mp4"
+      ]
+    },
+    {
+      "title": "S03E01 - Madera aserrada 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_06.mp4"
+      ]
+    },
+    {
+      "title": "S03E02 - Madera aserrada 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_07.mp4"
+      ]
+    },
+    {
+      "title": "S03E03 - Productos de ingeniería de madera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_08.mp4"
+      ]
+    },
+    {
+      "title": "S03E04 - Madera laminada encolada 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_09.mp4"
+      ]
+    },
+    {
+      "title": "S03E05 - Madera laminada encolada 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_10.mp4"
+      ]
+    },
+    {
+      "title": "S04E01 - Edificios de madera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_11.mp4"
+      ]
+    },
+    {
+      "title": "S04E02 - Cubiertas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_12.mp4"
+      ]
+    },
+    {
+      "title": "S04E03 - Pórticos y estructuras 3D",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_13.mp4"
+      ]
+    },
+    {
+      "title": "S04E04 - Puentes de madera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_14.mp4"
+      ]
+    },
+    {
+      "title": "S05E01 - Agentes que degradan la madera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_15.mp4"
+      ]
+    },
+    {
+      "title": "S05E02 - Clases de uso, durabilidad e impregnabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_16.mp4"
+      ]
+    },
+    {
+      "title": "S05E03 - Protección por diseño",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_17.mp4"
+      ]
+    },
+    {
+      "title": "S05E04 - Tratamientos protectores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_18.mp4"
+      ]
+    },
+    {
+      "title": "S06E01 - Proceso de diseño y seguridad estructural",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_19.mp4"
+      ]
+    },
+    {
+      "title": "S06E02 - Acciones y combinaciones de acciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_20.mp4"
+      ]
+    },
+    {
+      "title": "S07E01 - Flexión simple y tracción-compresión paralela a la fibra",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_21.mp4"
+      ]
+    },
+    {
+      "title": "S07E02 - Cortante, torsión y tracción-compresión perpendicular a la fibra",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_22.mp4"
+      ]
+    },
+    {
+      "title": "S07E03 - Inestabilidad en pilares comprimidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_23.mp4"
+      ]
+    },
+    {
+      "title": "S07E04 - Inestabilidad en vigas flexionadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_24.mp4"
+      ]
+    },
+    {
+      "title": "S07E05 - Arriostramientos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_25.mp4"
+      ]
+    },
+    {
+      "title": "S07E06 - Combinación de esfuerzos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_26.mp4"
+      ]
+    },
+    {
+      "title": "S07E07 - Comprobaciones singulares",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_27.mp4"
+      ]
+    },
+    {
+      "title": "S07E08 - Comprobación a fuego",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_28.mp4"
+      ]
+    },
+    {
+      "title": "S08E01 - Estado límite de deflexiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_29.mp4"
+      ]
+    },
+    {
+      "title": "S08E02 - Estado límite de vibraciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_30.mp4"
+      ]
+    },
+    {
+      "title": "S09E01 - Tipos de uniones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_31.mp4"
+      ]
+    },
+    {
+      "title": "S09E02 - Cálculo uniones tipo clavija",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/estrm/estrm_32.mp4"
+      ]
+    }
+  ]
+}

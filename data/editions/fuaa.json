@@ -1,0 +1,158 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al problema de aprendizaje",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_01.mp4"
+      ]
+    },
+    {
+      "title": "El problema de aprendizaje",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_02.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a python y numpy",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_03.mp4"
+      ]
+    },
+    {
+      "title": "El modelo lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_04.mp4"
+      ]
+    },
+    {
+      "title": "Error y ruido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_05.mp4"
+      ]
+    },
+    {
+      "title": "Entrenamiento versus prueba",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_06.mp4"
+      ]
+    },
+    {
+      "title": "Teoría de la generalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_08.mp4"
+      ]
+    },
+    {
+      "title": "La dimensión de Vapnik-Chervonenkis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_09.mp4"
+      ]
+    },
+    {
+      "title": "Compromiso sesgo varianza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_10.mp4"
+      ]
+    },
+    {
+      "title": "El modelo lineal II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_11.mp4"
+      ]
+    },
+    {
+      "title": "Sobreajuste",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_13.mp4"
+      ]
+    },
+    {
+      "title": "Regularización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_14.mp4"
+      ]
+    },
+    {
+      "title": "Validación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_16.mp4"
+      ]
+    },
+    {
+      "title": "Epílogo de los fundamentos teóricos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_17.mp4"
+      ]
+    },
+    {
+      "title": "Perceptrón multicapa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_18.mp4"
+      ]
+    },
+    {
+      "title": "Redes neuronales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_19.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la biblioteca scikit-learn",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_21.mp4"
+      ]
+    },
+    {
+      "title": "Máquinas de vectores de soporte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_22.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de kernel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_23.mp4"
+      ]
+    },
+    {
+      "title": "Métodos basados en similitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_25.mp4"
+      ]
+    },
+    {
+      "title": "Aprendizaje no supervisado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_26.mp4"
+      ]
+    },
+    {
+      "title": "Ingeniería de características",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fuaa/fuaa_28.mp4"
+      ]
+    }
+  ]
+}

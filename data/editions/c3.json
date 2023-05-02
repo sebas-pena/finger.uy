@@ -1,0 +1,156 @@
+{
+  "classes": [
+    {
+      "title": "Curvas Paramétricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_01.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_01.mp4"
+      ]
+    },
+    {
+      "title": "Vector, Versor y Recta Tangente, Longitud de Arco",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_02.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_02.mp4"
+      ]
+    },
+    {
+      "title": "Integrales Curvilíneas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_03.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_03.mp4"
+      ]
+    },
+    {
+      "title": "Rotor y Campos Conservativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_04.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_04.mp4"
+      ]
+    },
+    {
+      "title": "Equivalencia entre Campos Irrotacionales y Campos Conservativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_05.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_05.mp4"
+      ]
+    },
+    {
+      "title": "Superficies Paramétricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_06.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_06.mp4"
+      ]
+    },
+    {
+      "title": "Área de Superficies Paramétricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_07.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_07.mp4"
+      ]
+    },
+    {
+      "title": "Integral de Funciones Escalares sobre Superficies",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_08.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_08.mp4"
+      ]
+    },
+    {
+      "title": "Flujo de un Campo a través de una Superficie",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_09.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_09.mp4"
+      ]
+    },
+    {
+      "title": "Flujo de un Campo. Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_10.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_10.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Green",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_11.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_11.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Stokes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_12.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_12.mp4"
+      ]
+    },
+    {
+      "title": "Aplicaciones del Teorema de Stokes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_13.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_13.mp4"
+      ]
+    },
+    {
+      "title": "Divergencia de un Campo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_14.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_14.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Gauss",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_15.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_15.mp4"
+      ]
+    },
+    {
+      "title": "Ley de Gauss",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_16.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_16.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones de Maxwell",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_17.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_17.mp4"
+      ]
+    },
+    {
+      "title": "Formas Diferenciales (1/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_18.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_18.mp4"
+      ]
+    },
+    {
+      "title": "Formas Diferenciales (2/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/c3/c3_19.webm",
+        "https://openfing-video.fing.edu.uy/media/c3/c3_19.mp4"
+      ]
+    }
+  ]
+}

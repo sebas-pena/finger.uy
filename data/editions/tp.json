@@ -1,0 +1,76 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del Curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_01.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_01.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo de Interfaces Gráficas con Swing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_02.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_02.mp4"
+      ]
+    },
+    {
+      "title": "Gestión de Cambios del Software (SCM)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_03.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_03.mp4"
+      ]
+    },
+    {
+      "title": "Verificación de Sofware",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_04.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_04.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo Web",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_05.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_05.mp4"
+      ]
+    },
+    {
+      "title": "Desarrollo Web (cont.)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_06.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_06.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a Web Services",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_07.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_07.mp4"
+      ]
+    },
+    {
+      "title": "Persistencia en Bases de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_08.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_08.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos Avanzados de Desarrollo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/tp/tp_09.webm",
+        "https://openfing-video.fing.edu.uy/media/tp/tp_09.mp4"
+      ]
+    }
+  ]
+}

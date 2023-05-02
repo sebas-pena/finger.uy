@@ -1,0 +1,116 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a la Logística",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_01.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_01.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Inventarios - parte A (modelos de tamaño económico de lote)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_02.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Inventarios - parte B (Modelos W-W sin y con restricciones de capacidad)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_03.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_03.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Inventarios - parte C (Modelos para demanda dinámica y otras extensiones del modelo W-W)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_04.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_04.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Inventarios - parte D (modelos con fijación de precios)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_05.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_05.mp4"
+      ]
+    },
+    {
+      "title": "Planificación de la producción con remanufacturación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_06.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_06.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de ubicación de instalaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_07.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_07.mp4"
+      ]
+    },
+    {
+      "title": "Problema del expedidor (shipper's problem)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_08.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_08.mp4"
+      ]
+    },
+    {
+      "title": "Problema de ruteo de vehículos - parte 1 - modelo TSP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_09.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_09.mp4"
+      ]
+    },
+    {
+      "title": "Problema de ruteo de vehículos - modelo VRP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_10.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_10.mp4"
+      ]
+    },
+    {
+      "title": "Problema de ruteo de vehículos - modelo VRP - resolución mediante generación de columnas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_11.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_11.mp4"
+      ]
+    },
+    {
+      "title": "Provisión de combustibles para generación eléctrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_12.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_12.mp4"
+      ]
+    },
+    {
+      "title": "Planificación de redes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_13.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_13.mp4"
+      ]
+    },
+    {
+      "title": "Casos reales de redes logísticas en Uruguay",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_14.webm",
+        "https://openfing-video.fing.edu.uy/media/taagl/taagl_14.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "classes": [
+    {
+      "title": "Transformada de Laplace: Introducción. Definición y Región de Convergencia (ROC)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_01.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Polos y ceros. Evaluación de la respuesta frecuencial a partir del diagrama de polos y ceros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_02.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Propiedades de la ROC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_03.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Propiedades de la TL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_04.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Repaso de TL y cierre de Propiedades de la TL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_05.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: TL Unilateral",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_06.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Inversa de la TL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_07.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Resolución de ecuaciones diferenciales de coeficientes constantes. Análisis y caracterización de los SLIT con TL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_08.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace: Representación de SLIT por diagramas de bloques",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_09.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 01: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_10.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 02: Teorema de Muestreo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_11.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 03: Muestreo de una sinusoidal y ejemplos de aliasing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_12.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 04: Comentarios sobre aliasing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_13.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 05: Muestreo en la práctica: cuantificador y codificador, S&H y ADC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_14.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 06: Reconstrucción de una señal a partir de sus muestras",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_15.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 07: Repaso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_16.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 08: Muestreo real",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_17.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 09: Procesamiento digital de señales de tiempo continuo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_18.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 10: Ejemplos de procesamiento digital de señales de tiempo continuo (derivador, retardo de media muestra)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_19.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 11: Muestreo de señales de tiempo discreto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_20.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo 12: Cambio de frecuencia de muestreo (submuestreo y sobremuestreo)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_21.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 01: Introducción. Definición y Región de Convergencia (ROC)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_22.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 02: Polos y ceros. Evaluación de la respuesta frecuencial a partir del diagrama de polos y ceros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_23.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 03: Propiedades de la ROC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_24.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 04: Inversa de la TZ",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_25.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 05: Propiedades de la TZ",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_26.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 06: TZ Unilateral",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_27.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 07: Análisis y caracterización de los SLIT con TZ",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_28.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 08: Resolución de ecuaciones en diferencias de coeficientes constantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_29.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 09: SLITs y ecuaciones en diferencias de coeficientes constantes. Representación de SLIT por diagramas de bloques",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_30.mp4"
+      ]
+    },
+    {
+      "title": "Transformada Z 10: Análisis de un sistema de un polo real. Análisis de un sistema de dos polos complejos conjugados. Análisis de un filtro notch",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_31.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de señales con DFT/FFT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_32.mp4"
+      ]
+    },
+    {
+      "title": "Filtros digitales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_33.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de comunicación 01: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_34.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de comunicación 02: Modulación/demodulación con portadora compleja y sinusoidal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_35.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de comunicación 03: Modulación/demodulación con tren de pulsos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_36.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas lineales realimentados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/seys/seys_37.mp4"
+      ]
+    }
+  ]
+}

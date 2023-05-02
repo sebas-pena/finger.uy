@@ -1,0 +1,340 @@
+{
+  "classes": [
+    {
+      "title": "Presentación + Conjuntos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_01.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_01.mp4"
+      ]
+    },
+    {
+      "title": "Conjuntos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_02.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_02.mp4"
+      ]
+    },
+    {
+      "title": "Funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_03.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_03.mp4"
+      ]
+    },
+    {
+      "title": "Números Reales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_04.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_04.mp4"
+      ]
+    },
+    {
+      "title": "Números Reales + Enteros Naturales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_05.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_05.mp4"
+      ]
+    },
+    {
+      "title": "Inducción Completa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_06.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_06.mp4"
+      ]
+    },
+    {
+      "title": "Los Conjuntos ℤ y ℚ + Axioma de Completitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_07.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_07.mp4"
+      ]
+    },
+    {
+      "title": "Razonamiento a Menos de ε + Raíz Cuadrada",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_08.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_08.mp4"
+      ]
+    },
+    {
+      "title": "Consecuencias del Axioma de Completitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_09.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_09.mp4"
+      ]
+    },
+    {
+      "title": "Integrales: Presentación y Construcción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_10.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_10.mp4"
+      ]
+    },
+    {
+      "title": "Integrales: Construcción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_11.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_11.mp4"
+      ]
+    },
+    {
+      "title": "Integrales: Ejemplos y Criterios de Integración",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_12.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_12.mp4"
+      ]
+    },
+    {
+      "title": "Integrales de Funciones Monótonas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_13.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_13.mp4"
+      ]
+    },
+    {
+      "title": "Integrales: Propiedades Algebraicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_14.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_14.mp4"
+      ]
+    },
+    {
+      "title": "Integrales: Otras Propiedades y Funciones Escalonadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_15.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_15.mp4"
+      ]
+    },
+    {
+      "title": "Integrales de Funciones Polinomiales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_16.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_16.mp4"
+      ]
+    },
+    {
+      "title": "Integral de la Función 1/t y Función Logaritmo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_17.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_17.mp4"
+      ]
+    },
+    {
+      "title": "Límites: Introducción y Definición",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_18.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_18.mp4"
+      ]
+    },
+    {
+      "title": "Límites: Ejemplos y Contraejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_19.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_19.mp4"
+      ]
+    },
+    {
+      "title": "Límites: Propiedades Algebraicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_20.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_20.mp4"
+      ]
+    },
+    {
+      "title": "Límites: Monotonía, Teorema del Sándwich",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_21.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_21.mp4"
+      ]
+    },
+    {
+      "title": "Límites: Composición y Generalización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_22.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_22.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad: Teorema de Bolzano; Valores Intermedios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_23.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_23.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad: Extremos Absolutos; Teorema de Weierstrass",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_24.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_24.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad: Teorema de Weierstrass; Funciones Inversas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_25.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_25.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad: Función Exponencial; Continuidad Uniforme",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_26.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_26.mp4"
+      ]
+    },
+    {
+      "title": "Continuidad Uniforme: Teorema de Heine-Cantor; Consecuencias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_27.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_27.mp4"
+      ]
+    },
+    {
+      "title": "Funciones Seccionalmente Continuas; Teorema del Valor Medio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_28.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_28.mp4"
+      ]
+    },
+    {
+      "title": "Funciones Trigonométricas; Derivada y Recta Tangente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_29.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_29.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas: Propiedades Algebraicas; Funciones Usuales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_30.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_30.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas: Regla de la Cadena; Funciones Inversas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_31.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_31.mp4"
+      ]
+    },
+    {
+      "title": "Derivadas de las Funciones Trigonométricas Inversas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_32.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_32.mp4"
+      ]
+    },
+    {
+      "title": "Extremos Relativos y Derivadas; Teorema de Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_33.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_33.mp4"
+      ]
+    },
+    {
+      "title": "Signo de la Derivada y Monotonía; Regla de L`Hôpital",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_34.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_34.mp4"
+      ]
+    },
+    {
+      "title": "Regla de L`Hôpital; Teorema Fundamental del Cálculo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_35.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_35.mp4"
+      ]
+    },
+    {
+      "title": "Determinación de los Extremos: Ejemplo de Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_36.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_36.mp4"
+      ]
+    },
+    {
+      "title": "Demostración del Teorema Fundamental del Cálculo. Cálculo de Integrales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_37.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_37.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Integración",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_38.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_38.mp4"
+      ]
+    },
+    {
+      "title": "Fracciones Simples",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_39.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_39.mp4"
+      ]
+    },
+    {
+      "title": "Polinomios de Taylor. Polinomios de MacLaurin",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_40.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_40.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Taylor. Propiedades de Infinitésimos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_41.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_41.mp4"
+      ]
+    },
+    {
+      "title": "Aplicaciones del Polinomio de Taylor. Forma de Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/civ/civ_42.webm",
+        "https://openfing-video.fing.edu.uy/media/civ/civ_42.mp4"
+      ]
+    }
+  ]
+}

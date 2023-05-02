@@ -1,0 +1,186 @@
+{
+  "classes": [
+    {
+      "title": "Números Complejos",
+      "externalLink": "https://www.youtube.com/embed/gPWkwo82eic",
+      "videos": null
+    },
+    {
+      "title": "Función Exponencial Compleja",
+      "externalLink": "https://www.youtube.com/embed/vUQowBAVzHk",
+      "videos": null
+    },
+    {
+      "title": "Notación Polar y Raíces de la Unidad",
+      "externalLink": "https://www.youtube.com/embed/CdkPczkJyy0",
+      "videos": null
+    },
+    {
+      "title": "Ecuaciones Diferenciales: Variables Separables",
+      "externalLink": "https://www.youtube.com/embed/myAp2jEQt-g",
+      "videos": null
+    },
+    {
+      "title": "Ecuaciones diferenciales lineales de 1er orden",
+      "externalLink": "https://www.youtube.com/embed/Kfry-mSU6iE",
+      "videos": null
+    },
+    {
+      "title": "Ecuaciones diferenciales lineales de 2do orden",
+      "externalLink": "https://www.youtube.com/embed/oUnzqxhjNPM",
+      "videos": null
+    },
+    {
+      "title": "Sucesiones",
+      "externalLink": "https://www.youtube.com/embed/LPUOAOTZwgo",
+      "videos": null
+    },
+    {
+      "title": "Sucesiones, monotonía y acotación",
+      "externalLink": "https://www.youtube.com/embed/IhOtOcmdT_0",
+      "videos": null
+    },
+    {
+      "title": "Sucesiones, Propiedades y PSMC",
+      "externalLink": "https://www.youtube.com/embed/senvv2WkIQ4",
+      "videos": null
+    },
+    {
+      "title": "Subsucesiones",
+      "externalLink": "https://www.youtube.com/embed/m7MHsNg0TM0",
+      "videos": null
+    },
+    {
+      "title": "Bolzano-Weierstrass, Series",
+      "externalLink": "https://www.youtube.com/embed/_-pTZLM2BM8",
+      "videos": null
+    },
+    {
+      "title": "Series",
+      "externalLink": "https://www.youtube.com/embed/41nPe3c22hU",
+      "videos": null
+    },
+    {
+      "title": "Criterio del Cociente",
+      "externalLink": "https://www.youtube.com/embed/f4elC9gDXF0",
+      "videos": null
+    },
+    {
+      "title": "Criterio de la raíz enésima y Series alternadas",
+      "externalLink": "https://www.youtube.com/embed/SyvpG_uUIKE",
+      "videos": null
+    },
+    {
+      "title": "Integrales Impropias",
+      "externalLink": "https://www.youtube.com/embed/_St8adSWGxc",
+      "videos": null
+    },
+    {
+      "title": "Criterio Serie - Integral",
+      "externalLink": "https://www.youtube.com/embed/jxTBueAzY9s",
+      "videos": null
+    },
+    {
+      "title": "Convergencia absoluta e Impropias de segunda especie",
+      "externalLink": "https://www.youtube.com/embed/5Xd5sVN1h4I",
+      "videos": null
+    },
+    {
+      "title": "Topología en ℝⁿ",
+      "externalLink": "https://www.youtube.com/embed/so8elibOty8",
+      "videos": null
+    },
+    {
+      "title": "Unión e intersección de abiertos. Conjuntos cerrados",
+      "externalLink": "https://www.youtube.com/embed/rFnUfdkXzXU",
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdivv-2022/cdivv-2022_19.mp4"
+      ]
+    },
+    {
+      "title": "Puntos de acumulación",
+      "externalLink": "https://www.youtube.com/embed/-VR1wWwdJgw",
+      "videos": null
+    },
+    {
+      "title": "Sucesiones en ℝⁿ",
+      "externalLink": "https://www.youtube.com/embed/Mn0bHyKivm8",
+      "videos": null
+    },
+    {
+      "title": "Repaso 1er Parcial",
+      "externalLink": "https://www.youtube.com/embed/RUt767oXuFI",
+      "videos": null
+    },
+    {
+      "title": "Funciones en ℝⁿ",
+      "externalLink": "https://www.youtube.com/embed/K9qTZsN7muA",
+      "videos": null
+    },
+    {
+      "title": "Límites Direccionales",
+      "externalLink": "https://www.youtube.com/embed/ry2FL9dlRmQ",
+      "videos": null
+    },
+    {
+      "title": "Teorema de Weierstrass",
+      "externalLink": "https://www.youtube.com/embed/WGRV4xaIJN0",
+      "videos": null
+    },
+    {
+      "title": "Derivadas Parciales y Direccionales",
+      "externalLink": "https://www.youtube.com/embed/WfkO_9HT3Rs",
+      "videos": null
+    },
+    {
+      "title": "Diferenciabilidad",
+      "externalLink": "https://www.youtube.com/embed/iekEolGFDUE",
+      "videos": null
+    },
+    {
+      "title": "Ejemplos y Condición Suficiente de Diferenciabilidad",
+      "externalLink": "https://www.youtube.com/embed/oq52BEr-c8o",
+      "videos": null
+    },
+    {
+      "title": "Regla de la cadena",
+      "externalLink": "https://www.youtube.com/embed/Immtmhd37eM",
+      "videos": null
+    },
+    {
+      "title": "Derivadas de orden superior",
+      "externalLink": "https://www.youtube.com/embed/vtx5C01GozM",
+      "videos": null
+    },
+    {
+      "title": "Desarrollo de Taylor",
+      "externalLink": "https://www.youtube.com/embed/zxOaa3KUm4E",
+      "videos": null
+    },
+    {
+      "title": "Integrales",
+      "externalLink": "https://www.youtube.com/embed/iq3d5eFz_zY",
+      "videos": null
+    },
+    {
+      "title": "Cambio de Variable",
+      "externalLink": "https://www.youtube.com/embed/UL3D6kVUa90",
+      "videos": null
+    },
+    {
+      "title": "Integrales con polares",
+      "externalLink": "https://www.youtube.com/embed/ROXZi1El7cw",
+      "videos": null
+    },
+    {
+      "title": "Coordenadas Cilíndricas",
+      "externalLink": "https://www.youtube.com/embed/i57i57nLFxQ",
+      "videos": null
+    },
+    {
+      "title": "Coordenadas Esféricas",
+      "externalLink": "https://www.youtube.com/embed/httcIZ_brFw",
+      "videos": null
+    }
+  ]
+}

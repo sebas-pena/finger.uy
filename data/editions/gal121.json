@@ -1,0 +1,187 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a Sistemas de Ecuaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_01.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de un Sistema de Ecuaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_02.mp4"
+      ]
+    },
+    {
+      "title": "Matriz Ampliada y Escalerización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_03.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Rouché-Frobenius",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_04.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_05.mp4"
+      ]
+    },
+    {
+      "title": "Álgebra de Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_06.mp4"
+      ]
+    },
+    {
+      "title": "Inversa de una Matriz",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_07.mp4"
+      ]
+    },
+    {
+      "title": "Matrices Elementales y Determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_08.mp4"
+      ]
+    },
+    {
+      "title": "Determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_09.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades del Determinante",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_10.mp4"
+      ]
+    },
+    {
+      "title": "Determinantes y Geometría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_11.mp4"
+      ]
+    },
+    {
+      "title": "Vectores y Ecuación de la recta",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_12.mp4"
+      ]
+    },
+    {
+      "title": "Recta, Plano, Ángulo entre Vectores y Producto escalar",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_13.mp4"
+      ]
+    },
+    {
+      "title": "Vector Normal. Producto Vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_14.mp4"
+      ]
+    },
+    {
+      "title": "Clase de Ejercicios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_15.mp4"
+      ]
+    },
+    {
+      "title": "Aplicaciones del Producto Vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_16.mp4"
+      ]
+    },
+    {
+      "title": "Espacios Vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_17.mp4"
+      ]
+    },
+    {
+      "title": "Propiedades de Espacios Vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_18.mp4"
+      ]
+    },
+    {
+      "title": "Combinaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_19.mp4"
+      ]
+    },
+    {
+      "title": "Conjuntos Linealmente Independientes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_20.mp4"
+      ]
+    },
+    {
+      "title": "Bases de un Espacio Vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_21.mp4"
+      ]
+    },
+    {
+      "title": "Dimensión de un Espacio Vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_22.mp4"
+      ]
+    },
+    {
+      "title": "Suma Directa de Subespacios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_23.mp4"
+      ]
+    },
+    {
+      "title": "Transformaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_24.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Base",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_25.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de las Dimensiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal121/gal121_26.mp4"
+      ]
+    }
+  ]
+}

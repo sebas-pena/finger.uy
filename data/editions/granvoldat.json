@@ -1,0 +1,95 @@
+{
+  "classes": [
+    {
+      "title": "Presentación e Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_02.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual - Modelo Multidimensional - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_03.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual - Modelo Multidimensional - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_04.mp4"
+      ]
+    },
+    {
+      "title": "Discusión y Solución de ejercicio de Práctico Diseño Conceptual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_05.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual - Problemas de diseño y aditividad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_06.mp4"
+      ]
+    },
+    {
+      "title": "Presentación del Proyecto de Laboratorio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_07.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Conceptual - Problemas de diseño y aditividad. Discusión Ej. 1 del Práctico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_08.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Lógico - Parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_09.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Lógico - Parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_10.mp4"
+      ]
+    },
+    {
+      "title": "Proyecto - Puesta en común Diseño Conceptual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_11.mp4"
+      ]
+    },
+    {
+      "title": "Proyecto - Puesta en común Diseño Lógico Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_12.mp4"
+      ]
+    },
+    {
+      "title": "Bases de datos NoSQL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/granvoldat/granvoldat_13.mp4"
+      ]
+    }
+  ]
+}

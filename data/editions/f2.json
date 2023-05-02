@@ -1,0 +1,212 @@
+{
+  "classes": [
+    {
+      "title": "Introducción. Densidad y Presión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_01.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_01.mp4"
+      ]
+    },
+    {
+      "title": "Presión y Profundidad. Pascal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_02.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_02.mp4"
+      ]
+    },
+    {
+      "title": "Arquímedes. Atmósfera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_03.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_03.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Continuidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_04.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_04.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Bernoulli",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_05.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_05.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_06.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_06.mp4"
+      ]
+    },
+    {
+      "title": "Pulsos en Cuerdas. Ecuación de Onda",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_07.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_07.mp4"
+      ]
+    },
+    {
+      "title": "Ondas Sinusoidales. Desfasaje Temporal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_08.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_08.mp4"
+      ]
+    },
+    {
+      "title": "Desfasaje Espacial. Interferencia. Potencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_09.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_09.mp4"
+      ]
+    },
+    {
+      "title": "Ondas Estacionarias. Flujo de Energía",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_10.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_10.mp4"
+      ]
+    },
+    {
+      "title": "Sonido. Ecuación de Onda en Tubos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_11.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_11.mp4"
+      ]
+    },
+    {
+      "title": "Ondas Estacionarias. Potencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_12.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_12.mp4"
+      ]
+    },
+    {
+      "title": "Intensidad. Batido (Pulsaciones)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_13.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_13.mp4"
+      ]
+    },
+    {
+      "title": "Potencia de Pulsos. Efecto Doppler",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_14.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_14.mp4"
+      ]
+    },
+    {
+      "title": "Temperatura. Dilatación Térmica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_15.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_15.mp4"
+      ]
+    },
+    {
+      "title": "Teoría Cinética y el Gas Ideal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_16.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_16.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación del Gas. Primer Principio. Energía Interna de un Gas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_17.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_17.mp4"
+      ]
+    },
+    {
+      "title": "Calor. Trabajo. Proceso a V=cte, Proceso P=cte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_18.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_18.mp4"
+      ]
+    },
+    {
+      "title": "Procesos Isotermo, Adiabático y Politrópico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_19.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_19.mp4"
+      ]
+    },
+    {
+      "title": "Calor Específico de Gases. Ejemplo con Resorte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_20.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_20.mp4"
+      ]
+    },
+    {
+      "title": "Calor Específico de Sólidos y Líquidos. Calor Latente. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_21.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_21.mp4"
+      ]
+    },
+    {
+      "title": "Segundo Principio. Ciclos Termodinámicos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_22.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_22.mp4"
+      ]
+    },
+    {
+      "title": "Procesos Reversibles. Ciclo de Carnot",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_23.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_23.mp4"
+      ]
+    },
+    {
+      "title": "Ciclos Irreversibles. Entropía",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_24.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_24.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo de la Entropía",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_25.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_25.mp4"
+      ]
+    },
+    {
+      "title": "Proceso Isentrópico Gas. Entropía Boltzmann",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/f2/f2_26.webm",
+        "https://openfing-video.fing.edu.uy/media/f2/f2_26.mp4"
+      ]
+    }
+  ]
+}

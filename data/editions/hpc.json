@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a la Computación de Alto Desempeño",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_01.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_01.mp4"
+      ]
+    },
+    {
+      "title": "Arquitecturas paralelas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_02.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_02.mp4"
+      ]
+    },
+    {
+      "title": "Técnicas de programación paralela",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_03.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_03.mp4"
+      ]
+    },
+    {
+      "title": "Evaluación de desempeño",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_04.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_04.mp4"
+      ]
+    },
+    {
+      "title": "Mecanismos de programación paralela en lenguaje C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_05.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_05.mp4"
+      ]
+    },
+    {
+      "title": "Programación multithreading",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_06.webm",
+        "https://openfing-video.fing.edu.uy/media/hpc/hpc_06.mp4"
+      ]
+    }
+  ]
+}

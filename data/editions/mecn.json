@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "Cinemática de la Partícula. Coordenadas Cartesianas y Cilíndricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_01.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_01.mp4"
+      ]
+    },
+    {
+      "title": "Coordenadas Polares Esféricas. Coordenadas Intrínsecas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_02.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_02.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento Relativo: Velocidad Angular, Derivada Absoluta y Relativa, Teorema de Adición de Velocidades Angulares",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_03.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_03.mp4"
+      ]
+    },
+    {
+      "title": "Movimiento Relativo: Teorema de Roverbal, Teorema de Coriolis. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_04.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_04.mp4"
+      ]
+    },
+    {
+      "title": "Leyes de Newton. Fuerza Gravitatoria, Fuerza Viscosa. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_05.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_05.mp4"
+      ]
+    },
+    {
+      "title": "Fuerza Elástica. Sistemas Vinculados: Reacción Normal, Fricción Dinámica y Estática. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_06.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_06.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos de Sistemas Vinculados. Solución de Ecuaciones de Movimiento Lineales y Homogéneas. Preintegración",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_07.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_07.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Sistema Vinculado. Sistemas No Inerciales, Fuerzas Ficticias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_08.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_08.mp4"
+      ]
+    },
+    {
+      "title": "Fuerzas Ficticias: Péndulo de Foucault. Trabajo y Energía: Potencia, Teorema del Trabajo y la Energía. Fuerzas Conservativas: Potencial Gravitatorio y Elástico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_09.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_09.mp4"
+      ]
+    },
+    {
+      "title": "Conservación de la Energía, Fuerzas Residuales, Ejemplo. Equilibrio y Estabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_10.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_10.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas No Conservativos Preintegrables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_11.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_11.mp4"
+      ]
+    },
+    {
+      "title": "Fuerzas Centrales, Conservación del Momento Angular. Potencial Efectivo, Análisis de Órbitas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_12.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_12.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones de Binet. Movimiento Planetario, Leyes de Kepler",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_13.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_13.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Movimiento Central. Sistemas de Partículas: Primera Cardinal, Centro de Masas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_14.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_14.mp4"
+      ]
+    },
+    {
+      "title": "Momento de un Sistema de Fuerzas, Segunda Cardinal. Energía de un Sistema de Partículas, Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_15.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_15.mp4"
+      ]
+    },
+    {
+      "title": "Cinemática del Rígido: Grados de Libertad de un Rígido, Velocidad Angular, Distribución de Velocidades y Aceleraciones, Rodadura sin Deslizamiento, Movimiento Plano",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_16.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_16.mp4"
+      ]
+    },
+    {
+      "title": "Cinemática del Rígido: Rodadura sin Deslizamiento, Centro Instantáneo de Rotación, Ángulos de Euler. Momento Angular y Energía Cinética de un Rígido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_17.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_17.mp4"
+      ]
+    },
+    {
+      "title": "Tensor de Inercia: Momentos de Inercia, Ejes Principales, Distribución Continua de Masa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_18.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_18.mp4"
+      ]
+    },
+    {
+      "title": "Tensor de Inercia: Propiedades de un Rígido Plano, Simetrías, Cálculo de Momentos Angulares, Teorema de Steiner",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_19.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_19.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Cardinales para un Rígido. Dinámica del Movimiento Plano de un Rígido, Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_20.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_20.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo de Dinámica del Movimiento Plano de un Rígido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_21.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_21.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Fuerzas Aplicadas: Equivalencia, Reducción. Estática del Rígido: Condiciones de Equilibrio, Compatibilidad con los Vínculos, Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_22.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_22.mp4"
+      ]
+    },
+    {
+      "title": "Rígido Uniformemente Acelerado. Indeterminación Estática. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_23.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_23.mp4"
+      ]
+    },
+    {
+      "title": "Placa Apoyada sobre Plano Inclinado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_24.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_24.mp4"
+      ]
+    },
+    {
+      "title": "Articulaciones Lisas. Dinámica del Rígido en el Espacio. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_25.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_25.mp4"
+      ]
+    },
+    {
+      "title": "Potencia de un Sistema de Fuerzas sobre un Rígido. Giros Balanceados. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_26.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_26.mp4"
+      ]
+    },
+    {
+      "title": "Cantidades Conservadas en el Movimiento de un Rígido. Ejemplo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_27.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_27.mp4"
+      ]
+    },
+    {
+      "title": "Trompo Simétrico Pesado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_28.webm",
+        "https://openfing-video.fing.edu.uy/media/mecn/mecn_28.mp4"
+      ]
+    }
+  ]
+}

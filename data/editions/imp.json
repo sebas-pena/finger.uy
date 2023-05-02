@@ -1,0 +1,268 @@
+{
+  "classes": [
+    {
+      "title": "Presentación e Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_01.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_01.mp4"
+      ]
+    },
+    {
+      "title": "Arquitectura Interna del Z80",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_02.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_02.mp4"
+      ]
+    },
+    {
+      "title": "Modos de Direccionamiento. Cartilla Z80, Repertorio de Instrucciones, Grupos de Instrucciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_03.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_03.mp4"
+      ]
+    },
+    {
+      "title": "Repertorio de Instrucciones (1/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_04.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_04.mp4"
+      ]
+    },
+    {
+      "title": "Repertorio de Instrucciones (2/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_05.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_05.mp4"
+      ]
+    },
+    {
+      "title": "Bloque de Control de un Computador Sencillo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_06.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_06.mp4"
+      ]
+    },
+    {
+      "title": "Lenguajes y Ciclo de Desarrollo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_07.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_07.mp4"
+      ]
+    },
+    {
+      "title": "Lenguaje Ensamblador",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_08.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_08.mp4"
+      ]
+    },
+    {
+      "title": "Memorias: Características, Hojas de Datos, Conexión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_09.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_09.mp4"
+      ]
+    },
+    {
+      "title": "Decodificación de Memoria. Pines del Z80",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_10.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_10.mp4"
+      ]
+    },
+    {
+      "title": "Ciclos de Máquina",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_11.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_11.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Tiempos Hardware",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_12.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_12.mp4"
+      ]
+    },
+    {
+      "title": "Entrada/Salida controlada por programa. Handshaking. Polling",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_13.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_13.mp4"
+      ]
+    },
+    {
+      "title": "Decodificacion E/S. Stack, subrutinas, pasaje de parámetros",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_14.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_14.mp4"
+      ]
+    },
+    {
+      "title": "Sistema Mínimo (con Z80 y con T80)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_15.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_15.mp4"
+      ]
+    },
+    {
+      "title": "Interrupciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_16.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_16.mp4"
+      ]
+    },
+    {
+      "title": "Estructura de interrupciones Z80. Ejemplo 2 interrupciones en modo 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_17.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_17.mp4"
+      ]
+    },
+    {
+      "title": "Interrupciones Z80. Ejemplo inicialización modo 2. Prioridades, Daisy Chain",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_18.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_18.mp4"
+      ]
+    },
+    {
+      "title": "Prioridades, Daiy Chain (cont.). Ejercicio 8.1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_19.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_19.mp4"
+      ]
+    },
+    {
+      "title": "Periféricos programables. Bloques usados en laboratorio (Timer, Counter, Controlador de interrupciones)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_20.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_20.mp4"
+      ]
+    },
+    {
+      "title": "Bloques laboratorio (cont.). Nociones de Microcontroladores.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_21.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_21.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo problema de examen.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_22.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_22.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo problema de examen (cont.)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_23.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_23.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 02: Programas en Lenguaje Ensamblador (P2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_102.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_102.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 03: Subrutinas. Tiempos (P3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_103.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_103.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 04: Tiempos. Ensamblado. Ciclos de Máquina (P3/P5)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_104.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_104.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 05: Memorias. Ciclos de Máquina (P4/P5)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_105.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_105.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 06: Tiempos HW. Ensamblado (P4/P5)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_106.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_106.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 07: Puertos de Entrada y Salida (P6)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_107.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_107.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 08: Interrupciones (P7)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_108.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_108.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 10: Periféricos. Interrupciones M2 (1/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_110.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_110.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 11: Periféricos. Interrupciones M2 (2/2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_111.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_111.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 12: Repaso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imp/imp_112.webm",
+        "https://openfing-video.fing.edu.uy/media/imp/imp_112.mp4"
+      ]
+    }
+  ]
+}

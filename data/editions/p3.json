@@ -1,0 +1,260 @@
+{
+  "classes": [
+    {
+      "title": "[Teo] Introducción al Lenguaje C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_01.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_01.mp4"
+      ]
+    },
+    {
+      "title": "[Pr1] Lenguaje C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_02.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_02.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Introducción al Análisis de Algoritmos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_03.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_03.mp4"
+      ]
+    },
+    {
+      "title": "[Pr2] Análisis de Algoritmos, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_04.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_04.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Grafos, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_05.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_05.mp4"
+      ]
+    },
+    {
+      "title": "[Pr2] Análisis de Algoritmos, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_06.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_06.mp4"
+      ]
+    },
+    {
+      "title": "[Pr3] Grafos, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_07.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_07.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Grafos, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_08.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_08.mp4"
+      ]
+    },
+    {
+      "title": "[Pr3] Grafos, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_09.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_09.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Hash",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_10.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_10.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Multiestructuras",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_11.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_11.mp4"
+      ]
+    },
+    {
+      "title": "[Pr4] Hash",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_12.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_12.mp4"
+      ]
+    },
+    {
+      "title": "[Pr5] Multiestructuras, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_13.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_13.mp4"
+      ]
+    },
+    {
+      "title": "[Pr5] Multiestructuras, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_14.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_14.mp4"
+      ]
+    },
+    {
+      "title": "Repaso. Ejercicio de Examen. Consultas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_15.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_15.mp4"
+      ]
+    },
+    {
+      "title": "[Teo/Pr6] Divide & Conquer",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_16.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_16.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Backtracking",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_17.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_17.mp4"
+      ]
+    },
+    {
+      "title": "[Pr6] Divide & Conquer",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_18.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_18.mp4"
+      ]
+    },
+    {
+      "title": "[Pr7] Backtracking, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_19.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_19.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Algoritmos Ávidos (Greedy)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_20.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_20.mp4"
+      ]
+    },
+    {
+      "title": "[Pr7] Backtracking, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_21.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_21.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Programación Dinámica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_22.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_22.mp4"
+      ]
+    },
+    {
+      "title": "[Pr8] Algoritmos Ávidos (Greedy), parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_23.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_23.mp4"
+      ]
+    },
+    {
+      "title": "[Pr8] Algoritmos Ávidos (Greedy), parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_24.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_24.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Complejidad y Sorting, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_25.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_25.mp4"
+      ]
+    },
+    {
+      "title": "[Pr9] Programación Dinámica, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_26.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_26.mp4"
+      ]
+    },
+    {
+      "title": "[Pr9] Programación Dinámica, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_27.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_27.mp4"
+      ]
+    },
+    {
+      "title": "[Teo] Complejidad y Sorting, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_28.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_28.mp4"
+      ]
+    },
+    {
+      "title": "[Pr10] Complejidad y Sorting, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_29.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_29.mp4"
+      ]
+    },
+    {
+      "title": "[Pr10] Complejidad y Sorting, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_30.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_30.mp4"
+      ]
+    },
+    {
+      "title": "[Pr10] Complejidad y Sorting, parte 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_31.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_31.mp4"
+      ]
+    },
+    {
+      "title": "Repaso, Ejercicios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3/p3_32.webm",
+        "https://openfing-video.fing.edu.uy/media/p3/p3_32.mp4"
+      ]
+    }
+  ]
+}

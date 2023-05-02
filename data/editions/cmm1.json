@@ -1,0 +1,132 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Curso. Principios, Leyes Fundamentales y Sistemas de Unidades",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_01.mp4"
+      ]
+    },
+    {
+      "title": "Modelo de la Partícula",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelo del Cuerpo Rígido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_03.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Estructuras",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_04.mp4"
+      ]
+    },
+    {
+      "title": "Fricción Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_05.mp4"
+      ]
+    },
+    {
+      "title": "Fricción Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_06.mp4"
+      ]
+    },
+    {
+      "title": "Métodos Energéticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_07.mp4"
+      ]
+    },
+    {
+      "title": "Centroides y Momentos de Inercia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_08.mp4"
+      ]
+    },
+    {
+      "title": "Modelo del Sólido Deformable - Esfuerzo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_09.mp4"
+      ]
+    },
+    {
+      "title": "Carga Axial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_10.mp4"
+      ]
+    },
+    {
+      "title": "Torsión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_11.mp4"
+      ]
+    },
+    {
+      "title": "Diagrama Cortante y Flector",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_12.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_12.mp4"
+      ]
+    },
+    {
+      "title": "Flexión Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_13.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_13.mp4"
+      ]
+    },
+    {
+      "title": "Flexión Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_14.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_14.mp4"
+      ]
+    },
+    {
+      "title": "Esfuerzos Combinados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_15.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_15.mp4"
+      ]
+    },
+    {
+      "title": "EXTRA: Teoría de Falla",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_16.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1/cmm1_16.mp4"
+      ]
+    }
+  ]
+}

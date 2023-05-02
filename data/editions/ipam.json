@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "title": "Taller de Cámara",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_01.mp4"
+      ]
+    },
+    {
+      "title": "Taller de Sonido",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_02.mp4"
+      ]
+    },
+    {
+      "title": "Taller de Cámara",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_03.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a los Lenguajes Multimediales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_04.mp4"
+      ]
+    },
+    {
+      "title": "Narrativa Documental",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_05.mp4"
+      ]
+    },
+    {
+      "title": "Narrativa Documental",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_06.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a los Lenguajes Multimediales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ipam/ipam_07.mp4"
+      ]
+    }
+  ]
+}

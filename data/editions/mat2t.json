@@ -1,0 +1,102 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1: Presentación - Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2: Matriz inversa 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3: Matriz inversa 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4: Sistemas de ecuaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5: Espacio R^n",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6: Espacio R^n - Recta y plano en R^3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_06.mp4"
+      ]
+    },
+    {
+      "title": "Clase 7: Recta y plano en R^3 - Producto escalar",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_07.mp4"
+      ]
+    },
+    {
+      "title": "Clase 8:  Producto escalar - Producto vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_08.mp4"
+      ]
+    },
+    {
+      "title": "Clase 9: Espacio Vectorial - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_09.mp4"
+      ]
+    },
+    {
+      "title": "Clase 10: Espacio Vectorial - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_10.mp4"
+      ]
+    },
+    {
+      "title": "Clase 11: Número Complejo - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_11.mp4"
+      ]
+    },
+    {
+      "title": "Clase 12: Número Complejo - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_12.mp4"
+      ]
+    },
+    {
+      "title": "Clase 13: Fracciones simples - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_13.mp4"
+      ]
+    },
+    {
+      "title": "Clase 14: Fracciones simples - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mat2t/mat2t_14.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "classes": [
+    {
+      "title": "Andrés Navas - Discrete Sets of Points as Geometric and Dynamical Objects",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_01.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_01.mp4"
+      ]
+    },
+    {
+      "title": "Jairo Bochi - Optimization of Lyapunov Exponents",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_02.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_02.mp4"
+      ]
+    },
+    {
+      "title": "Kathryn Mann - Rigidity of Geometric Surface Group Actions",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_03.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_03.mp4"
+      ]
+    },
+    {
+      "title": "Yaiza Canzani - On the Growth of Eigenfunction Avarages",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_04.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_04.mp4"
+      ]
+    },
+    {
+      "title": "Gonzalo Contreras - The C^2 Mañé Conjecture on Surfaces",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_05.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_05.mp4"
+      ]
+    },
+    {
+      "title": "Colin Guillermou - The Marked Length Spectrum of Anosov Manifolds",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_06.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_06.mp4"
+      ]
+    },
+    {
+      "title": "Maxime Wolff - Bending Deformations for Representations of Surface Groups in the Group of Homeomorphisms of the Circle",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_07.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_07.mp4"
+      ]
+    },
+    {
+      "title": "Pablo Shmerkin - Furstenberg Conjecture on the Intersections of x2, x3 Invariant Cantor Sets",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_08.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_08.mp4"
+      ]
+    },
+    {
+      "title": "Keith Burns: Openness of Accessibility with Three Dimensional Center",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_09.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_09.mp4"
+      ]
+    },
+    {
+      "title": "François Ledrappier - A Family of Stable Diffusions",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_10.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_10.mp4"
+      ]
+    },
+    {
+      "title": "Enrique Pujals - The Stability Conjecture : One of Mañé Journeys",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_11.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_11.mp4"
+      ]
+    },
+    {
+      "title": "Gabriel Paternain - An Incursion into Ricardo Work on Lagrangian Systems",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_12.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_12.mp4"
+      ]
+    },
+    {
+      "title": "Yash Lodha - Group Actions on 1-Manifolds by Piecewise Diffeomorphisms",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_13.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_13.mp4"
+      ]
+    },
+    {
+      "title": "Leonardo Macarini - Periodic Orbits on Symmetric Spheres and Dynamical Convexity",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_14.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_14.mp4"
+      ]
+    },
+    {
+      "title": "Adriana Da Luz - Singularities and C^1 Robustness of Dynamical Properties",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_15.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_15.mp4"
+      ]
+    },
+    {
+      "title": "Thomas Koberda - Diffeomorphism Groups of Intermediate Regularity",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_16.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_16.mp4"
+      ]
+    },
+    {
+      "title": "Andrés Sambarino - Frenet Representations and Hausdorff Dimension",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_17.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_17.mp4"
+      ]
+    },
+    {
+      "title": "Andrés Koropecki - Boundary Dynamics for Surface Homeomorphisms",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_18.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_18.mp4"
+      ]
+    },
+    {
+      "title": "Jean François Quint - Spectral Gap and Absolute Continuity",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_19.webm",
+        "https://openfing-video.fing.edu.uy/media/workshop-ggd/workshop-ggd_19.mp4"
+      ]
+    }
+  ]
+}

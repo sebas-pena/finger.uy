@@ -1,0 +1,36 @@
+{
+  "classes": [
+    {
+      "title": "Fricción - Práctico Expositivo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_01.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_01.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo Torsión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_02.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_02.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo Axial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_03.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_03.mp4"
+      ]
+    },
+    {
+      "title": "Esfuerzos Combinados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_04.webm",
+        "https://openfing-video.fing.edu.uy/media/cmm1e/cmm1e_04.mp4"
+      ]
+    }
+  ]
+}

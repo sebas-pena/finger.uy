@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a los modelos cuantitativos - parte A",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_01.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a los modelos cuantitativos - parte B",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_02.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_02.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a los modelos cuantitativos - parte C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_03.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_03.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Programación Lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_04.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_04.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Programación Lineal Entera",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_05.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_05.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Programación Lineal Mixtos - Parte A",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_06.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_06.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Programación Lineal Mixtos - Parte B",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_07.webm",
+        "https://openfing-video.fing.edu.uy/media/mcpp/mcpp_07.mp4"
+      ]
+    }
+  ]
+}

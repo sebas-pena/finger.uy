@@ -1,0 +1,84 @@
+{
+  "classes": [
+    {
+      "title": "Práctico 1 - MER - Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_01.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_01.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 1 - MER - Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_02.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_02.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 2 - Cálculo Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_03.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_03.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 - Álgebra Relacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_04.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_04.mp4"
+      ]
+    },
+    {
+      "title": "Consulta de Prácticos 1, 2 y 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_05.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 - Dependencias Funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_06.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_06.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 6 - Dependencias Multivaluadas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_08.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_08.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 7 - Pasaje de MER a MR",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_09.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_09.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 8 - Optimización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_10.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_10.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 9 - Concurrencia y Recuperación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_11.webm",
+        "https://openfing-video.fing.edu.uy/media/fbd-2020p/fbd-2020p_11.mp4"
+      ]
+    }
+  ]
+}

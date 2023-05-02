@@ -1,0 +1,196 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_01.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción. Análisis de Circuitos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_02.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_02.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Resolución de Circuitos. Presentación del Tema \"Distribuciones\"",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_03.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_03.mp4"
+      ]
+    },
+    {
+      "title": "Derivada de una Distribución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_04.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_04.mp4"
+      ]
+    },
+    {
+      "title": "Convergencia en Distribuciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_05.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_05.mp4"
+      ]
+    },
+    {
+      "title": "Producto Tensorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_06.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_06.mp4"
+      ]
+    },
+    {
+      "title": "Producto Convolución",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_07.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_07.mp4"
+      ]
+    },
+    {
+      "title": "Modelado de Sistemas Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_08.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_08.mp4"
+      ]
+    },
+    {
+      "title": "Régimen Sinusoidal: Fasores, Impedancia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_09.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_09.mp4"
+      ]
+    },
+    {
+      "title": "Régimen Sinusoidal: Función de Transferencia, Potencia en Régimen",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_10.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_10.mp4"
+      ]
+    },
+    {
+      "title": "Régimen Sinusoidal: Máxima Transferencia de Potencia, Compensación de Reactiva, Transformadores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_11.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_11.mp4"
+      ]
+    },
+    {
+      "title": "Señales Periódicas y Series de Fourier",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_12.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_12.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier de Distribuciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_13.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_13.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Bode de Sistemas de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_14.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_14.mp4"
+      ]
+    },
+    {
+      "title": "Diagramas de Bode de Sistemas de Segundo Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_15.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_15.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Fourier de Funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_16.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_16.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Fourier de Distribuciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_17.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_17.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplos de Aplicación de Transformada de Fourier: Transferencia, Muestreo Digital",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_18.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_18.mp4"
+      ]
+    },
+    {
+      "title": "Muestreo Digital. Distorsión.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_19.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_19.mp4"
+      ]
+    },
+    {
+      "title": "Distorsión No Lineal. Sistemas Polifásicos (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_20.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_20.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas Polifásicos (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_21.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_21.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas Polifásicos (parte 3)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_22.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_22.mp4"
+      ]
+    },
+    {
+      "title": "Charlas SL1: Introducción a la Carrera de Ingeniería Eléctrica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_100.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_100.mp4"
+      ]
+    },
+    {
+      "title": "Charlas SL1: CCC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_101.webm",
+        "https://openfing-video.fing.edu.uy/media/sl1/sl1_101.mp4"
+      ]
+    }
+  ]
+}

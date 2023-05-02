@@ -1,0 +1,172 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al curso. Usos del vapor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_01.mp4"
+      ]
+    },
+    {
+      "title": "Definiciones básicas y evolución de los Generadores de Vapor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_02.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_02.mp4"
+      ]
+    },
+    {
+      "title": "Clasificaciones de Generadores de Vapor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_03.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_03.mp4"
+      ]
+    },
+    {
+      "title": "Balance General",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_04.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_04.mp4"
+      ]
+    },
+    {
+      "title": "Calderas Humotubulares",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_05.mp4"
+      ]
+    },
+    {
+      "title": "Calderas Acuotubulares",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_06.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_06.mp4"
+      ]
+    },
+    {
+      "title": "Balances y ecuaciones de transferencia de superficies — 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_07.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_07.mp4"
+      ]
+    },
+    {
+      "title": "Balances y ecuaciones de transferencia de superficies — 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_08.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_08.mp4"
+      ]
+    },
+    {
+      "title": "Efectos refrigerantes del agua en ebullición — 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_09.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_09.mp4"
+      ]
+    },
+    {
+      "title": "Efectos refrigerantes del agua en ebullición — 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_10.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_10.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de distribución de Agua y Vapor — 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_11.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_11.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de distribución de Agua y Vapor — 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_12.mp4"
+      ]
+    },
+    {
+      "title": "Trampas de Vapor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_13.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_13.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de medición, control y seguridad — 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_14.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de medición, control y seguridad — 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_15.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de medición, control y seguridad — 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_16.mp4"
+      ]
+    },
+    {
+      "title": "Tipos de combustibles y uso en la Industria. Sistemas de Combustión para combustibles solidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_17.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de alimentación de Combustibles solidos. Lecho Fluidizado. Cenizas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_18.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de alimentación de combustibles líquidos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_19.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de alimentación de combustibles gaseosos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_20.mp4"
+      ]
+    },
+    {
+      "title": "Regulación de temperatura del vapor sobrecalentado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_21.webm",
+        "https://openfing-video.fing.edu.uy/media/gv/gv_21.mp4"
+      ]
+    },
+    {
+      "title": "Tratamiento de agua",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gv/gv_22.mp4"
+      ]
+    }
+  ]
+}

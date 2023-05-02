@@ -1,0 +1,67 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al curso y al cálculo proposicional en Coq",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_01.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo proposicional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_02.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo de Predicados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_03.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo de Construcciones, parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_04.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo de Construcciones, parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_05.mp4"
+      ]
+    },
+    {
+      "title": "Cálculo de Construcciones Inductivas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_06.mp4"
+      ]
+    },
+    {
+      "title": "Inversión e inducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_07.mp4"
+      ]
+    },
+    {
+      "title": "Verificación y derivación formal de programas funcionales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_08.mp4"
+      ]
+    },
+    {
+      "title": "Caso de estudio para el Práctico 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cfptt-2022/cfptt-2022_09.mp4"
+      ]
+    }
+  ]
+}

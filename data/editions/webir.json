@@ -1,0 +1,68 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1 - Recuperación Booleana",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_01.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2 - Consultas sobre Conceptos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_02.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3 - Recuperación Tolerante a Errores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_03.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_03.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos para la Construcción de Índices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_04.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_04.mp4"
+      ]
+    },
+    {
+      "title": "Compresión de Índices - Vocabulario",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_05.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_05.mp4"
+      ]
+    },
+    {
+      "title": "Compresión de Índices - Postings",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_06.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_06.mp4"
+      ]
+    },
+    {
+      "title": "Relevancia y Modelo de espacio vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_07.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_07.mp4"
+      ]
+    },
+    {
+      "title": "Estructura de Internet: HITS y PageRank",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/webir/webir_08.webm",
+        "https://openfing-video.fing.edu.uy/media/webir/webir_08.mp4"
+      ]
+    }
+  ]
+}

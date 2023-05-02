@@ -1,0 +1,25 @@
+{
+  "classes": [
+    {
+      "title": "Clase de presentación del laboratorio",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2l/p2l_01.mp4"
+      ]
+    },
+    {
+      "title": "Presentación Tarea 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2l/p2l_02.mp4"
+      ]
+    },
+    {
+      "title": "Presentación Tarea 2 + Valgrind",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2l/p2l_03.mp4"
+      ]
+    }
+  ]
+}

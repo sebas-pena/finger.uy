@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_01.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_02.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_03.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_04.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_05.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iib/iib_06.webm",
+        "https://openfing-video.fing.edu.uy/media/iib/iib_06.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "classes": [
+    {
+      "title": "Programación Dinámica I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_01.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_01.mp4"
+      ]
+    },
+    {
+      "title": "Programación Dinámica II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_02.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_02.mp4"
+      ]
+    },
+    {
+      "title": "Flujo de Red I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_03.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_03.mp4"
+      ]
+    },
+    {
+      "title": "Flujo de Red II",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_04.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_04.mp4"
+      ]
+    },
+    {
+      "title": "Intratabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_05.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_05.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos Aleatorizados I",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_06.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_06.mp4"
+      ]
+    },
+    {
+      "title": "Universal Hashing",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_07.webm",
+        "https://openfing-video.fing.edu.uy/media/p3-2017/p3-2017_07.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "classes": [
+    {
+      "title": "Representación Digital de Números. Complemento a 2. Punto Fijo. Punto Flotante",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_02.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_02.mp4"
+      ]
+    },
+    {
+      "title": "Códigos. Paridad y Código Hamming. Funciones Lógicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_03.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_03.mp4"
+      ]
+    },
+    {
+      "title": "Mapas K. Pasaje Nand-Nand. Azares",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_04.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_04.mp4"
+      ]
+    },
+    {
+      "title": "Decodificador. Multiplexor. Memorias. Retardos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_05.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_05.mp4"
+      ]
+    },
+    {
+      "title": "Flip-Flops",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_06.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_06.mp4"
+      ]
+    },
+    {
+      "title": "Introducción Modo Reloj",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_07.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_07.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Modo Reloj",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_08.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_08.mp4"
+      ]
+    },
+    {
+      "title": "Introducción RTL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_09.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_09.mp4"
+      ]
+    },
+    {
+      "title": "Diseño RTL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_10.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_10.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Modo Nivel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_11.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_11.mp4"
+      ]
+    },
+    {
+      "title": "Diseño RTL. Examen Febrero 2015",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_12.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_12.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Modo Nivel. Examen Diciembre 2013",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_13.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_13.mp4"
+      ]
+    },
+    {
+      "title": "Diseño Modo Reloj. Examen Febrero 2015",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_14.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_14.mp4"
+      ]
+    },
+    {
+      "title": "Diseño modo nivel: Resolución Problema 1 Examen Diciembre 2017",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_15.webm",
+        "https://openfing-video.fing.edu.uy/media/dlp/dlp_15.mp4"
+      ]
+    }
+  ]
+}

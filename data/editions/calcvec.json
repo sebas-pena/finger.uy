@@ -1,0 +1,220 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del Curso. Repaso de Cálculo en Varias Variables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_01.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_01.mp4"
+      ]
+    },
+    {
+      "title": "Extremos y Formas Cuadráticas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_02.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_02.mp4"
+      ]
+    },
+    {
+      "title": "Clasificación de Puntos Críticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_03.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_03.mp4"
+      ]
+    },
+    {
+      "title": "Extremos Absolutos y Teorema de la Función Inversa",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_04.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_04.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de la Función Implícita",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_05.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_05.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de la Función Implícita",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_06.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_06.mp4"
+      ]
+    },
+    {
+      "title": "Extremos Condicionados y Multiplicadores de Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_07.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_07.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de los Multiplicadores de Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_08.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_08.mp4"
+      ]
+    },
+    {
+      "title": "Curvas en R^n",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_09.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_09.mp4"
+      ]
+    },
+    {
+      "title": "Curvas en R^n",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_10.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_10.mp4"
+      ]
+    },
+    {
+      "title": "Triedro de Frenet",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_11.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_11.mp4"
+      ]
+    },
+    {
+      "title": "Integrales de Funciones Escalares y Vectoriales sobre Curvas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_12.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_12.mp4"
+      ]
+    },
+    {
+      "title": "Campos Conservativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_13.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_13.mp4"
+      ]
+    },
+    {
+      "title": "Campos Conservativos. Rotor",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_14.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_14.mp4"
+      ]
+    },
+    {
+      "title": "Campos de Gradientes y Conexión Simple",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_15.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_15.mp4"
+      ]
+    },
+    {
+      "title": "Divergencia. Campos de Rotores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_16.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_16.mp4"
+      ]
+    },
+    {
+      "title": "Superficies",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_17.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_17.mp4"
+      ]
+    },
+    {
+      "title": "Plano Tangente",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_18.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_18.mp4"
+      ]
+    },
+    {
+      "title": "Superficies Orientables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_19.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_19.mp4"
+      ]
+    },
+    {
+      "title": "Integración de Funciones Escalares y Vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_20.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_20.mp4"
+      ]
+    },
+    {
+      "title": "Integrales de Campos sobre Superficies. Teorema de Green",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_21.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_21.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Green",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_22.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_22.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Stokes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_23.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_23.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Gauss",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_24.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_24.mp4"
+      ]
+    },
+    {
+      "title": "Formas Diferenciales en R^3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_25.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_25.mp4"
+      ]
+    },
+    {
+      "title": "Integración de k-formas. Producto Exterior. Derivada Exterior",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_26.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_26.mp4"
+      ]
+    },
+    {
+      "title": "Stokes para Formas Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_27.webm",
+        "https://openfing-video.fing.edu.uy/media/calcvec/calcvec_27.mp4"
+      ]
+    }
+  ]
+}

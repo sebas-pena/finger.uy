@@ -1,0 +1,204 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1 - Presentación del Curso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_01.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2 - Repaso del tema Introducción y Práctico 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_02.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_02.mp4"
+      ]
+    },
+    {
+      "title": "Continuación de Práctico 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_03.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_03.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de HTTP y Práctico 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_04.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_04.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Correo Electrónico y DNS. Práctico 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_05.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_05.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Sockets. Práctico 3 (ejercicio 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_06.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_06.mp4"
+      ]
+    },
+    {
+      "title": "Continuación del Práctico 3 (ejercicio 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_07.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 (ejercicio 5)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_08.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_08.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Capa de Transporte",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_09.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_09.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 (ej. 3 y 4)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_10.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_10.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Capa de Transporte (TCP)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_11.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_11.mp4"
+      ]
+    },
+    {
+      "title": "Continuación del Práctico 4 (ejercicios 2 y 5)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_12.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_12.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Control de Congestión y Práctico 4 (ejercicio 10)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_13.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_13.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4 (ejercicio 7) y ejercicio de exámen",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_14.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_14.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Capa de Red y Práctico 5 (ejercicios 2 y 4)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_15.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_15.mp4"
+      ]
+    },
+    {
+      "title": "Repaso Numeración IP y Práctico 5 (ejercicios 6 y 12)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_16.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_16.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5 (ejercicios 8 y 13)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_17.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_17.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Algoritmos de Enrutamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_18.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_18.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 6. Ejercicios 1 y 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_19.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_19.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de OSPF y BGP. Ejemplo de conteo a infinito",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_20.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_20.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 6. Ejercicios 5, 6 y 10",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_21.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_21.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Capa de Enlace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_22.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_22.mp4"
+      ]
+    },
+    {
+      "title": "Repaso de Capa de Enlace. Práctico 8 Ej. 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_23.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_23.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 7. Ejercicios 5 y 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_24.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_24.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 8. Ejercicios 5 y 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_25.webm",
+        "https://openfing-video.fing.edu.uy/media/redes-2020/redes-2020_25.mp4"
+      ]
+    }
+  ]
+}

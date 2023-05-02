@@ -1,0 +1,32 @@
+{
+  "classes": [
+    {
+      "title": "Tutorial :: ¿Cómo conectarse a una PC en Fing desde una PC en mi casa utilizando linux?",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2h/p2h_01.mp4"
+      ]
+    },
+    {
+      "title": "Tutorial :: ¿Cómo conectarse a una PC en Fing desde una PC en mi casa utilizando Windows?",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2h/p2h_02.mp4"
+      ]
+    },
+    {
+      "title": "Tutorial :: ¿Cómo transferir archivos entre una PC en casa y una PC en la FING?",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2h/p2h_03.mp4"
+      ]
+    },
+    {
+      "title": "Tutorial :: ¿Cómo transferir archivos entre una PC en casa con Linux y una PC en la FING? 3 métodos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2h/p2h_04.mp4"
+      ]
+    }
+  ]
+}

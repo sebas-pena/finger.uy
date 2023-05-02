@@ -1,0 +1,164 @@
+{
+  "classes": [
+    {
+      "title": "Introducción al Procesamiento de Lenguaje Natural",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_01.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la Gramática del Español",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_02.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la Gramática del Español",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_03.mp4"
+      ]
+    },
+    {
+      "title": "Expresiones Regulares y Normalización de Textos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_04.mp4"
+      ]
+    },
+    {
+      "title": "Distancia de Mínima Edición. Transductores. Morfología",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_05.mp4"
+      ]
+    },
+    {
+      "title": "Morfología de Estado Finito. Modelo del Canal Ruidoso para Detección de Errores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_06.mp4"
+      ]
+    },
+    {
+      "title": "Modelos de Lenguaje",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_07.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Léxico y Hidden Markov Models",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_08.mp4"
+      ]
+    },
+    {
+      "title": "Clasificación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_09.mp4"
+      ]
+    },
+    {
+      "title": "Métodos de Clasificación Supervisada",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_10.mp4"
+      ]
+    },
+    {
+      "title": "Sintaxis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_11.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_11.mp4"
+      ]
+    },
+    {
+      "title": "Análisis Sintáctico",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_12.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_12.mp4"
+      ]
+    },
+    {
+      "title": "Semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_13.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_13.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Formal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_14.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_14.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Léxica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_15.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_15.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Léxica Computacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_16.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_16.mp4"
+      ]
+    },
+    {
+      "title": "Roles Semánticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_17.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_17.mp4"
+      ]
+    },
+    {
+      "title": "Traducción Automática (I)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_18.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_18.mp4"
+      ]
+    },
+    {
+      "title": "Traducción Automática (II)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_19.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_19.mp4"
+      ]
+    },
+    {
+      "title": "Recuperación de Información",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pln/pln_20.webm",
+        "https://openfing-video.fing.edu.uy/media/pln/pln_20.mp4"
+      ]
+    }
+  ]
+}

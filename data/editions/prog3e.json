@@ -1,0 +1,95 @@
+{
+  "classes": [
+    {
+      "title": "Variante del Algoritmo de Gale-Shapley",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_01.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de Ejercicio 1.6 - Emparejamiento Estable",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_02.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de Ejercicio 2.6 - Análisis de Algoritmos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_03.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo de Gale-Shapley con función de comparación de propuestas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_04.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio sobre grafos - punto de encuentro",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_05.mp4"
+      ]
+    },
+    {
+      "title": "Resolución de ejercicio sobre grafos - Segmentación de imágenes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_06.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio resuelto sobre grafos dirigidos - Vértices no alcanzables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_07.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto: Planificación Con Valores y Duraciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_08.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto: MST y Camino Más Corto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_09.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto:  Relaciones de Recurrencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_10.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto: Multiplicación de una cadena de matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_11.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto: Árboles de búsqueda binaria óptimos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_12.mp4"
+      ]
+    },
+    {
+      "title": "Ejercicio Resuelto: Asignación de días de vacaciones a Personal Sanitario con Redes de Flujo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/prog3e/prog3e_13.mp4"
+      ]
+    }
+  ]
+}

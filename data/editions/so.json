@@ -1,0 +1,212 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_01.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_01.mp4"
+      ]
+    },
+    {
+      "title": "Estructura de los Sistemas de Computación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_02.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_02.mp4"
+      ]
+    },
+    {
+      "title": "Estructura de los Sistemas Operativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_03.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_03.mp4"
+      ]
+    },
+    {
+      "title": "Procesos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_04.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_04.mp4"
+      ]
+    },
+    {
+      "title": "Planificación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_05.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_05.mp4"
+      ]
+    },
+    {
+      "title": "Administración de Memoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_06.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_06.mp4"
+      ]
+    },
+    {
+      "title": "Administración de Memoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_07.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_07.mp4"
+      ]
+    },
+    {
+      "title": "Memoria Virtual",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_08.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_08.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Archivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_09.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_09.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de Archivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_10.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_10.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Dispositivos Masivos de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_11.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_11.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras de Dispositivos Masivos de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_12.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_12.mp4"
+      ]
+    },
+    {
+      "title": "Subsistema de Entrada-Salida",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_13.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_13.mp4"
+      ]
+    },
+    {
+      "title": "Virtualización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_14.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_14.mp4"
+      ]
+    },
+    {
+      "title": "Virtualización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_15.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_15.mp4"
+      ]
+    },
+    {
+      "title": "Demo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_16.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_16.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a la Concurrencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_17.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_17.mp4"
+      ]
+    },
+    {
+      "title": "Sección Crítica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_18.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_18.mp4"
+      ]
+    },
+    {
+      "title": "Sincronización por Hardware",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_19.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_19.mp4"
+      ]
+    },
+    {
+      "title": "Usos de Semáforos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_20.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_20.mp4"
+      ]
+    },
+    {
+      "title": "Monitores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_21.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_21.mp4"
+      ]
+    },
+    {
+      "title": "Colas de Mensajes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_22.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_22.mp4"
+      ]
+    },
+    {
+      "title": "Concurrencia en ADA",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_23.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_23.mp4"
+      ]
+    },
+    {
+      "title": "Concurrencia en ADA. Deadlock",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_24.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_24.mp4"
+      ]
+    },
+    {
+      "title": "Deadlocks",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_25.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_25.mp4"
+      ]
+    },
+    {
+      "title": "Seguridad en Sistemas Operativos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/so/so_26.webm",
+        "https://openfing-video.fing.edu.uy/media/so/so_26.mp4"
+      ]
+    }
+  ]
+}

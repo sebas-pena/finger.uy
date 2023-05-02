@@ -1,0 +1,212 @@
+{
+  "classes": [
+    {
+      "title": "Clase Introductoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_01.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_01.mp4"
+      ]
+    },
+    {
+      "title": "Representación de la Información en Formato Digital (parte 1). Sistemas de Numeración. Aritmética Binaria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_02.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_02.mp4"
+      ]
+    },
+    {
+      "title": "Representación de la Información en Formato Digital (parte 2). Complemento a 2. Punto Fijo. Punto Flotante.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_03.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_03.mp4"
+      ]
+    },
+    {
+      "title": "Representación de la Información en Formato Digital (parte 3). Códigos, Distancia, Paridad, Hamming",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_04.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_04.mp4"
+      ]
+    },
+    {
+      "title": "Código de Hamming. Funciones Lógicas.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_05.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_05.mp4"
+      ]
+    },
+    {
+      "title": "Funciones Lógicas. Álgebra de Boole",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_06.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_06.mp4"
+      ]
+    },
+    {
+      "title": "Simplificación de Funciones Lógicas. Mapas de Karnaugh",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_07.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_07.mp4"
+      ]
+    },
+    {
+      "title": "Mapas K de 5 y 6 Variables. Implementación NAND-NAND. Azares. Dispositivos MSI: Deco, MUX, Tristate",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_08.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_08.mp4"
+      ]
+    },
+    {
+      "title": "Dispositivos MSI: Codificadores, Comparadores, Sumadores, ALU. Memorias ROM, Estructura Interna de una ROM. Dispositivos Lógicos Programables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_09.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_09.mp4"
+      ]
+    },
+    {
+      "title": "Introducción Circuitos Secuenciales. Flip-Flop SR. Reloj. Sincronización. Tipos de FF: D, JK, T",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_10.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_10.mp4"
+      ]
+    },
+    {
+      "title": "FF Maestro Esclavo, Sensible al Flanco. Tiempos: Setup, Hold. Entradas Asíncronas. Registros, Registros de Desplazamiento. Modo Reloj, Ejemplo de Análisis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_11.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_11.mp4"
+      ]
+    },
+    {
+      "title": "Modo Reloj. Ejemplos de Análisis y Diseño con FF-D y FF-JK",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_12.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_12.mp4"
+      ]
+    },
+    {
+      "title": "Minimización de Estados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_13.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_13.mp4"
+      ]
+    },
+    {
+      "title": "Minimización de Estados en Circuitos Incompletamente Especificados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_14.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_14.mp4"
+      ]
+    },
+    {
+      "title": "Contadores. Lenguajes de Especificación Hardware (RTL)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_15.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_15.mp4"
+      ]
+    },
+    {
+      "title": "RTL: Definición del Lenguaje",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_16.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_16.mp4"
+      ]
+    },
+    {
+      "title": "RTL: Ejemplo de Diseño",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_17.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_17.mp4"
+      ]
+    },
+    {
+      "title": "RTL: Buses. Memoria RAM. Ejemplo RTL: Ej5 Repartido \"Repaso 2\"",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_18.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_18.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos Secuenciales Modo Nivel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_19.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_19.mp4"
+      ]
+    },
+    {
+      "title": "Eliminación de Carreras. Ejemplo Modo Nivel: Diseño de un FF-D Sensible al Flanco de Subida (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_20.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_20.mp4"
+      ]
+    },
+    {
+      "title": "Clase 21 - Ejemplo Modo Nivel: Diseño de un FF-D Sensible al Flanco de Subida (parte 2). Ejemplo RTL: Exámen Feb 99",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_21.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_21.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo RTL: Repartido Repaso 2, ej. 2 (parte 2). Práctico 9, ej 9 (mencionado en el video como ej. 9 del repartido repaso 2) (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_22.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_22.mp4"
+      ]
+    },
+    {
+      "title": "Ejemplo RTL: Práctico 9, ej 9 (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_23.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_23.mp4"
+      ]
+    },
+    {
+      "title": "Modo Reloj. Práctico 8, ej 1 (mencionado en el video como el ej. 6 del repartido de repaso 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_24.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_24.mp4"
+      ]
+    },
+    {
+      "title": "Modo Nivel: Examen Diciembre 2011: Problema 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_25.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_25.mp4"
+      ]
+    },
+    {
+      "title": "Examen Diciembre 2011: Ejercicio 1 y 2 - Examen Diciembre 2010: Ejercicio 1 y 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/dl/dl_26.webm",
+        "https://openfing-video.fing.edu.uy/media/dl/dl_26.mp4"
+      ]
+    }
+  ]
+}

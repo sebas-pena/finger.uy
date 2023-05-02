@@ -1,0 +1,220 @@
+{
+  "classes": [
+    {
+      "title": "Presentación. Sistemas Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_01.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_01.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas. Representación Matricial y Escalerización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_02.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_02.mp4"
+      ]
+    },
+    {
+      "title": "Método de Escalerización de Rouché–Frobenius",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_03.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_03.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Rouché–Frobenius",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_04.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_04.mp4"
+      ]
+    },
+    {
+      "title": "Álgebra de Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_05.mp4"
+      ]
+    },
+    {
+      "title": "Producto de Matrices. Traspuesta. Matriz Invertible",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_06.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_06.mp4"
+      ]
+    },
+    {
+      "title": "Inversión de Matrices",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_07.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_07.mp4"
+      ]
+    },
+    {
+      "title": "Inversión de Matrices y Matrices Elementales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_08.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_08.mp4"
+      ]
+    },
+    {
+      "title": "Matrices Elementales y Determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_09.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_09.mp4"
+      ]
+    },
+    {
+      "title": "Determinantes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_10.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_10.mp4"
+      ]
+    },
+    {
+      "title": "Determinantes y Geometría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_11.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_11.mp4"
+      ]
+    },
+    {
+      "title": "Rectas: Ecuaciones Vectoriales. Paramétricas e Implícitas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_12.mp4"
+      ]
+    },
+    {
+      "title": "Planos: Ecuación Paramétrica e Implícita. Norma y Producto Escalar",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_13.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_13.mp4"
+      ]
+    },
+    {
+      "title": "Producto Escalar y Producto Vectorial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_14.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_14.mp4"
+      ]
+    },
+    {
+      "title": "Producto Escalar y Producto Vectorial: Aplicaciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_15.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_15.mp4"
+      ]
+    },
+    {
+      "title": "Espacios Vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_16.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_16.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Espacios Vectoriales y Subespacios Vectoriales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_17.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_17.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Combinaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_18.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_18.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Generadores de un Espacio e Independencia Lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_19.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_19.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Generadores, LI, Bases",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_20.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_20.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Teorema de la Dimensión Finita, Dimensión y Subespacios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_21.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_21.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Dimensión, Coordenadas, Suma de Subespacios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_22.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_22.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Transformaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_23.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_23.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Operaciones sobre las Transformaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_24.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_24.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Matriz Asociada a una Transformación Lineal y Cambio de Base",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_25.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_25.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Núcleo e Imagen, Teorema de las Dimensiones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_26.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_26.mp4"
+      ]
+    },
+    {
+      "title": "En Edición - Transformaciones Lineales Biyectivas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_27.webm",
+        "https://openfing-video.fing.edu.uy/media/gal119/gal119_27.mp4"
+      ]
+    }
+  ]
+}

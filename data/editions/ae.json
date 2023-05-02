@@ -1,0 +1,115 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_01.mp4"
+      ]
+    },
+    {
+      "title": "Computación Evolutiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_02.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmos Genéticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_03.mp4"
+      ]
+    },
+    {
+      "title": "Modelado y resolución de problemas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_04.mp4"
+      ]
+    },
+    {
+      "title": "Implementación de AEs usando jMetal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_05.mp4"
+      ]
+    },
+    {
+      "title": "Técnicas Avanzadas en AE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_06.mp4"
+      ]
+    },
+    {
+      "title": "Fundamentos Teóricos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_07.mp4"
+      ]
+    },
+    {
+      "title": "Otros Modelos de AE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_08.mp4"
+      ]
+    },
+    {
+      "title": "AE Paralelos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_09.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_09.mp4"
+      ]
+    },
+    {
+      "title": "AE para Optimización Multiobjetivo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_10.mp4"
+      ]
+    },
+    {
+      "title": "Corrección de Entregas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_11.mp4"
+      ]
+    },
+    {
+      "title": "Evaluación Experimental de AEs",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_12.mp4"
+      ]
+    },
+    {
+      "title": "Presentación de Proyectos de Años Anteriores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_13.webm",
+        "https://openfing-video.fing.edu.uy/media/ae/ae_13.mp4"
+      ]
+    },
+    {
+      "title": "Implementación de AE. Bibliotecas de Desarrollo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ae/ae_14.mp4"
+      ]
+    }
+  ]
+}

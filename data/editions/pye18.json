@@ -1,0 +1,292 @@
+{
+  "classes": [
+    {
+      "title": "Casos Favorables sobre Casos Posibles: Ejemplos Introductorios",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_01.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_01.mp4"
+      ]
+    },
+    {
+      "title": "Casos Favorables sobre Casos Posibles: Reglas de Conteo",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_02.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_02.mp4"
+      ]
+    },
+    {
+      "title": "Modelos Discretos y Definición Axiomática de Probabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_03.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_03.mp4"
+      ]
+    },
+    {
+      "title": "Probabilidad Condicional e Independencia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_04.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_04.mp4"
+      ]
+    },
+    {
+      "title": "Fórmula de la Probabilidad Total y Teorema de Bayes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_05.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_05.mp4"
+      ]
+    },
+    {
+      "title": "Probabilidades Geométricas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_06.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_06.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Bernoulli",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_07.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_07.mp4"
+      ]
+    },
+    {
+      "title": "Variables Aleatorias: Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_08.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_08.mp4"
+      ]
+    },
+    {
+      "title": "Variables Aleatorias Discretas y Valor Esperado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_09.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_09.mp4"
+      ]
+    },
+    {
+      "title": "Distribución Conjunta de Variables Discretas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_10.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_10.mp4"
+      ]
+    },
+    {
+      "title": "Distribuciones Hipergeométrica y Binomial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_11.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_11.mp4"
+      ]
+    },
+    {
+      "title": "Varianza y Covarianza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_12.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_12.mp4"
+      ]
+    },
+    {
+      "title": "Coeficiente de Correlación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_13.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_13.mp4"
+      ]
+    },
+    {
+      "title": "Distribución de Poisson",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_14.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_14.mp4"
+      ]
+    },
+    {
+      "title": "Aproximación de Poisson",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_15.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_15.mp4"
+      ]
+    },
+    {
+      "title": "Estadística Descriptiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_16.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_16.mp4"
+      ]
+    },
+    {
+      "title": "Test de Hipótesis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_17.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_17.mp4"
+      ]
+    },
+    {
+      "title": "Test de Significancia",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_18.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_18.mp4"
+      ]
+    },
+    {
+      "title": "Test de Significancia. Ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_19.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_19.mp4"
+      ]
+    },
+    {
+      "title": "Variables Continuas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_20.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_20.mp4"
+      ]
+    },
+    {
+      "title": "Variables Continuas - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_21.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_21.mp4"
+      ]
+    },
+    {
+      "title": "Cambio de Variable",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_22.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_22.mp4"
+      ]
+    },
+    {
+      "title": "Primer aprox a TCL",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_23.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_23.mp4"
+      ]
+    },
+    {
+      "title": "Densidad en dos variables",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_24.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_24.mp4"
+      ]
+    },
+    {
+      "title": "Normal Bivariada. Regresión Lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_25.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_25.mp4"
+      ]
+    },
+    {
+      "title": "Normal Bivariada - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_26.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_26.mp4"
+      ]
+    },
+    {
+      "title": "Estadística Descriptiva 2D (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_27.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_27.mp4"
+      ]
+    },
+    {
+      "title": "Estimación. Método de Máxima Verosimilitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_28.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_28.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_29.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_29.mp4"
+      ]
+    },
+    {
+      "title": "Teorema Central del Límite",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_30.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_30.mp4"
+      ]
+    },
+    {
+      "title": "Test Binomial y Test Z (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_31.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_31.mp4"
+      ]
+    },
+    {
+      "title": "Test de χ² (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_32.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_32.mp4"
+      ]
+    },
+    {
+      "title": "Test t de Student (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_33.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_33.mp4"
+      ]
+    },
+    {
+      "title": "TdH vs IdC (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_34.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_34.mp4"
+      ]
+    },
+    {
+      "title": "Comparación de 2 muestras (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_35.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_35.mp4"
+      ]
+    },
+    {
+      "title": "Comparación m muestras (Edición 2019)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_36.webm",
+        "https://openfing-video.fing.edu.uy/media/pye18/pye18_36.mp4"
+      ]
+    }
+  ]
+}

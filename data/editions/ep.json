@@ -1,0 +1,300 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a la Electrónica de Potencia: Aplicaciones y Componentes",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_01.mp4"
+      ]
+    },
+    {
+      "title": "Rectificadores no Controlados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_02.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor de 6 Pulsos Dos Vías",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_03.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor con carga resistiva (R) y resistiva inductiva (R-L), Control Arco Coseno",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_04.mp4"
+      ]
+    },
+    {
+      "title": "Problema 1. Convertidor de 6 pulsos dos vías con carga L- E",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico conmutados por la red. Problemas 2 y 3. Rectificador Mixto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_06.mp4"
+      ]
+    },
+    {
+      "title": "Conmutación en puente de 6 pulsos dos vías",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico conmutados por la red. Problemas 4 y 5. Interacción con la red (potencia reactiva)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_08.mp4"
+      ]
+    },
+    {
+      "title": "Interacción del convertidor con la red (notches y armónicos) conexión de 12 pulsos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_09.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_09.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor de 12 pulsos dos vías. Cargas y control de velocidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_10.mp4"
+      ]
+    },
+    {
+      "title": "Práctico convertidores conmutados por la red. Problemas 6, 14 y 7",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_11.mp4"
+      ]
+    },
+    {
+      "title": "Tiristor real: Modelo, estructura, funcionamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_12.mp4"
+      ]
+    },
+    {
+      "title": "Disipación en un tiristor real, modelo térmico, impedancia térmica transitoria",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_13.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_13.mp4"
+      ]
+    },
+    {
+      "title": "Práctico: Cálculos térmicos y de disipadores para tiristores en puentes conmutados por la red",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_14.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_14.mp4"
+      ]
+    },
+    {
+      "title": "Convertidores DC/DC, convertidor buck / step-down. Funcionamiento, cálculos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_15.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_15.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor Boost / Step-up",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_16.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_16.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor Boost para corrección de factor de potencia. Convertidor Buck-Boost y flyback",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_17.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_17.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor flyback. Salidas múltiples. Convertidor forward",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_18.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_18.mp4"
+      ]
+    },
+    {
+      "title": "Convertidor forward y forward tipo puente asimétrico. Convertidor simétrico full bridge",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_19.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_19.mp4"
+      ]
+    },
+    {
+      "title": "Convertidores simétricos half bridge y push pull. Práctico de flyback",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_20.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_20.mp4"
+      ]
+    },
+    {
+      "title": "Práctico DC/DC, ejercicios puente asimétrico y forward",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_21.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_21.mp4"
+      ]
+    },
+    {
+      "title": "Encendido del tiristor, característica de gate, circuito de disparo de gate",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_22.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_22.mp4"
+      ]
+    },
+    {
+      "title": "Apagado del tiristor. Llaves apagables. Carga inductiva clampeada",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_23.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_23.mp4"
+      ]
+    },
+    {
+      "title": "Llaves apagables, circuitos de ayuda a la conmutación, implementaciones: GTO, BJT, Mosfet",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_25.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_25.mp4"
+      ]
+    },
+    {
+      "title": "Implementaciones. Mosfet de señal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_26.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_26.mp4"
+      ]
+    },
+    {
+      "title": "Mosfet de potencia, estructura, funcionamiento",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_27.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_27.mp4"
+      ]
+    },
+    {
+      "title": "Mosfet de potencia: Manejo de Gate, encendido y apagado, circuito de comando de gate",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_28.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_28.mp4"
+      ]
+    },
+    {
+      "title": "Práctico sobre Mosfet en DC/DC, cálculo térmico y circuito de ayuda al apagado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_29.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_29.mp4"
+      ]
+    },
+    {
+      "title": "Inversores. Rama de puente inversor, inversor dos estados, inversor push pull",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_30.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_30.mp4"
+      ]
+    },
+    {
+      "title": "Inversor trifásico, inversor tres estados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_31.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_31.mp4"
+      ]
+    },
+    {
+      "title": "Inversor monofásico. Control de fundamental y eliminación de armónicos para dos estados y tres estados",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_32.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_32.mp4"
+      ]
+    },
+    {
+      "title": "Inversor monofásico 2 estados con PWM sinusoidal. Práctico inversores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_33.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_33.mp4"
+      ]
+    },
+    {
+      "title": "PWM sinusoidal en tres estados. Inversores NPC (rama de tres estados) y multinivel",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_34.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_34.mp4"
+      ]
+    },
+    {
+      "title": "Práctico inversores",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_35.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_35.mp4"
+      ]
+    },
+    {
+      "title": "Eliminación de armónicos por suma de inversores desfasados, conexión fork",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_36.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_36.mp4"
+      ]
+    },
+    {
+      "title": "Repaso fork. Convertidores AC/AC. Dimmer con carga resistiva e inductiva. Compensación de Reactiva",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_37.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_37.mp4"
+      ]
+    },
+    {
+      "title": "Práctico Inversores y AC/AC",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ep/ep_38.webm",
+        "https://openfing-video.fing.edu.uy/media/ep/ep_38.mp4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "classes": [
+    {
+      "title": "Laplace para funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_02.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_02.mp4"
+      ]
+    },
+    {
+      "title": "Señales impulsivas, distribuciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_03.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_03.mp4"
+      ]
+    },
+    {
+      "title": "Laplace para distribuciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_04.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_04.mp4"
+      ]
+    },
+    {
+      "title": "Teoremas de derivación, datos previos, condiciones iniciales, Antitransformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_05.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_05.mp4"
+      ]
+    },
+    {
+      "title": "Respuesta de segundo orden, definición de sistemas, causalidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_06.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_06.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas, causalidad, entradas equivalentes, concepto de estado",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_07.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_07.mp4"
+      ]
+    },
+    {
+      "title": "Circuitos en Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_08.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_08.mp4"
+      ]
+    },
+    {
+      "title": "Teoremas de circuitos: Principio de superposición, Teorema de Thevenin",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_09.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_09.mp4"
+      ]
+    },
+    {
+      "title": "Thevenin, Norton, potencia y energía, Tellegen",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_10.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_10.mp4"
+      ]
+    },
+    {
+      "title": "Pasividad. Amplificadores diferenciales: modelo, tierra virtual, primeras configuraciones básicas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_11.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_11.mp4"
+      ]
+    },
+    {
+      "title": "Impedancias de entrada y salida, saturación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_12.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_12.mp4"
+      ]
+    },
+    {
+      "title": "Integrador, Schmitt Trigger, estabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_13.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_13.mp4"
+      ]
+    },
+    {
+      "title": "Amplificador diferencial. Astable",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_14.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_14.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad: concepto, definición, Teorema 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_15.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_15.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad Bibo. Up is down",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_16.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_16.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad BIBO en el dominio de Laplace. Estabilidad Interna",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_17.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_17.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad interna: teorema y relación con estabilidad BIBO",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_18.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_18.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas realimentados, definiciones, ejemplos, hipótesis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_19.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_19.mp4"
+      ]
+    },
+    {
+      "title": "Principio del argumento, Nyquist, ejemplos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_20.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_20.mp4"
+      ]
+    },
+    {
+      "title": "Nyquist, margen de ganancia y de fase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_21.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_21.mp4"
+      ]
+    },
+    {
+      "title": "Líneas de transmisión, modelos, ecuaciones del telegrafista",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_22.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_22.mp4"
+      ]
+    },
+    {
+      "title": "Líneas en régimen sinusoidal, ondas incidente y reflejada, impedancia vista",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_23.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_23.mp4"
+      ]
+    },
+    {
+      "title": "Barkhausen, cuadripolos, reciprocidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_24.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_24.mp4"
+      ]
+    },
+    {
+      "title": "Cuadripolos, simetría, Teorema de Miller",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_25.webm",
+        "https://openfing-video.fing.edu.uy/media/sl2/sl2_25.mp4"
+      ]
+    }
+  ]
+}

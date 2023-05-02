@@ -1,0 +1,123 @@
+{
+  "classes": [
+    {
+      "title": "Clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_01.mp4"
+      ]
+    },
+    {
+      "title": "Clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_02.mp4"
+      ]
+    },
+    {
+      "title": "Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_04.mp4"
+      ]
+    },
+    {
+      "title": "Clase 5",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_05.mp4"
+      ]
+    },
+    {
+      "title": "Clase 6",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_06.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 01 - Introducción y 2G/3G",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_07.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 02 - 2G/3G",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_08.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 03 - HSPA + Introducción LTE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_09.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 04 - Interfaz de Radio LTE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_10.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 05 - Capa Física LTE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_11.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 06 - Stack de Protocolos LTE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_12.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 07 - VoLTE y LTE-Advanced",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_13.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 08 - 5G Introducción y Arquitectura de red",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_14.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 09 - Interfaz de Radio 5G",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_15.mp4"
+      ]
+    },
+    {
+      "title": "Red de Acceso Móvil 10 - 5G mMIMO y Beamforming",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_16.mp4"
+      ]
+    },
+    {
+      "title": "Planificacion de red de acceso",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/2022/2022_17.mp4"
+      ]
+    }
+  ]
+}

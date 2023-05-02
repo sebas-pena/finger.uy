@@ -1,0 +1,126 @@
+{
+  "classes": [
+    {
+      "title": "09/08/2021, Bipolares: Historia, física del bipolar, modos de operación",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_01.mp4",
+      "videos": null
+    },
+    {
+      "title": "11/08/2021, Bipolares - zona activa: operación física, modelo DC (límites y análisis)",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_02.mp4",
+      "videos": null
+    },
+    {
+      "title": "16/08/2021, Bipolares: curvas, modelo pequeña señal y baja frecuencia",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_03.mp4",
+      "videos": null
+    },
+    {
+      "title": "18/08/2021, Bipolares: configuraciones básicas, excursión a la salida, diseño de polarización de emisor común",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_04.mp4",
+      "videos": null
+    },
+    {
+      "title": "23/08/2021, Bipolares: diseño de polarización de emisor común, modelo en saturación, resumen zonas de operación, MOS vs BJT",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_05.mp4",
+      "videos": null
+    },
+    {
+      "title": "30/08/2021, PDIF: Par diferencial, presentación y transferencia en gran señal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_06.mp4"
+      ]
+    },
+    {
+      "title": "01/09/2021, PDIF: Par diferencial con RE, análisis ganancia diferencial y modo común usando simetría",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_07.mp4"
+      ]
+    },
+    {
+      "title": "06/09/2021, PDIF: Ganancia modo común, ICMR, Voffset e Ibias, espejo de corriente con BJTs",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_08.mp4"
+      ]
+    },
+    {
+      "title": "08/09/2021, PDIF: Carga activa, fT, slew-rate, Ri diferencial, par diferencial con transistores MOS, hoja de datos BC548",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_09.mp4"
+      ]
+    },
+    {
+      "title": "13/09/2021, Multiplicadores: Introducción, Multiplicador de Gilbert, Predistorsión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_10.mp4"
+      ]
+    },
+    {
+      "title": "20/09/2021, Multiplicadores: Multiplicador de Gilbert con Predistorsión, MC1496, Alta frecuencia: Capacidades Diodo y modelo BJT",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_11.mp4"
+      ]
+    },
+    {
+      "title": "06/10/2021, Alta frecuencia: fT y determinación de capacidades BJT a partir de hoja de datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_12.mp4"
+      ]
+    },
+    {
+      "title": "13/10/2021, Alta frecuencia: Capacidades MOSFET y comienzo análisis configuraciones emisor común y source común",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_13.mp4"
+      ]
+    },
+    {
+      "title": "18/10/2021, Alta frecuencia: Configuraciones emisor común y source común: teorema de Miller y método constantes de tiempo en circuito abierto",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_14.mp4"
+      ]
+    },
+    {
+      "title": "20/10/2021, Alta frecuencia: fin método constantes de tiempo; configuración base (source) común y cascode; emisor común con RE y dual de teorema de Miller",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_15.mp4"
+      ]
+    },
+    {
+      "title": "25/10/2021, Alta frecuencia: configuración seguidor emisor (seguidor de source)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ea1/ea1_16.mp4"
+      ]
+    },
+    {
+      "title": "27/10/2021, Amplificadores de potencia: clase A, clase B",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_17.mp4",
+      "videos": null
+    },
+    {
+      "title": "01/11/2021, Amplificadores de potencia: clase AB",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_18.mp4",
+      "videos": null
+    },
+    {
+      "title": "03/11/2021, Potencia: cuestionario de repaso, ejemplos en LTspice, cálculo de disipación",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_19.mp4",
+      "videos": null
+    },
+    {
+      "title": "03/11/2021, Potencia: seguidor de emisor, Darlington, configuración puente, protecciones, safe operating area (SOA), hojas de datos",
+      "externalLink": "https://openfing-video.fing.edu.uy/media/ea1/ea1_20.mp4",
+      "videos": null
+    }
+  ]
+}

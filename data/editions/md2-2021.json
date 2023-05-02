@@ -1,0 +1,114 @@
+{
+  "classes": [
+    {
+      "title": "Divisibilidad y Máximo Común Divisor",
+      "externalLink": "https://www.youtube.com/embed/qRs__dc8uqA",
+      "videos": null
+    },
+    {
+      "title": "Identidad de Bezout y Algoritmo de Euclides Extendido",
+      "externalLink": "https://www.youtube.com/embed/LrR0jLfaauI",
+      "videos": null
+    },
+    {
+      "title": "Algoritmo de Euclides Extendido (Matricial) y Ecuaciones Diofánticas",
+      "externalLink": "https://www.youtube.com/embed/zzugc1XtyBU",
+      "videos": null
+    },
+    {
+      "title": "Teorema Fundamental de la Aritmética - 1",
+      "externalLink": "https://www.youtube.com/embed/iXhnePouNl8",
+      "videos": null
+    },
+    {
+      "title": "Teorema Fundamental de la Aritmética - 2",
+      "externalLink": "https://www.youtube.com/embed/JxzbfE1U94s",
+      "videos": null
+    },
+    {
+      "title": "Congruencia Modular - 1",
+      "externalLink": "https://www.youtube.com/embed/sawjP6E0yc8",
+      "videos": null
+    },
+    {
+      "title": "Congruencia Modular - 2",
+      "externalLink": "https://www.youtube.com/embed/pyEz1m50Ch4",
+      "videos": null
+    },
+    {
+      "title": "Sistemas de Congruencias - 1",
+      "externalLink": "https://www.youtube.com/embed/H2mLn6xAL4s",
+      "videos": null
+    },
+    {
+      "title": "Sistemas de Congruencias - 2",
+      "externalLink": "https://www.youtube.com/embed/nYT3VHExalQ",
+      "videos": null
+    },
+    {
+      "title": "Función de Euler",
+      "externalLink": "https://www.youtube.com/embed/jVR8kpBigCw",
+      "videos": null
+    },
+    {
+      "title": "Exponenciación Rápida",
+      "externalLink": "https://www.youtube.com/embed/3KVvw5tFkIA",
+      "videos": null
+    },
+    {
+      "title": "Teoría de Grupos",
+      "externalLink": "https://www.youtube.com/embed/rOrCCorIMPk",
+      "videos": null
+    },
+    {
+      "title": "Grupo de Enteros Módulo n",
+      "externalLink": "https://www.youtube.com/embed/bD5PR2O6qAw",
+      "videos": null
+    },
+    {
+      "title": "Subgrupos, Grupos Cíclicos y Órdenes",
+      "externalLink": "https://www.youtube.com/embed/8ZifRy83im8",
+      "videos": null
+    },
+    {
+      "title": "Teorema de Lagrange y Homomorfismos de Grupos",
+      "externalLink": "https://www.youtube.com/embed/jNCcpf4HRSQ",
+      "videos": null
+    },
+    {
+      "title": "Homomorfismos de Grupos",
+      "externalLink": "https://www.youtube.com/embed/AmzYL-d_PRc",
+      "videos": null
+    },
+    {
+      "title": "Isomorfismos de Grupos",
+      "externalLink": "https://www.youtube.com/embed/rYNQSkCrtSw",
+      "videos": null
+    },
+    {
+      "title": "Raíces Primitivas",
+      "externalLink": "https://www.youtube.com/embed/uxD0etYRNNE",
+      "videos": null
+    },
+    {
+      "title": "Raíces Primitivas (Caso módulo primo)",
+      "externalLink": "https://www.youtube.com/embed/eNUgot0UIMM",
+      "videos": null
+    },
+    {
+      "title": "Raíces Primitivas y Criptografía",
+      "externalLink": "https://www.youtube.com/embed/kW4P8GwUY3M",
+      "videos": null
+    },
+    {
+      "title": "Criptosistema de Clave Privada (Diffie-Helman)",
+      "externalLink": "https://www.youtube.com/embed/lln_O71ywzU",
+      "videos": null
+    },
+    {
+      "title": "Criptosistema de Clave Pública (RSA)",
+      "externalLink": "https://www.youtube.com/embed/wsVCS_PaLUM",
+      "videos": null
+    }
+  ]
+}

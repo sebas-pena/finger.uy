@@ -1,0 +1,164 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_01.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_01.mp4"
+      ]
+    },
+    {
+      "title": "Cargas Eléctricas y Estimación de la Demanda",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_02.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_02.mp4"
+      ]
+    },
+    {
+      "title": "Teoría y Cálculo de las Corrientes de Cortocircuito - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_03.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_03.mp4"
+      ]
+    },
+    {
+      "title": "Teoría y Cálculo de las Corrientes de Cortocircuito - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_04.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_04.mp4"
+      ]
+    },
+    {
+      "title": "Teoría y Cálculo de las Corrientes de Cortocircuito - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_05.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_05.mp4"
+      ]
+    },
+    {
+      "title": "Tipos de Suministro e Instalaciones de Enlace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_06.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_06.mp4"
+      ]
+    },
+    {
+      "title": "Canalizaciones Eléctricas - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_07.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_07.mp4"
+      ]
+    },
+    {
+      "title": "Canalizaciones Eléctricas - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_08.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_08.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra Sobrecorrientes - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_09.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_09.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra Sobrecorrientes - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_10.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_10.mp4"
+      ]
+    },
+    {
+      "title": "Puesta a tierra y conductores de protección - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_11.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_11.mp4"
+      ]
+    },
+    {
+      "title": "Puesta a tierra y conductores de protección - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_12.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_12.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de distribución en BT y protección contra contactos eléctricos - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_13.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_13.mp4"
+      ]
+    },
+    {
+      "title": "Sistemas de distribución en BT y protección contra contactos eléctricos - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_14.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_14.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra sobretensiones - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_15.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_15.mp4"
+      ]
+    },
+    {
+      "title": "Protección contra sobretensiones - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_16.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_16.mp4"
+      ]
+    },
+    {
+      "title": "Comando y protección de motores - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_17.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_17.mp4"
+      ]
+    },
+    {
+      "title": "Comando y protección de motores - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_18.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_18.mp4"
+      ]
+    },
+    {
+      "title": "Compensación de energía reactiva - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_19.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_19.mp4"
+      ]
+    },
+    {
+      "title": "Compensación de energía reactiva - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_20.webm",
+        "https://openfing-video.fing.edu.uy/media/iiee/iiee_20.mp4"
+      ]
+    }
+  ]
+}

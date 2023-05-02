@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "title": "Photon Mapping 1: ¿Qué es PM? Emisión de fotones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_01.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_01.mp4"
+      ]
+    },
+    {
+      "title": "Photon Mapping 2: Trazado de fotones. Unidades físicas para la luz",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_02.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_02.mp4"
+      ]
+    },
+    {
+      "title": "Photon Mapping 3: Almacenamiento de fotones. Estimación de Radiancia. Rendering",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_03.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_03.mp4"
+      ]
+    },
+    {
+      "title": "Photon Mapping 4: Mapa de Proyección (Eduardo Fernández)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_04.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_04.mp4"
+      ]
+    },
+    {
+      "title": "Conceptos sobre OptiX y Embree (José Pedro Aguerre)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_05.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_05.mp4"
+      ]
+    },
+    {
+      "title": "Pipeline Gráfico Programable (José Pedro Aguerre)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cga/cga_16.webm",
+        "https://openfing-video.fing.edu.uy/media/cga/cga_16.mp4"
+      ]
+    }
+  ]
+}

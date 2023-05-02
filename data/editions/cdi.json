@@ -1,0 +1,46 @@
+{
+  "classes": [
+    {
+      "title": "Presentación del curso e Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción y Data Profiling",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_02.mp4"
+      ]
+    },
+    {
+      "title": "Dimensiones de Calidad de Datos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_03.mp4"
+      ]
+    },
+    {
+      "title": "Métricas de calidad - parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_04.mp4"
+      ]
+    },
+    {
+      "title": "Métricas de calidad - parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_05.mp4"
+      ]
+    },
+    {
+      "title": "Evaluación y Mejora de Calidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdi/cdi_06.mp4"
+      ]
+    }
+  ]
+}

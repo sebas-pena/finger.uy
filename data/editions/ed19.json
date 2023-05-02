@@ -1,0 +1,228 @@
+{
+  "classes": [
+    {
+      "title": "Introducción a Ecuaciones Diferenciales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_01.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_01.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Lineales de Primer Orden y Segundo Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_02.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_02.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones de Segundo Orden. Transformada de Laplace",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_03.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_03.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_04.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_04.mp4"
+      ]
+    },
+    {
+      "title": "Transformada de Laplace -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_05.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_05.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Lineales Autónomas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_06.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_06.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones Lineales Autónomas (Valores Propios Complejos)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_07.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_07.mp4"
+      ]
+    },
+    {
+      "title": "Valores Propios Complejos y Estabilidad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_08.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_08.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad y Matriz Fundamental",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_09.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_09.mp4"
+      ]
+    },
+    {
+      "title": "Matriz Fundamental",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_10.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_10.mp4"
+      ]
+    },
+    {
+      "title": "Teorema de Picard",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_11.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_11.mp4"
+      ]
+    },
+    {
+      "title": "Consecuencias de Picard",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_12.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_12.mp4"
+      ]
+    },
+    {
+      "title": "Estudio Cualitativo - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_13.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_13.mp4"
+      ]
+    },
+    {
+      "title": "Estudio Cualitativo - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_14.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_14.mp4"
+      ]
+    },
+    {
+      "title": "Desigualdad de Gronwall. Ecuaciones Lineales",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_15.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_15.mp4"
+      ]
+    },
+    {
+      "title": "Estabilidad. Linealización",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_16.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_16.mp4"
+      ]
+    },
+    {
+      "title": "Teoremas de Liapunov",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_17.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_17.mp4"
+      ]
+    },
+    {
+      "title": "Convergencia de Funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_18.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_18.mp4"
+      ]
+    },
+    {
+      "title": "Convergencia Uniforme. Integración y Derivación",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_19.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_19.mp4"
+      ]
+    },
+    {
+      "title": "Series de Funciones",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_20.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_20.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_21.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_21.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_22.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_22.mp4"
+      ]
+    },
+    {
+      "title": "Series de Fourier - 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_23.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_23.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación del Calor -1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_24.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_24.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación del Calor -2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_25.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_25.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de la Cuerda",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_26.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_26.mp4"
+      ]
+    },
+    {
+      "title": "Ecuaciones de Onda y Lagrange",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_27.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_27.mp4"
+      ]
+    },
+    {
+      "title": "Ecuación de Laplace 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_28.webm",
+        "https://openfing-video.fing.edu.uy/media/ed19/ed19_28.mp4"
+      ]
+    }
+  ]
+}

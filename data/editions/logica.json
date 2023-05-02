@@ -1,0 +1,180 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_01.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_01.mp4"
+      ]
+    },
+    {
+      "title": "Inducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_02.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_02.mp4"
+      ]
+    },
+    {
+      "title": "Recursión",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_03.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_03.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, sintaxis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_04.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_04.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, sintaxis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_05.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_05.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_06.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_06.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_07.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_07.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, deducción natural",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_08.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_08.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, deducción natural",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_09.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_09.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, corrección y completitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_10.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_10.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, corrección y completitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_11.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_11.mp4"
+      ]
+    },
+    {
+      "title": "Lógica proposicional, corrección y completitud",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_12.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_12.mp4"
+      ]
+    },
+    {
+      "title": "Lógica de primer orden, sintaxis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_13.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_13.mp4"
+      ]
+    },
+    {
+      "title": "Lógica de primer orden, sintaxis",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_14.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_14.mp4"
+      ]
+    },
+    {
+      "title": "Lógica de primer orden, semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_15.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_15.mp4"
+      ]
+    },
+    {
+      "title": "Lógica de primer orden, semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_16.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_16.mp4"
+      ]
+    },
+    {
+      "title": "Lógica de primer orden, semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_17.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_17.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural - Lógica de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_18.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_18.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural - Lógica de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_19.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_19.mp4"
+      ]
+    },
+    {
+      "title": "Deducción Natural - Lógica de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_20.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_20.mp4"
+      ]
+    },
+    {
+      "title": "Completitud - Lógica de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_21.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_21.mp4"
+      ]
+    },
+    {
+      "title": "Completitud - Lógica de Primer Orden",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/logica/logica_22.webm",
+        "https://openfing-video.fing.edu.uy/media/logica/logica_22.mp4"
+      ]
+    }
+  ]
+}

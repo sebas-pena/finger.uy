@@ -1,0 +1,130 @@
+{
+  "classes": [
+    {
+      "title": "Práctico 1 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/4ZOppJMngQA",
+      "videos": null
+    },
+    {
+      "title": "Práctico 1 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/oKVA8VarKsw",
+      "videos": null
+    },
+    {
+      "title": "Práctico 2 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/IArsHwUdPlE",
+      "videos": null
+    },
+    {
+      "title": "Práctico 2 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/cV_6FCOwp5E",
+      "videos": null
+    },
+    {
+      "title": "Práctico 3 — primera clase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_05.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 3 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/BKKrsfwLvdQ",
+      "videos": null
+    },
+    {
+      "title": "Práctico 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_07.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 5",
+      "externalLink": "https://www.youtube.com/embed/dS8TffxfeDs",
+      "videos": null
+    },
+    {
+      "title": "Práctico 6 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/iC6eSyOBKbs",
+      "videos": null
+    },
+    {
+      "title": "Práctico 6 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/crdPBzBLvcQ",
+      "videos": null
+    },
+    {
+      "title": "Ejercicios de preparación 1er Parcial",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_11.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 7 — primera clase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_12.webm",
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_12.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 7 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/uglY7AwU1VI",
+      "videos": null
+    },
+    {
+      "title": "Práctico 8 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/4N4_zua1_E0",
+      "videos": null
+    },
+    {
+      "title": "Práctico 8 — segunda clase",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_15.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 9",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_16.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 10 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/ii_5jkdFxFk",
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/gal1p-2022/gal1p-2022_17.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 10 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/k0Ytpss50Y4",
+      "videos": null
+    },
+    {
+      "title": "Práctico 11 — primera clase",
+      "externalLink": "https://www.youtube.com/embed/CjJHKD3T--E",
+      "videos": null
+    },
+    {
+      "title": "Práctico 11 — segunda clase",
+      "externalLink": "https://www.youtube.com/embed/ow6bZecHaC0",
+      "videos": null
+    },
+    {
+      "title": "Práctico 12",
+      "externalLink": "https://www.youtube.com/embed/NDHwyCjWMxI",
+      "videos": null
+    },
+    {
+      "title": "Ejercicios de preparación 2do Parcial",
+      "externalLink": "https://www.youtube.com/embed/TDJiylTOEw4",
+      "videos": null
+    }
+  ]
+}

@@ -1,0 +1,1930 @@
+[
+  {
+    "name": "Administración General para Ingenieros",
+    "courseCode": "agpi",
+    "editions": {
+      "2017": [
+        {
+          "code": "agpi",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Algoritmos Evolutivos",
+    "courseCode": "ae",
+    "editions": {
+      "2015": [
+        {
+          "code": "ae",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Análisis Estadístico de Datos Climáticos",
+    "courseCode": "aedc",
+    "editions": {
+      "2021": [
+        {
+          "code": "aedc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Análisis y Diseño de Algoritmos Distribuidos en Redes",
+    "courseCode": "adadr",
+    "editions": {
+      "2021": [
+        {
+          "code": "adadr",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Antenas y Propagación",
+    "courseCode": "ayp",
+    "editions": {
+      "2019": [
+        {
+          "code": "ayp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aplicaciones de la Teoría de la Información al Procesamiento de Imágenes",
+    "courseCode": "atipi",
+    "editions": {
+      "2021": [
+        {
+          "code": "atipi",
+          "name": "Teórico"
+        },
+        {
+          "code": "atipip",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aplicaciones Solidarias Basadas en Sistemas de Gestión de Contenido",
+    "courseCode": "asbsgc",
+    "editions": {
+      "2020": [
+        {
+          "code": "asbsgc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aprendizaje Profundo para el Análisis de Imágenes Biomédicas",
+    "courseCode": "dlbioim",
+    "editions": {
+      "2022": [
+        {
+          "code": "dlbioim",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Arquitectura de Computadoras",
+    "courseCode": "ac",
+    "editions": {
+      "2014": [
+        {
+          "code": "ac",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "ac-2020p",
+          "name": "Práctico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "ac-2021r",
+          "name": "Repaso Teórico"
+        },
+        {
+          "code": "ac-2021l",
+          "name": "Laboratorio"
+        }
+      ],
+      "2022": [
+        {
+          "code": "arqcomp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bases de Datos No Relacionales",
+    "courseCode": "bdnr",
+    "editions": {
+      "2022": [
+        {
+          "code": "bdnr",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Biomecánica de la Rodilla en Rehabilitación y Deporte",
+    "courseCode": "brrd",
+    "editions": {
+      "2018": [
+        {
+          "code": "brrd",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo 1",
+    "courseCode": "c1",
+    "editions": {
+      "2013": [
+        {
+          "code": "c1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo 2",
+    "courseCode": "c2",
+    "editions": {
+      "2013": [
+        {
+          "code": "c2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo 3",
+    "courseCode": "c3",
+    "editions": {
+      "2015": [
+        {
+          "code": "c3",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo Diferencial e Integral en una Variable",
+    "courseCode": "civ",
+    "editions": {
+      "2017": [
+        {
+          "code": "civ",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "cdiv-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo Diferencial e Integral en Varias Variables",
+    "courseCode": "cdivv",
+    "editions": {
+      "2018": [
+        {
+          "code": "cdivv",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "cdivv-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cálculo Vectorial",
+    "courseCode": "calcvec",
+    "editions": {
+      "2018": [
+        {
+          "code": "calcvec",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Calidad de Datos e Información",
+    "courseCode": "cdi",
+    "editions": {
+      "2021": [
+        {
+          "code": "cdi",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Comportamiento Mecánico de Materiales 1",
+    "courseCode": "cmm1",
+    "editions": {
+      "2020": [
+        {
+          "code": "cmm1p",
+          "name": "Práctico"
+        },
+        {
+          "code": "cmm1e",
+          "name": "Ejercicios"
+        },
+        {
+          "code": "cmm1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Comportamiento Mecánico de Materiales 2",
+    "courseCode": "cmm2",
+    "editions": {
+      "2020": [
+        {
+          "code": "cmm2",
+          "name": "Teórico"
+        },
+        {
+          "code": "cmm2p",
+          "name": "Práctico"
+        },
+        {
+          "code": "cmm2l",
+          "name": "Laboratorio"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Compresión de Datos sin Pérdida",
+    "courseCode": "cdsp",
+    "editions": {
+      "2021": [
+        {
+          "code": "cdsp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Computación 1",
+    "courseCode": "comp1",
+    "editions": {
+      "2017": [
+        {
+          "code": "comp1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Computación de Alta Performance",
+    "courseCode": "hpc",
+    "editions": {
+      "2013": [
+        {
+          "code": "hpc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Computación Gráfica Avanzada",
+    "courseCode": "cga",
+    "editions": {
+      "2020": [
+        {
+          "code": "cga",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Construcción Formal de Programas en Teoría de Tipos",
+    "courseCode": "cfptt",
+    "editions": {
+      "2021": [
+        {
+          "code": "cfptt",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "cfptt-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Desarrollo de la Criptografía, con enfoque en Latino América",
+    "courseCode": "dc",
+    "editions": {
+      "2017": [
+        {
+          "code": "dc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Diseño de Circuitos Integrados CMOS Analógicos y Mixtos",
+    "courseCode": "cmosad",
+    "editions": {
+      "2022": [
+        {
+          "code": "cmosad",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Diseño Hidrológico",
+    "courseCode": "dh",
+    "editions": {
+      "2021": [
+        {
+          "code": "dh",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Diseño Lógico",
+    "courseCode": "dl",
+    "editions": {
+      "2015": [
+        {
+          "code": "dl",
+          "name": "Teórico"
+        },
+        {
+          "code": "dlp",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Economía",
+    "courseCode": "eco",
+    "editions": {
+      "2013": [
+        {
+          "code": "economia",
+          "name": "Teórico"
+        }
+      ],
+      "2017": [
+        {
+          "code": "eco",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ecuaciones Diferenciales",
+    "courseCode": "ed",
+    "editions": {
+      "2015": [
+        {
+          "code": "ed",
+          "name": "Teórico"
+        }
+      ],
+      "2019": [
+        {
+          "code": "ed19",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Edición de Tesis y Artículos Usando LaTeX",
+    "courseCode": "etal",
+    "editions": {
+      "2017": [
+        {
+          "code": "etal",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electromagnetismo",
+    "courseCode": "em",
+    "editions": {
+      "2016": [
+        {
+          "code": "em",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrónica 1",
+    "courseCode": "e1",
+    "editions": {
+      "2017": [
+        {
+          "code": "e1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrónica 2",
+    "courseCode": "e2",
+    "editions": {
+      "2016": [
+        {
+          "code": "e2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrónica Avanzada 1",
+    "courseCode": "ea1",
+    "editions": {
+      "2021": [
+        {
+          "code": "ea1",
+          "name": "Teórico"
+        },
+        {
+          "code": "ea1p",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrónica de Potencia",
+    "courseCode": "ep",
+    "editions": {
+      "2018": [
+        {
+          "code": "ep",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrónica Fundamental",
+    "courseCode": "ef",
+    "editions": {
+      "2019": [
+        {
+          "code": "ef",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "ef20p",
+          "name": "Práctico Viernes"
+        }
+      ],
+      "2021": [
+        {
+          "code": "elecfundp",
+          "name": "Práctico Viernes"
+        },
+        {
+          "code": "elecfund",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrotécnica",
+    "courseCode": "ie",
+    "editions": {
+      "2016": [
+        {
+          "code": "ie",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Electrotécnica 1",
+    "courseCode": "et1",
+    "editions": {
+      "2019": [
+        {
+          "code": "et1",
+          "name": "Teórico"
+        },
+        {
+          "code": "et1p",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Elementos de Máquinas",
+    "courseCode": "edm",
+    "editions": {
+      "2022": [
+        {
+          "code": "edm",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Elementos de Mecánica de los Fluidos",
+    "courseCode": "emf",
+    "editions": {
+      "2016": [
+        {
+          "code": "emf",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "El Negocio del Software",
+    "courseCode": "negsoftare",
+    "editions": {
+      "2020": [
+        {
+          "code": "negsoftare",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "negsoftare-2021",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Energía 1",
+    "courseCode": "en1",
+    "editions": {
+      "2020": [
+        {
+          "code": "en1",
+          "name": "Teórico"
+        }
+      ],
+      "2023": [
+        {
+          "code": "en1-2023",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Energía Solar Térmica",
+    "courseCode": "est",
+    "editions": {
+      "2013": [
+        {
+          "code": "est",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ensayos Eléctricos y Equipamiento de Media Tensión",
+    "courseCode": "eeemt",
+    "editions": {
+      "2020": [
+        {
+          "code": "eeemt",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Estimación y Predicción en Series Temporales",
+    "courseCode": "epst",
+    "editions": {
+      "2021": [
+        {
+          "code": "epst",
+          "name": "EPST"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Estructuras de Madera",
+    "courseCode": "estrm",
+    "editions": {
+      "2020": [
+        {
+          "code": "estrm",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Física 1",
+    "courseCode": "f1",
+    "editions": {
+      "2014": [
+        {
+          "code": "f1",
+          "name": "Teórico"
+        }
+      ],
+      "2018": [
+        {
+          "code": "f1-2018",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [],
+      "2022": [
+        {
+          "code": "f1-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Física 2",
+    "courseCode": "f2",
+    "editions": {
+      "2016": [
+        {
+          "code": "f2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Física 3",
+    "courseCode": "f3",
+    "editions": {
+      "2015": [
+        {
+          "code": "f3",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Física Experimental 1 y 2: Un Giro en la Enseñanza",
+    "courseCode": "fege",
+    "editions": {
+      "2017": [
+        {
+          "code": "fege",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Física Térmica",
+    "courseCode": "ft",
+    "editions": {
+      "2017": [
+        {
+          "code": "ft",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fundamentos de Aprendizaje Automático",
+    "courseCode": "fuaa",
+    "editions": {
+      "2021": [
+        {
+          "code": "fuaa",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fundamentos de Bases de Datos",
+    "courseCode": "fbd",
+    "editions": {
+      "2012": [
+        {
+          "code": "fbd",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "fbd-2020ct",
+          "name": "Consulta Teórico"
+        },
+        {
+          "code": "fbd-2020p",
+          "name": "Práctico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "fbd-2021",
+          "name": "Teórico-Práctico"
+        },
+        {
+          "code": "fbd-2021l",
+          "name": "Laboratorio"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fundamentos de Ingeniería de Software",
+    "courseCode": "fiso",
+    "editions": {
+      "2021": [
+        {
+          "code": "fiso",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fundamentos de la Seguridad Informática",
+    "courseCode": "fsi",
+    "editions": {
+      "2020": [
+        {
+          "code": "fsi",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fundamentos de Programación Entera",
+    "courseCode": "fpe",
+    "editions": {
+      "2021": [
+        {
+          "code": "fpe",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Generadores de Vapor",
+    "courseCode": "gv",
+    "editions": {
+      "2022": [
+        {
+          "code": "gv",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Geometría y Álgebra Lineal 1",
+    "courseCode": "gal1",
+    "editions": {
+      "2013": [
+        {
+          "code": "gal1",
+          "name": "Teórico"
+        }
+      ],
+      "2019": [
+        {
+          "code": "gal119",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "gal120",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "gal121",
+          "name": "Teórico"
+        },
+        {
+          "code": "gal121vp",
+          "name": "Videos Panorámicos"
+        }
+      ],
+      "2022": [
+        {
+          "code": "gal1-2022",
+          "name": "Teórico"
+        },
+        {
+          "code": "gal1p-2022",
+          "name": "Introducción al Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Geometría y Álgebra Lineal 2",
+    "courseCode": "gal2",
+    "editions": {
+      "2013": [
+        {
+          "code": "gal2",
+          "name": "Teórico"
+        }
+      ],
+      "2019": [
+        {
+          "code": "gal219",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gramáticas Formales para el Lenguaje Natural",
+    "courseCode": "gf",
+    "editions": {
+      "2016": [
+        {
+          "code": "gf",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hidrodinámica Naval",
+    "courseCode": "hn",
+    "editions": {
+      "2022": [
+        {
+          "code": "hn",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hormigón Estructural 2",
+    "courseCode": "he2",
+    "editions": {
+      "2020": [
+        {
+          "code": "he2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "IMAGINARY Conference 2018",
+    "courseCode": "imaginary",
+    "editions": {
+      "2018": [
+        {
+          "code": "imaginary18",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ingeniería Biomédica",
+    "courseCode": "ib",
+    "editions": {
+      "2017": [
+        {
+          "code": "ib",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iniciación a la Producción Audiovisual y Multimedia",
+    "courseCode": "ipam",
+    "editions": {
+      "2016": [
+        {
+          "code": "ipam-audiovisual",
+          "name": "Recursos Audiovisuales"
+        },
+        {
+          "code": "ipam",
+          "name": "Talleres"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Instalaciones Eléctricas",
+    "courseCode": "iiee",
+    "editions": {
+      "2020": [
+        {
+          "code": "iiee",
+          "name": "Teórico"
+        },
+        {
+          "code": "iieee",
+          "name": "Ejercicios Resueltos"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a Bases de Datos",
+    "courseCode": "introbd",
+    "editions": {
+      "2021": [
+        {
+          "code": "introbd",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Computación Gráfica",
+    "courseCode": "compgraf",
+    "editions": {}
+  },
+  {
+    "name": "Introducción a la Física Moderna",
+    "courseCode": "fm",
+    "editions": {
+      "2015": [
+        {
+          "code": "fm",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Ingeniería Biomédica",
+    "courseCode": "iib",
+    "editions": {
+      "2015": [
+        {
+          "code": "iib",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Ingeniería de Producción",
+    "courseCode": "iiprod",
+    "editions": {
+      "2021": [
+        {
+          "code": "iiprod",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Ingeniería de Software",
+    "courseCode": "iis",
+    "editions": {
+      "2019": [
+        {
+          "code": "iis19",
+          "name": "Teórico"
+        },
+        {
+          "code": "cis",
+          "name": "Ciclos de charlas Ingeniería de Software"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Ingeniería Química",
+    "courseCode": "introiq-2022",
+    "editions": {
+      "2022": [
+        {
+          "code": "introiq-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Investigación de Operaciones",
+    "courseCode": "iio",
+    "editions": {
+      "2014": [
+        {
+          "code": "iio",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "iiop",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Teoría de Control",
+    "courseCode": "tc",
+    "editions": {
+      "2016": [
+        {
+          "code": "tc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a la Teoría de la Información",
+    "courseCode": "iti",
+    "editions": {
+      "2020": [
+        {
+          "code": "iti",
+          "name": "Teórico"
+        },
+        {
+          "code": "iti21",
+          "name": "Complementarias"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción a los Microprocesadores",
+    "courseCode": "imp",
+    "editions": {
+      "2015": [
+        {
+          "code": "imp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Introducción al Procesamiento de Lenguaje Natural",
+    "courseCode": "pln",
+    "editions": {
+      "2016": [
+        {
+          "code": "pln",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lógica",
+    "courseCode": "logica",
+    "editions": {
+      "2013": [
+        {
+          "code": "logica",
+          "name": "Teórico"
+        }
+      ],
+      "2019": [
+        {
+          "code": "logica19",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Máquinas Eléctricas",
+    "courseCode": "maqel",
+    "editions": {
+      "2020": [
+        {
+          "code": "maqel",
+          "name": "Teórico"
+        },
+        {
+          "code": "maqelp",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Matemática 2",
+    "courseCode": "mat2",
+    "editions": {
+      "2022": [
+        {
+          "code": "mat2t",
+          "name": "Teórico"
+        },
+        {
+          "code": "mat2p",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Matemática Discreta 1",
+    "courseCode": "md1",
+    "editions": {
+      "2013": [
+        {
+          "code": "md1",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "md1-2020",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "md1-2021",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "md1-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Matemática Discreta 2",
+    "courseCode": "md2",
+    "editions": {
+      "2014": [
+        {
+          "code": "md2",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "md2-2021",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mecánica Aplicada",
+    "courseCode": "mecap",
+    "editions": {
+      "2020": [
+        {
+          "code": "mecap",
+          "name": "Teórico"
+        },
+        {
+          "code": "mecapp",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mecánica Newtoniana",
+    "courseCode": "mecn",
+    "editions": {
+      "2016": [
+        {
+          "code": "mecn",
+          "name": "Teórico"
+        }
+      ],
+      "2023": [
+        {
+          "code": "mecn-2023",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Métodos Numéricos",
+    "courseCode": "metn",
+    "editions": {
+      "2015": [
+        {
+          "code": "metn",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Modelado Cuantitativo para Problemas de Producción",
+    "courseCode": "mcpp",
+    "editions": {
+      "2020": [
+        {
+          "code": "mcpp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Muestreo y Procesamiento Digital de Señales",
+    "courseCode": "mpd",
+    "editions": {
+      "2015": [
+        {
+          "code": "mpd",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Núcleo de Red de Telecomunicaciones",
+    "courseCode": "nr",
+    "editions": {
+      "2017": [
+        {
+          "code": "nr",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Optimización bajo Incertidumbre",
+    "courseCode": "optincert",
+    "editions": {
+      "2022": [
+        {
+          "code": "optincert",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Paralelización de Aplicaciones de Alto Rendimiento Utilizando Arquitecturas Híbridas",
+    "courseCode": "paar",
+    "editions": {
+      "2019": [
+        {
+          "code": "paar",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Planificación de Sistemas Computacionales: Cluster, Grid y Cloud",
+    "courseCode": "psc",
+    "editions": {
+      "2015": [
+        {
+          "code": "psc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Práctica de Administración Para Ingenieros",
+    "courseCode": "PAI",
+    "editions": {
+      "2022": [
+        {
+          "code": "PAI",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Principios de Química General",
+    "courseCode": "pqg",
+    "editions": {
+      "2019": [
+        {
+          "code": "pqg",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Probabilidad y Estadística",
+    "courseCode": "pye",
+    "editions": {
+      "2014": [
+        {
+          "code": "pye",
+          "name": "Teórico"
+        }
+      ],
+      "2018": [
+        {
+          "code": "pye18",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "pye-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Procesadores Multicore Masivos",
+    "courseCode": "pmm",
+    "editions": {
+      "2015": [
+        {
+          "code": "pmm",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Procesamiento digital de señales de audio",
+    "courseCode": "audiodsp",
+    "editions": {
+      "2022": [
+        {
+          "code": "audiodsp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación 1",
+    "courseCode": "p1",
+    "editions": {
+      "2016": [
+        {
+          "code": "p1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación 2",
+    "courseCode": "p2",
+    "editions": {
+      "2015": [
+        {
+          "code": "p2",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "p2r",
+          "name": "Resumen de Teórico"
+        },
+        {
+          "code": "p2p",
+          "name": "Práctico"
+        },
+        {
+          "code": "p2l",
+          "name": "Laboratorio"
+        },
+        {
+          "code": "p2h",
+          "name": "Herramientas"
+        }
+      ],
+      "2022": [
+        {
+          "code": "p2r-2022-2",
+          "name": "Resumen de Teórico"
+        }
+      ],
+      "2023": [
+        {
+          "code": "p2-2023",
+          "name": "Teórico"
+        },
+        {
+          "code": "p2l-2023",
+          "name": "Laboratorio"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación 3",
+    "courseCode": "p3",
+    "editions": {
+      "2015": [
+        {
+          "code": "p3",
+          "name": "Teórico"
+        }
+      ],
+      "2017": [
+        {
+          "code": "p3-2017",
+          "name": "Teórico"
+        }
+      ],
+      "2018": [
+        {
+          "code": "prog3-2018",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "prog3-2020",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "prog3e",
+          "name": "Resolución de Ejercicios"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación 4",
+    "courseCode": "p4",
+    "editions": {
+      "2016": [
+        {
+          "code": "p4",
+          "name": "Teórico"
+        },
+        {
+          "code": "p4p",
+          "name": "Práctico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación Lógica",
+    "courseCode": "pl",
+    "editions": {
+      "2016": [
+        {
+          "code": "pl",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Programación para Ingeniería Eléctrica",
+    "courseCode": "pie",
+    "editions": {
+      "2018": [
+        {
+          "code": "pie",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Recuperación de Información y Recomendaciones en la Web",
+    "courseCode": "webir",
+    "editions": {
+      "2020": [
+        {
+          "code": "webir",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Red de Acceso",
+    "courseCode": "red_de_acceso",
+    "editions": {
+      "2021": [
+        {
+          "code": "red_de_acceso",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Redes de Computadoras",
+    "courseCode": "redes",
+    "editions": {
+      "2013": [
+        {
+          "code": "redes",
+          "name": "Teórico"
+        }
+      ],
+      "2020": [
+        {
+          "code": "redes-2020",
+          "name": "Teórico-Práctico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "redes-2021",
+          "name": "Teórico-Práctico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "redes-2022",
+          "name": "Laboratorio"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Redes de Datos",
+    "courseCode": "rd",
+    "editions": {
+      "2016": [
+        {
+          "code": "rd",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Redes de Datos 2",
+    "courseCode": "redes2",
+    "editions": {
+      "2023": [
+        {
+          "code": "redes2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Señales y Sistemas",
+    "courseCode": "seys",
+    "editions": {
+      "2021": [
+        {
+          "code": "seys",
+          "name": "Teórico"
+        }
+      ],
+      "2022": [
+        {
+          "code": "seys-practico",
+          "name": "Práctico"
+        },
+        {
+          "code": "seys-2022",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sistemas de Información para el Análisis de Grandes Volúmenes de Datos",
+    "courseCode": "granvoldat",
+    "editions": {
+      "2021": [
+        {
+          "code": "granvoldat",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sistemas Embebidos para Tiempo Real",
+    "courseCode": "sisem",
+    "editions": {
+      "2021": [
+        {
+          "code": "sisem",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sistemas Lineales 1",
+    "courseCode": "sl1",
+    "editions": {
+      "2016": [
+        {
+          "code": "sl1",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sistemas Lineales 2",
+    "courseCode": "sl2",
+    "editions": {
+      "2014": [
+        {
+          "code": "sl2",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sistemas Operativos",
+    "courseCode": "so",
+    "editions": {
+      "2014": [
+        {
+          "code": "sop",
+          "name": "Práctico"
+        },
+        {
+          "code": "so21s1",
+          "name": "Clases 1er semestre 2021"
+        },
+        {
+          "code": "so",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Subestaciones de Media Tensión",
+    "courseCode": "submt",
+    "editions": {
+      "2021": [
+        {
+          "code": "submt",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Taller de Aprendizaje Automático",
+    "courseCode": "taa",
+    "editions": {
+      "2022": [
+        {
+          "code": "taa",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Taller de Introducción a las Ciencias de la Atmósfera",
+    "courseCode": "tica",
+    "editions": {
+      "2021": [
+        {
+          "code": "tica",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Taller de Programación",
+    "courseCode": "tp",
+    "editions": {
+      "2016": [
+        {
+          "code": "tp",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Taller de Sistemas Ciber Físicos",
+    "courseCode": "tsc-f",
+    "editions": {
+      "2021": [
+        {
+          "code": "tsc-f",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Talleres de Matemática en UDeLaR",
+    "courseCode": "tmu",
+    "editions": {
+      "2020": [
+        {
+          "code": "tmu",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tecnologías de Redes y Servicios de Telecomunicaciones",
+    "courseCode": "trst",
+    "editions": {
+      "2021": [
+        {
+          "code": "trst",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Teoría, Algoritmos y Aplicaciones de Gestión Logística",
+    "courseCode": "taagl",
+    "editions": {
+      "2020": [
+        {
+          "code": "taagl",
+          "name": "Teórico"
+        }
+      ],
+      "2021": [
+        {
+          "code": "taagl-2021c",
+          "name": "Presentaciones Invitadas"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Teoría de Circuitos",
+    "courseCode": "teocirc",
+    "editions": {
+      "2018": [
+        {
+          "code": "teocirc",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Teoría del Buque",
+    "courseCode": "tdb",
+    "editions": {
+      "2021": [
+        {
+          "code": "tdb",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Teoría de Lenguajes",
+    "courseCode": "tl",
+    "editions": {
+      "2014": [
+        {
+          "code": "tl",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "VI Coloquio de Matemática",
+    "courseCode": "cmat",
+    "editions": {
+      "2017": [
+        {
+          "code": "cmat2017",
+          "name": "Teórico"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Workshop en Sistemas Ciber-Físicos 2022",
+    "courseCode": "wscf2022",
+    "editions": {
+      "2022": [
+        {
+          "code": "wscf2022",
+          "name": "Charlas"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Workshop on Groups, Geometry and Dynamics, July 2018",
+    "courseCode": "workshop-ggd",
+    "editions": {
+      "2018": [
+        {
+          "code": "workshop-ggd",
+          "name": "Teórico"
+        }
+      ]
+    }
+  }
+]

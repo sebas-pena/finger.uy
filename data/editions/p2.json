@@ -1,0 +1,124 @@
+{
+  "classes": [
+    {
+      "title": "Introducción y Programas en C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_01.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_01.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a C",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_02.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_02.mp4"
+      ]
+    },
+    {
+      "title": "Recursión (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_03.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_03.mp4"
+      ]
+    },
+    {
+      "title": "Recursión (parte 2)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_04.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_04.mp4"
+      ]
+    },
+    {
+      "title": "Tipos Inductivos (Recursivos). Estructuras Dinámicas: Punteros y Listas",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_05.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_05.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras Lineales en Memoria Dinámica. Estructuras Arborescentes (parte 1)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_06.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_06.mp4"
+      ]
+    },
+    {
+      "title": "Estructuras Arborescentes (parte 2). Introducción al Análisis de Algoritmos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_07.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_07.mp4"
+      ]
+    },
+    {
+      "title": "Análisis de Algoritmos Iterativos y Recursivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_08.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_08.mp4"
+      ]
+    },
+    {
+      "title": "Introducción a Tipos Abstractos de Datos (TADs)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_09.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_09.mp4"
+      ]
+    },
+    {
+      "title": "TADs Lineales: Lista, Pila, Cola",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_10.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_10.mp4"
+      ]
+    },
+    {
+      "title": "Colecciones (parte 1): Conjuntos, Diccionarios y Colas de Prioridad",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_11.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_11.mp4"
+      ]
+    },
+    {
+      "title": "Colecciones (parte 2): Hash, Multisets y Tablas (Funciones Parciales)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_12.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_12.mp4"
+      ]
+    },
+    {
+      "title": "TAD Árbol. AVL.",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_13.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_13.mp4"
+      ]
+    },
+    {
+      "title": "Introducción al Diseño de TADs",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_14.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_14.mp4"
+      ]
+    },
+    {
+      "title": "Multiestructuras",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/p2/p2_15.webm",
+        "https://openfing-video.fing.edu.uy/media/p2/p2_15.mp4"
+      ]
+    }
+  ]
+}

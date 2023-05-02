@@ -1,0 +1,158 @@
+{
+  "classes": [
+    {
+      "title": "Introducción",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_01.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores Insesgados de Mínima Varianza",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_02.mp4"
+      ]
+    },
+    {
+      "title": "Cota de Cramer - Rao",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_03.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores MVU, caso lineal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_04.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores BLUE",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_05.mp4"
+      ]
+    },
+    {
+      "title": "Práctico MVU",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_06.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores de máxima verosimilitud (MLE)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_07.mp4"
+      ]
+    },
+    {
+      "title": "Estimadores Bayesianos  Máximo a Posteriori (MAP)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_08.mp4"
+      ]
+    },
+    {
+      "title": "Práctico MLE y MAP",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_09.mp4"
+      ]
+    },
+    {
+      "title": "Procesos estocásticos, clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_10.mp4"
+      ]
+    },
+    {
+      "title": "Procesos estocásticos, clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_11.mp4"
+      ]
+    },
+    {
+      "title": "Procesos estocásticos, clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_12.mp4"
+      ]
+    },
+    {
+      "title": "Práctico 4, Modelos Autoregresivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_13.mp4"
+      ]
+    },
+    {
+      "title": "Filtros de Wiener",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_14.mp4"
+      ]
+    },
+    {
+      "title": "Practico de filtros de Wiener",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_15.mp4"
+      ]
+    },
+    {
+      "title": "Filtros Adaptivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_16.mp4"
+      ]
+    },
+    {
+      "title": "Filtro LMS",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_17.mp4"
+      ]
+    },
+    {
+      "title": "Práctico de filtros adaptivos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_18.mp4"
+      ]
+    },
+    {
+      "title": "Filtro de Kalman, clase 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_19.mp4"
+      ]
+    },
+    {
+      "title": "Filtro de Kalman, clase 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_20.mp4"
+      ]
+    },
+    {
+      "title": "Filtro de Kalman, clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_21.mp4"
+      ]
+    },
+    {
+      "title": "Práctico de Filtro de Kalman",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/epst/epst_22.mp4"
+      ]
+    }
+  ]
+}

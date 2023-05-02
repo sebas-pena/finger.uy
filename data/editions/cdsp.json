@@ -1,0 +1,137 @@
+{
+  "classes": [
+    {
+      "title": "Modelo de Información",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_01.mp4"
+      ]
+    },
+    {
+      "title": "Bases de Teoría de la Información",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_02.mp4"
+      ]
+    },
+    {
+      "title": "Codificación para Distribuciones Conocidas - 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_03.mp4"
+      ]
+    },
+    {
+      "title": "Codificación para Distribuciones Conocidas - 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_04.mp4"
+      ]
+    },
+    {
+      "title": "Procesos estocásticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_05.mp4"
+      ]
+    },
+    {
+      "title": "Tasa de Entropía Empírica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_06.mp4"
+      ]
+    },
+    {
+      "title": "Algoritmo LZ77",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_07.mp4"
+      ]
+    },
+    {
+      "title": "LZ78 - parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_08.mp4"
+      ]
+    },
+    {
+      "title": "LZ78 - parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_09.mp4"
+      ]
+    },
+    {
+      "title": "Código de Shannon-Fano-Elias",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_10.mp4"
+      ]
+    },
+    {
+      "title": "Codificación Aritmética",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_11.mp4"
+      ]
+    },
+    {
+      "title": "Codificación Aritmética (Largo de Código)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_12.mp4"
+      ]
+    },
+    {
+      "title": "Codificación Universal (Enumerativa, Laplace, Mezcla uniforme)",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_13.mp4"
+      ]
+    },
+    {
+      "title": "Aproximación de REG vía fórmula de Stirling",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_14.mp4"
+      ]
+    },
+    {
+      "title": "Krichevsky-Trofimov y NML",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_15.mp4"
+      ]
+    },
+    {
+      "title": "Arrepentimiento min-max",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_16.mp4"
+      ]
+    },
+    {
+      "title": "Cota de Rissanen",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_17.mp4"
+      ]
+    },
+    {
+      "title": "Códigos de Golomb - Parte 1",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_18.mp4"
+      ]
+    },
+    {
+      "title": "Códigos de Golomb - Parte 2",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/cdsp/cdsp_19.mp4"
+      ]
+    }
+  ]
+}
