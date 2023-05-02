@@ -14,7 +14,7 @@ const CourseVideoPlayer = ({ classes, courseData, edition }) => {
         {
           classData.videos == null
             ? <iframe width="420" height="315" className="w-full h-full aspect-video" src={classData.externalLink} />
-            : <VideoPlayer src={classData.videos[0]} />
+            : <VideoPlayer src={classData.videos} />
         }
       </div>
       <aside className="md:max-w-xs flex flex-col md:max-h-[calc(100vh_-_64px)] md:overflow-y-auto">
