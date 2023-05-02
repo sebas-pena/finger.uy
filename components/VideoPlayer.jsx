@@ -51,7 +51,6 @@ const VideoPlayer = ({ src, muted }) => {
         setIsWaiting(false)
         if (!element.buffered || !progressRef.current) return
         const duration = element.duration
-        console.log(element.currentTime)
         setDurationSec(duration)
         setElapsedSec(element.currentTime)
         if (progressRef && duration > 0) {

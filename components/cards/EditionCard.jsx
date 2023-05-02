@@ -1,10 +1,10 @@
 import Link from 'next/link'
 import React from 'react'
 
-const EditionCard = ({ edition, year, courseCode }) => {
+const EditionCard = ({ edition, year }) => {
   return (
     <Link
-      href={`/openfing/watch/${edition.code}`}
+      href={`/openfing/watch/${edition.code}/0`}
       className="block px-5 py-3 rounded-xl bg-mine-shaft-50 hover:bg-mine-shaft-100 duration-100"
     >
       <p className="font-semibold text-mine-shaft-900">

@@ -5,18 +5,27 @@ import CourseVideoPlayer from "@/components/ui/CourseVideoPlayer"
 export const dynamicParams = false
 
 export async function generateStaticParams() {
-  const hostPaths = (await getAllEditionsCodes()).map((editionCode) => ({
-    edition: editionCode,
-  }))
-  return hostPaths
+  const editionsCodes = await getAllEditionsCodes()
+  const paths = [] 
+
+  for (const edition of editionsCodes) {
+    const { classes } = await getEditionByCode(edition)
+    classes.map((classe, i) => {
+      paths.push({
+        edition,
+        num: i.toString()
+      })
+    })
+  }
+  return paths
 }
 
 const PostPage = async ({ params }) => {
-  const { edition } = params;
+  const { edition, num } = params;
   const courseData = getCourseByEditionCode(edition)
   const { classes } = await getEditionByCode(edition)
   return (
-    <CourseVideoPlayer courseData={courseData} classes={classes} edition={edition} />
+    <CourseVideoPlayer courseData={courseData} num={num} classes={classes} edition={edition} />
   )
 }
 
