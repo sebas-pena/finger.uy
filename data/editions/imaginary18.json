@@ -15,6 +15,22 @@
         "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_02.webm",
         "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_02.mp4"
       ]
+    },
+    {
+      "title": "Clase 3",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_03.webm",
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_03.mp4"
+      ]
+    },
+    {
+      "title": "Clase 4",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_04.webm",
+        "https://openfing-video.fing.edu.uy/media/imaginary18/imaginary18_04.mp4"
+      ]
     }
   ]
 }
