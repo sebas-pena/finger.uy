@@ -1,0 +1,39 @@
+{
+  "classes": [
+    {
+      "title": "Semántica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/intropln/intropln_01.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Formal",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/intropln/intropln_02.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Léxica",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/intropln/intropln_03.mp4"
+      ]
+    },
+    {
+      "title": "Semántica Léxica Computacional",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/intropln/intropln_04.mp4"
+      ]
+    },
+    {
+      "title": "Roles Semánticos",
+      "externalLink": null,
+      "videos": [
+        "https://openfing-video.fing.edu.uy/media/intropln/intropln_05.mp4"
+      ]
+    }
+  ]
+}
