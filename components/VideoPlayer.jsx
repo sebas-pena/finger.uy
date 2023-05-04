@@ -206,6 +206,7 @@ const VideoPlayer = ({ src, muted }) => {
             <div className={`${showSpeedOptions ? 'visible' : 'hidden'} absolute flex flex-col bg-white w-full bottom-full rounded-sm overflow-hidden`}>
               <SpeedButton onClick={() => handleSetPlaybackRate(0.5)} speed={0.5} />
               <SpeedButton onClick={() => handleSetPlaybackRate(1)} speed={1} />
+              <SpeedButton onClick={() => handleSetPlaybackRate(1.5)} speed={1.5} />
               <SpeedButton onClick={() => handleSetPlaybackRate(2)} speed={2} />
               <SpeedButton onClick={() => handleSetPlaybackRate(3)} speed={3} />
             </div>
