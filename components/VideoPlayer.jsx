@@ -5,6 +5,7 @@ import PlayIcon from './icons/PlayIcon'
 import { secondsToMinutes } from '@/lib/time'
 import FullScreenIcon from './icons/FullScreenIcon'
 import Spinner from './icons/Spinner'
+import DownloadIcon from './icons/DownloadIcon'
 
 const VideoPlayer = ({ src, muted }) => {
   const [isWaiting, setIsWaiting] = useState(false)
@@ -151,6 +152,7 @@ const VideoPlayer = ({ src, muted }) => {
 
   const elapsedSecString = secondsToMinutes(elapsedSec)
   const durationSecString = secondsToMinutes(durationSec)
+  const currentSrc = videoRef.current?.currentSrc
   return (
     <div
       className="relative cursor-pointer aspect-video bg-black flex flex-col items-center w-full h-full overflow-hidden"
@@ -194,6 +196,12 @@ const VideoPlayer = ({ src, muted }) => {
           </p>
         </div>
         <div className="inline-flex gap-2 items-center">
+          {
+            currentSrc &&
+            <a className="hover:bg-[#c1c1c199] rounded-full p-1" href={currentSrc} target="_blank">
+              <DownloadIcon width={16} height={16} fill="#fff" />
+            </a>
+          }
           <div className="relative">
             <div className={`${showSpeedOptions ? 'visible' : 'hidden'} absolute flex flex-col bg-white w-full bottom-full rounded-sm overflow-hidden`}>
               <SpeedButton onClick={() => handleSetPlaybackRate(0.5)} speed={0.5} />
