@@ -2,9 +2,12 @@ import Link from 'next/link'
 import Logo from './Logo'
 import SimpleButton from './buttons/SimpleButton'
 import NavLink from './links/NavLink'
-import LinkToOpenfing from './links/LinkToOpenFing'
 
 const LINKS = [
+  {
+    href: '/openfing',
+    text: 'OpenFing'
+  }
 ]
 
 const Header = () => {
@@ -26,11 +29,6 @@ const Header = () => {
                 </li>
               ))
             }
-            <li>
-              <LinkToOpenfing type="navlink">
-                OpenFING
-              </LinkToOpenfing>
-            </li>
             <li>
               <SimpleButton
                 asLink

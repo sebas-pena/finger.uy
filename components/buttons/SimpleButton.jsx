@@ -6,12 +6,12 @@ const SIZES = {
   large: 'px-5 py-2 text-lg'
 }
 
-const SimpleButton = ({ size = 'small', asLink, className, children, href, target }) => {
+const SimpleButton = ({ size = 'small', asLink, className, children, href, target, onClick }) => {
   const styles = `${SIZES[size]} rounded-md font-semibold text-white bg-blue-500 hover:bg-blue-600 duration-100`
   return (
     asLink
       ? <Link href={href} className={`${styles} ${className}`} target={target}>{children}</Link>
-      : <button className={`${styles} ${className}`}>{children}</button>
+      : <button onClick={onClick} className={`${styles} ${className}`}>{children}</button>
   )
 }
 
