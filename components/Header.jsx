@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Logo from './Logo'
 import SimpleButton from './buttons/SimpleButton'
 import NavLink from './links/NavLink'
-import LinkToOpenfing from './openfing/LinkToOpenfing'
+import LinkToOpenfing from './links/LinkToOpenFing'
 
 const LINKS = [
 ]

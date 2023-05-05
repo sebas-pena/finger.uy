@@ -1,4 +1,4 @@
-import LinkToOpenfing from '@/components/openfing/LinkToOpenfing'
+import LinkToOpenfing from '@/components/links/LinkToOpenFing'
 import Image from 'next/image'
 
 export default function Home () {
