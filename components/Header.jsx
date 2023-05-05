@@ -2,12 +2,9 @@ import Link from 'next/link'
 import Logo from './Logo'
 import SimpleButton from './buttons/SimpleButton'
 import NavLink from './links/NavLink'
+import LinkToOpenfing from './openfing/LinkToOpenfing'
 
 const LINKS = [
-  {
-    href: '/openfing',
-    text: 'OpenFing'
-  }
 ]
 
 const Header = () => {
@@ -22,13 +19,18 @@ const Header = () => {
           <ul className="inline-flex gap-4 list-none">
             {
               LINKS.map(({ href, text }) => (
-                <li>
-                  <NavLink href={href} key={href}>
+                <li key={href}>
+                  <NavLink href={href}>
                     {text}
                   </NavLink>
                 </li>
               ))
             }
+            <li>
+              <LinkToOpenfing type="navlink">
+                OpenFING
+              </LinkToOpenfing>
+            </li>
             <li>
               <SimpleButton
                 asLink
