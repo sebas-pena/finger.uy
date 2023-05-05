@@ -1,4 +1,4 @@
-import SimpleButton from '@/components/buttons/SimpleButton'
+import LinkToOpenfing from '@/components/links/LinkToOpenFing'
 import Image from 'next/image'
 
 export default function Home () {
@@ -9,9 +9,9 @@ export default function Home () {
         Aprende sin interrupciones,<br/>
         estudia sin limitaciones.
       </h2>
-      <SimpleButton asLink href="/openfing" size="medium">
+      <LinkToOpenfing type="button">
         Ver OpenFing
-      </SimpleButton>
+      </LinkToOpenfing>
     </main>
   )
 }
